@@ -28,8 +28,7 @@ speed: 1400
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/resistance-is-futile.svg
 invert: true
-stopAt: text1-8
-speed: 2400
+speed: 1400
 ---
 
 ---
@@ -37,7 +36,7 @@ customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/resistance-is-futile.svg
 invert: true
 startAt: text1-5
-speed: 2400
+speed: 1400
 ---
 
 ---

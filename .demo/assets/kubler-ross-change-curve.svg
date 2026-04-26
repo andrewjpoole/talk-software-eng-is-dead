@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.228598"
-     inkscape:cx="822.48219"
-     inkscape:cy="261.68038"
+     inkscape:cx="822.48221"
+     inkscape:cy="261.68039"
      inkscape:window-width="2848"
      inkscape:window-height="1667"
      inkscape:window-x="3332"
@@ -192,6 +192,7 @@
        d="m 303.10417,645.54078 c -0.26808,0.19011 -6.01734,11.82976 -6.13423,11.67922"
        sodipodi:nodetypes="cc" />
   </g>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="opacity:1;fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
      id="path6"
@@ -210,6 +211,7 @@
        x="-364.70981"
        y="706.4057"
        id="tspan6-5">Shock</tspan></text>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
      id="path6-3"
@@ -228,6 +230,7 @@
        x="-318.24368"
        y="784.17719"
        id="tspan6-2">Denial</tspan></text>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
      id="path6-0"
@@ -246,6 +249,7 @@
        x="-322.9183"
        y="866.6582"
        id="tspan6-1">Frustration</tspan></text>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
      id="path6-6"
@@ -264,11 +268,12 @@
        x="-62.622288"
        y="920.13446"
        id="tspan6-7">Depression</tspan></text>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
-     id="path6-6-8"
-     cx="138.70209"
-     cy="747.12518"
+     id="path6-9"
+     cx="36.721596"
+     cy="851.59082"
      rx="6.4097452"
      ry="5.799293" />
   <text
@@ -282,11 +287,12 @@
        x="45.251423"
        y="868.2478"
        id="tspan6-16">Experiment</tspan></text>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
-     id="path6-9"
-     cx="36.721596"
-     cy="851.59082"
+     id="path6-6-8"
+     cx="138.70209"
+     cy="747.12518"
      rx="6.4097452"
      ry="5.799293" />
   <text
@@ -300,6 +306,7 @@
        x="148.00027"
        y="761.75122"
        id="tspan6-8">Decision</tspan></text>
+  <!--Pause:UntilPlay-->
   <ellipse
      style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
      id="path6-6-5"

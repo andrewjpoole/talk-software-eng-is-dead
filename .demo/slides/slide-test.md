@@ -1,5 +1,5 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/rip-software-eng.svg
-speed: 1400
+filePath: .demo/assets/AnimateYourSvgFiles.svg
+speed: 600
 ---

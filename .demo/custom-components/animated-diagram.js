@@ -58,10 +58,35 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
   connectedCallback() {
     this._render();
+    this._onClickResume = (e) => {
+      if (this._waitingForManualResume) {
+        e.stopPropagation();
+        e.preventDefault();
+        this._waitingForManualResume = false;
+        this._play();
+      }
+    };
+    this.addEventListener('click', this._onClickResume);
+    this._onMediaKey = (e) => {
+      if (e.key === 'MediaPlayPause' && this._waitingForManualResume) {
+        e.preventDefault();
+        this._waitingForManualResume = false;
+        this._play();
+      }
+    };
+    document.addEventListener('keydown', this._onMediaKey, true);
   }
 
   disconnectedCallback() {
     this._cancelAnimation();
+    if (this._onClickResume) {
+      this.removeEventListener('click', this._onClickResume);
+      this._onClickResume = null;
+    }
+    if (this._onMediaKey) {
+      document.removeEventListener('keydown', this._onMediaKey, true);
+      this._onMediaKey = null;
+    }
     if (this._intersectionObserver) {
       this._intersectionObserver.disconnect();
       this._intersectionObserver = null;
@@ -538,12 +563,23 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       segment.el.style.transition = 'stroke-dashoffset 0.1s linear';
     });
 
+    const hasStart = startNodeIndex >= 0;
+    const hasStop = stopNodeIndex >= 0;
+    const effectiveStart = hasStart ? startNodeIndex : 0;
+    const effectiveStop = hasStop ? stopNodeIndex : nodes.length - 1;
+
     this._pausePoints = this._mapCommentsToPausePoints(
       this._pauseComments,
       drawablePositions,
       elementSegments,
-      this._duration
+      this._duration,
+      timeOffset,
+      effectiveStart,
+      effectiveStop
     );
+    if (this._pausePoints.length) {
+      console.log(`[AnimateSvg] ${this._pausePoints.length} pause point(s) configured`);
+    }
   }
 
   _resolveNodeRef(ref, nodes) {
@@ -759,23 +795,18 @@ class SimpleAnimateSvgComponent extends HTMLElement {
     };
   }
 
-  _mapCommentsToPausePoints(comments, drawables, segments, totalDuration) {
-    if (!comments || !comments.length) return [];
+  _mapCommentsToPausePoints(comments, drawables, segments, totalDuration, timeOffset, rangeStart, rangeStop) {
+    if (!comments || !comments.length || totalDuration <= 0) return [];
     const points = [];
 
     comments.forEach((comment) => {
       const indexBefore = drawables.filter((item) => item.index < comment.index).length;
-      let progress = 0;
-      if (segments.length && totalDuration > 0) {
-        if (indexBefore <= 0) {
-          progress = 0;
-        } else if (indexBefore >= segments.length) {
-          progress = 1;
-        } else {
-          const targetSegment = segments[indexBefore - 1];
-          progress = targetSegment ? targetSegment.endTime / totalDuration : 0;
-        }
-      }
+
+      if (indexBefore <= rangeStart || indexBefore > rangeStop) return;
+
+      const nextSeg = segments[indexBefore];
+      const progress = nextSeg ? (nextSeg.startTime - timeOffset) / totalDuration : 0;
+
       points.push({
         progress: Math.min(1, Math.max(0, progress)),
         type: comment.type,
@@ -926,22 +957,21 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
   _play() {
     if (!this._paths.length || this._isPlaying) return;
-    if (this._isFinished) {
+    console.log('[AnimateSvg] Starting animation');
+    if (this._isFinished && this._elapsedBeforePause >= this._duration) {
       this._reset();
     }
+    this._isFinished = false;
     this._cancelAnimation();
     this._isPlaying = true;
     this._startTime = performance.now() - this._elapsedBeforePause;
     const drawFrame = (time) => {
       if (!this._isPlaying) return;
       const elapsed = time - this._startTime;
-      if (elapsed >= this._duration) {
-        this._finish();
-        return;
-      }
-      const clampedElapsed = Math.max(0, elapsed);
+      const clampedElapsed = Math.max(0, Math.min(elapsed, this._duration));
       this._draw(clampedElapsed);
       let progress = clampedElapsed / this._duration;
+      // Check pause points BEFORE finish so a pause at progress=1 fires before _finish()
       while (
         this._currentPauseIndex < this._pausePoints.length &&
         this._pausePoints[this._currentPauseIndex].triggered
@@ -952,23 +982,60 @@ class SimpleAnimateSvgComponent extends HTMLElement {
         const pause = this._pausePoints[this._currentPauseIndex];
         if (!pause.triggered && progress >= pause.progress) {
           pause.triggered = true;
-          const pausedElapsed = Math.max(0, Math.min(elapsed, this._duration));
+          // Redraw at pause time: show everything up to (but not including) the next element
+          const pauseTime = pause.progress * this._duration;
+          // Find the first path entry at or after pauseTime and hide from there
+          let hideFromIdx = this._paths.length;
+          for (let i = 0; i < this._paths.length; i++) {
+            if (this._paths[i].startTime >= pauseTime) {
+              hideFromIdx = i;
+              break;
+            }
+          }
+          // Draw first, then fix up: hide elements that shouldn't be visible yet
+          this._draw(pauseTime);
+          this._currentSegmentIndex = hideFromIdx;
+          for (let i = hideFromIdx; i < this._paths.length; i++) {
+            const seg = this._paths[i];
+            if (seg.isText) {
+              seg.el.style.fillOpacity = '0';
+            } else if (seg.behavior === 'instant') {
+              seg.el.style.opacity = '0';
+            } else {
+              seg.el.style.strokeDasharray = `${seg.length} ${seg.length}`;
+              seg.el.style.strokeDashoffset = `${seg.length}`;
+              if (seg.finalFillOpacity !== undefined) {
+                seg.el.style.fillOpacity = '0';
+              }
+            }
+          }
+          const pausedElapsed = pauseTime;
           if (pause.type === 'timed') {
+            console.log(`[AnimateSvg] Pausing for ${pause.duration / 1000}s at ${Math.round(progress * 100)}%`);
             this._pause();
-            this._elapsedBeforePause = pausedElapsed;
+            this._elapsedBeforePause = Math.min(pausedElapsed, this._duration - 1);
             this._currentPauseIndex += 1;
             this._timedPauseTimeout = setTimeout(() => {
               this._timedPauseTimeout = null;
               this._play();
             }, pause.duration);
           } else {
+            console.log(`[AnimateSvg] Stopping at ${Math.round(progress * 100)}% — waiting for resume`);
             this._pause();
+            // Cap slightly below duration so resume doesn't immediately finish
+            this._elapsedBeforePause = Math.min(pausedElapsed, this._duration - 1);
+            this._currentPauseIndex += 1;
+            this._isFinished = false;
             this._waitingForManualResume = true;
             this._showControls(true);
             this._updatePlayButtonIcon();
           }
           return;
         }
+      }
+      if (elapsed >= this._duration) {
+        this._finish();
+        return;
       }
       this._animationFrameId = requestAnimationFrame(drawFrame);
     };
@@ -984,7 +1051,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       cancelAnimationFrame(this._animationFrameId);
       this._animationFrameId = null;
     }
-    this._elapsedBeforePause = performance.now() - this._startTime;
+    this._elapsedBeforePause = Math.min(performance.now() - this._startTime, this._duration - 1);
     this._updatePlayButtonIcon();
   }
 
@@ -1012,6 +1079,10 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
   _draw(currentTime) {
     const time = Math.max(0, Math.min(currentTime, this._duration));
+    // Reset segment index if rewinding
+    if (this._currentSegmentIndex > 0 && this._paths[this._currentSegmentIndex - 1]?.endTime > time) {
+      this._currentSegmentIndex = 0;
+    }
     while (
       this._currentSegmentIndex < this._paths.length &&
       time >= this._paths[this._currentSegmentIndex].endTime

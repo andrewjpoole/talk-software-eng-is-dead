@@ -23,6 +23,16 @@
           "path": ".demo/slides/slide-test.md"
         }
       ]
+    },
+    {
+      "id": "demo-mog9h3ta-7qlc",
+      "title": "Scene 3",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/slide-test2.md"
+        }
+      ]
     }
   ]
 }
