@@ -455,6 +455,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
           const segmentDuration = (length / effectiveSpeed) * 1000;
           const segmentStartTime = startTime;
           const segmentEndTime = segmentStartTime + segmentDuration;
+          const originalDasharray = computedStyle ? computedStyle.strokeDasharray : '';
           animEntries.push({
             el: node,
             length,
@@ -466,7 +467,8 @@ class SimpleAnimateSvgComponent extends HTMLElement {
             endTime: segmentEndTime,
             behavior: 'stroke',
             finalFillOpacity: computedStyle ? computedStyle.fillOpacity : '1',
-            finalOpacity: computedStyle ? computedStyle.opacity : '1'
+            finalOpacity: computedStyle ? computedStyle.opacity : '1',
+            originalDasharray
           });
           nodeDuration = segmentDuration;
           node.style.fillOpacity = '0';
@@ -583,6 +585,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
           seg.el.style.opacity = seg.finalOpacity ?? '1';
         } else {
           seg.el.style.strokeDashoffset = '0';
+          seg.el.style.strokeDasharray = seg.originalDasharray || 'none';
           if (seg.finalFillOpacity !== undefined) {
             seg.el.style.fillOpacity = seg.finalFillOpacity;
           }
@@ -1024,6 +1027,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
           segment.el.style.opacity = segment.finalOpacity ?? '1';
         } else {
           segment.el.style.strokeDashoffset = '0';
+          segment.el.style.strokeDasharray = segment.originalDasharray || 'none';
           if (segment.finalFillOpacity !== undefined) {
             segment.el.style.fillOpacity = segment.finalFillOpacity;
           }
@@ -1037,6 +1041,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
         } else if (segment.behavior === 'instant') {
           segment.el.style.opacity = '0';
         } else {
+          segment.el.style.strokeDasharray = `${segment.length} ${segment.length}`;
           segment.el.style.strokeDashoffset = `${segment.length}`;
           if (segment.finalFillOpacity !== undefined) {
             segment.el.style.fillOpacity = '0';
@@ -1059,6 +1064,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       const elapsedInSegment = Math.max(0, Math.min(segment.duration, time - segment.startTime));
       const segmentProgress = segment.duration > 0 ? elapsedInSegment / segment.duration : time >= segment.endTime ? 1 : 0;
       const offset = Math.max(segment.length * (1 - segmentProgress), 0);
+      segment.el.style.strokeDasharray = `${segment.length} ${segment.length}`;
       segment.el.style.strokeDashoffset = `${offset}`;
       if (segment.finalFillOpacity !== undefined) {
         segment.el.style.fillOpacity = '0';
