@@ -1,0 +1,7 @@
+{
+    "demoTime.defaultFileType": "json",
+    "demoTime.customWebComponents": [
+        ".demo/custom-components/animated-diagram.js",
+        ".demo/custom-components/highlight.js"
+    ]
+}

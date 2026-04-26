@@ -1,0 +1,46 @@
+---
+layout: intro
+---
+
+[intentionally blank...]
+
+---
+layout: intro
+---
+
+# Software engineering is dead! Long live software engineering.
+
+## Surviving and thriving in this brave new agentic era😅
+
+<br></br>
+
+#### **Andrew Poole** .. Senior Backend Engineer @ Flagstone
+
+andrewjpoole@gmail.com .. [forkinthecode.net](forkinthecode.net) .. [linkedin.com/in/andrew-poole-2782494a](linkedin.com/in/andrew-poole-2782494a)
+
+---
+customLayout: .demo/layouts/animated-diagram.html
+filePath: .demo/assets/rip-software-eng.svg
+speed: 1400
+---
+
+---
+customLayout: .demo/layouts/animated-diagram.html
+filePath: .demo/assets/resistance-is-futile.svg
+invert: true
+speed: 2400
+---
+
+---
+customLayout: .demo/layouts/animated-diagram.html
+filePath: .demo/assets/steve-yegges-levels.svg
+invert: true
+speed: 1200
+---
+
+---
+customLayout: .demo/layouts/animated-diagram.html
+filePath: .demo/assets/risk-spectrum.svg
+invert: true
+speed: 800
+---

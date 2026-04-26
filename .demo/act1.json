@@ -1,0 +1,28 @@
+{
+  "$schema": "https://demotime.show/demo-time.schema.json",
+  "title": "act1",
+  "description": "",
+  "version": 3,
+  "scenes": [
+    {
+      "id": "scene-mod4n3ls-1udn",
+      "title": "Scene 1",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/slide1-1.md"
+        }
+      ]
+    },
+    {
+      "id": "scene-modzsrjk-qyvi",
+      "title": "Scene 2",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/slide-test.md"
+        }
+      ]
+    }
+  ]
+}
