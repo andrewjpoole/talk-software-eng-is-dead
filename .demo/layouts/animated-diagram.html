@@ -12,5 +12,12 @@
         invert-colors="false"
     {{/if}}   
     
+    {{#if metadata.startAt}}
+        start-at="{{metadata.startAt}}"
+    {{/if}}
+    {{#if metadata.stopAt}}
+        stop-at="{{metadata.stopAt}}"
+    {{/if}}
+
     >
 </simple-animate-svg-component>

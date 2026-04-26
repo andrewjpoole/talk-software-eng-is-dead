@@ -11,7 +11,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -517,22 +520,22 @@
   <text
      xml:space="preserve"
      style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-350.99911"
-     y="644.41583"
+     x="-411.34763"
+     y="640.61768"
      id="text1-8"><tspan
        id="tspan1-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-350.99911"
-       y="644.41583"
+       x="-411.34763"
+       y="640.61768"
        sodipodi:role="line">Ours is not the first, </tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-350.99911"
-       y="684.7569"
+       x="-411.34763"
+       y="680.95874"
        sodipodi:role="line"
        id="tspan3">nor will it be the last industry </tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-350.99911"
-       y="725.09796"
+       x="-411.34763"
+       y="721.2998"
        sodipodi:role="line"
        id="tspan4">to be changed forever by AI</tspan></text>
   <text
@@ -549,18 +552,18 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-351.53177"
-     y="867.836"
+     x="-406.39404"
+     y="872.05615"
      id="text5"><tspan
        sodipodi:role="line"
        id="tspan5"
        style="stroke-width:19"
-       x="-351.53177"
-       y="867.836">We are the arbiters of change, </tspan><tspan
+       x="-406.39404"
+       y="872.05615">We are the arbiters of change, </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:19"
-       x="-351.53177"
-       y="907.836"
+       x="-406.39404"
+       y="912.05615"
        id="tspan6">not writers of code</tspan></text>
   <text
      xml:space="preserve"
@@ -578,4 +581,13 @@
        x="-438.71695"
        y="1010.6246"
        id="tspan7">earlier in the process</tspan></text>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Drawing 4</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

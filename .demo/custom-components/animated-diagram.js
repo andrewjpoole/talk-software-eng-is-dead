@@ -13,7 +13,9 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       'background-color',
       'border',
       'invert-colors',
-      'auto-play'
+      'auto-play',
+      'start-at',
+      'stop-at'
     ];
   }
 
@@ -50,6 +52,8 @@ class SimpleAnimateSvgComponent extends HTMLElement {
     this._currentSvgElement = null;
     this._isSvgRevealed = false;
     this._activeLoadController = null;
+    this._startAtRef = null;
+    this._stopAtRef = null;
   }
 
   connectedCallback() {
@@ -116,6 +120,8 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
     const speed = parseInt(this.getAttribute('animation-speed'), 10);
     this._speed = Number.isNaN(speed) ? 100 : Math.max(1, speed);
+    this._startAtRef = this.getAttribute('start-at') || null;
+    this._stopAtRef = this.getAttribute('stop-at') || null;
 
     this.style.display = 'inline-block';
     this.style.boxSizing = 'border-box';
@@ -387,12 +393,19 @@ class SimpleAnimateSvgComponent extends HTMLElement {
     const nodes = Array.from(
       svgEl.querySelectorAll('path, line, polyline, polygon, rect, circle, ellipse, text, image, use')
     );
+
+    // Resolve start-at / stop-at to node indices
+    const startNodeIndex = this._resolveNodeRef(this._startAtRef, nodes);
+    const stopNodeIndex = this._resolveNodeRef(this._stopAtRef, nodes);
+
     let cumulativeLength = 0;
     let cumulativeTime = 0;
     let hintIndex = 0;
     let currentMultiplier = 1;
     const animEntries = [];
     const elementSegments = [];
+    // Track which animEntries indices belong to each node
+    const nodeEntryRanges = [];
 
     nodes.forEach((node, idx) => {
       const tag = node.tagName.toLowerCase();
@@ -408,6 +421,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       const startTime = cumulativeTime;
       let length = 0;
       let nodeDuration = 0;
+      const entryStartIdx = animEntries.length;
 
       if (tag === 'text') {
         try {
@@ -480,15 +494,23 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       const endAt = cumulativeLength + length;
       const endTime = startTime + nodeDuration;
       elementSegments.push({ startAt, endAt, tag, startTime, endTime });
+      nodeEntryRanges.push({ entryStart: entryStartIdx, entryEnd: animEntries.length });
       cumulativeLength = endAt;
       cumulativeTime = endTime;
     });
 
+    // Apply start-at / stop-at range filtering
+    const { filteredEntries, timeOffset } = this._applyAnimationRange(
+      animEntries, nodes, nodeEntryRanges, startNodeIndex, stopNodeIndex
+    );
+
     this._totalLength = cumulativeLength > 0 ? cumulativeLength : 1;
-    this._paths = animEntries;
+    this._paths = filteredEntries;
     this._elementSegments = elementSegments;
     this._currentSegmentIndex = 0;
-    this._duration = cumulativeTime > 0 ? cumulativeTime : 2000;
+    this._duration = filteredEntries.length > 0
+      ? Math.max(filteredEntries[filteredEntries.length - 1].endTime, 0)
+      : 2000;
     if (!isFinite(this._duration) || this._duration <= 0) {
       this._duration = 2000;
     }
@@ -520,6 +542,84 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       elementSegments,
       this._duration
     );
+  }
+
+  _resolveNodeRef(ref, nodes) {
+    if (ref === null || ref === undefined) return -1;
+    // Try as numeric index first
+    const asNum = parseInt(ref, 10);
+    if (!Number.isNaN(asNum) && String(asNum) === ref.trim()) {
+      return asNum >= 0 && asNum < nodes.length ? asNum : -1;
+    }
+    // Otherwise treat as element ID
+    const idx = nodes.findIndex((n) => n.id === ref);
+    return idx;
+  }
+
+  _applyAnimationRange(animEntries, nodes, nodeEntryRanges, startNodeIndex, stopNodeIndex) {
+    const hasStart = startNodeIndex >= 0;
+    const hasStop = stopNodeIndex >= 0;
+
+    if (!hasStart && !hasStop) {
+      return { filteredEntries: animEntries, timeOffset: 0 };
+    }
+
+    const effectiveStart = hasStart ? startNodeIndex : 0;
+    const effectiveStop = hasStop ? stopNodeIndex : nodes.length - 1;
+
+    // Find the first anim entry index for the start node
+    const startRange = nodeEntryRanges[effectiveStart];
+    const timeOffset = startRange ? animEntries[startRange.entryStart]?.startTime || 0 : 0;
+
+    // Instantly reveal all nodes BEFORE the start node
+    for (let ni = 0; ni < effectiveStart; ni++) {
+      const range = nodeEntryRanges[ni];
+      for (let ei = range.entryStart; ei < range.entryEnd; ei++) {
+        const seg = animEntries[ei];
+        if (seg.isText) {
+          seg.el.style.fillOpacity = '1';
+          seg.el.style.transition = 'none';
+        } else if (seg.behavior === 'instant') {
+          seg.el.style.opacity = seg.finalOpacity ?? '1';
+        } else {
+          seg.el.style.strokeDashoffset = '0';
+          if (seg.finalFillOpacity !== undefined) {
+            seg.el.style.fillOpacity = seg.finalFillOpacity;
+          }
+        }
+      }
+    }
+
+    // Hide all nodes AFTER the stop node
+    for (let ni = effectiveStop + 1; ni < nodes.length; ni++) {
+      const range = nodeEntryRanges[ni];
+      for (let ei = range.entryStart; ei < range.entryEnd; ei++) {
+        const seg = animEntries[ei];
+        if (seg.isText) {
+          seg.el.style.fillOpacity = '0';
+          seg.el.style.transition = 'none';
+        } else if (seg.behavior === 'instant') {
+          seg.el.style.opacity = '0';
+        } else {
+          seg.el.style.fillOpacity = '0';
+          seg.el.style.opacity = '0';
+        }
+      }
+    }
+
+    // Collect only the entries in range and shift their times so animation starts at 0
+    const filteredEntries = [];
+    for (let ni = effectiveStart; ni <= effectiveStop; ni++) {
+      const range = nodeEntryRanges[ni];
+      for (let ei = range.entryStart; ei < range.entryEnd; ei++) {
+        const seg = { ...animEntries[ei] };
+        seg.startTime -= timeOffset;
+        seg.endTime -= timeOffset;
+        filteredEntries.push(seg);
+      }
+    }
+
+    return { filteredEntries, timeOffset };
   }
 
   _processTextElement(textEl, startAt, startTime, baseSpeed, multiplier) {
