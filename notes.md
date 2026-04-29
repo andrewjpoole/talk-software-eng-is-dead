@@ -52,7 +52,8 @@ Ideas: could it be a retrospective on AI? with an animated SVG retro board?
 	- the huge amount of noise, options, marketing hype
 	- github stars are useful
 	- your own experimentation is massively important
-	- don't try to read everything, just follow a few people, learn together, level eachother up, don't compete
+	- 
+	
 	
 - state of the art
 	- Gas town, Beads & Dolt, OpenSpec, Speckit, BMAD etc

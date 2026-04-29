@@ -103,7 +103,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
        x="-435.44122"
        y="573.16278"
-       sodipodi:role="line">TITLE</tspan></text>
+       sodipodi:role="line">PACE OF CHANGE</tspan></text>
   <g
      id="speech-bubble"
      opacity="1.000">
@@ -173,12 +173,14 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
      x="166.93118"
      y="891.94208"
-     id="speech-bubble-text"><tspan
+     id="speech-bubble-text">
+     <tspan
        sodipodi:role="line"
        style="stroke-width:19"
        x="166.93118"
        y="891.94208"
-       id="tspan7-8">quote</tspan></text>
+       id="tspan7-8">forget everything you thought you knew</tspan>
+   </text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -190,7 +192,7 @@
        x="-430.6044"
        y="669.44794"
        sodipodi:role="line"
-       id="tspan4">P1</tspan></text>
+       id="tspan4">the huge amount of noise, options, marketing hype</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -202,7 +204,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
        x="-430.6044"
        y="765.1756"
-       sodipodi:role="line">P2</tspan></text>
+       sodipodi:role="line">github stars are useful</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -214,7 +216,7 @@
        style="stroke-width:19"
        x="-430.6044"
        y="859.87921"
-       id="tspan6">P3</tspan></text>
+       id="tspan6">your own experimentation is massively important</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -226,5 +228,5 @@
        style="stroke-width:19"
        x="-430.6044"
        y="954.45483"
-       id="tspan7">P4</tspan></text>
+       id="tspan7">don't try to read everything, just follow a few people, learn together, level eachother up, don't compete</tspan></text>
 </svg>
