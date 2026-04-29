@@ -755,7 +755,10 @@ class SimpleAnimateSvgComponent extends HTMLElement {
           }
           // Get tspan style with parent as fallback for inherited properties
           const style = this._getTextStyle(child, parentStyle);
-          segments.push({ text: child.textContent || '', position, style });
+          // Strip XML formatting whitespace — line breaks are handled by x/y, not text content
+          const text = (child.textContent || '').replace(/[\r\n]/g, ' ').replace(/\s+/g, ' ').trim();
+          if (!text) return;
+          segments.push({ text, position, style });
           isFirstSegment = false;
         }
       });
