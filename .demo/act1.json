@@ -15,8 +15,148 @@
       ]
     },
     {
+      "id": "demo-mok987an-9lxt",
+      "title": "rip-software-eng",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/rip-software-eng.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mok99ihg-l2ds",
+      "title": "emotional-responses",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/resistance-is-futile.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mok9hn1o-l199",
+      "title": "emotional-responses-2",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/resistance-is-futile-2.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-kubler-1",
+      "title": "kubler-ross-change-curve",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/kubler-ross-change-curve.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-steve-1",
+      "title": "steve-yegges-levels",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/steve-yegges-levels.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-risk-1",
+      "title": "risk-spectrum",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/risk-spectrum.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-risk-2",
+      "title": "risk-spectrum-2",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/risk-spectrum-2.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-humans-1",
+      "title": "humans-still-nessecary",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/humans-still-nessecary.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-models-1",
+      "title": "models-and-tools-1",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/models-and-tools-1.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-pace-1",
+      "title": "pace-of-change",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/pace-of-change.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-productivity-1",
+      "title": "productivity-gains",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/productivity-gains.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-quebec-2",
+      "title": "quebec-bridge-2",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/quebec-bridge-2.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-quebec-1",
+      "title": "quebec-bridge",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/quebec-bridge.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-dark-1",
+      "title": "the-dark-side",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/the-dark-side.md"
+        }
+      ]
+    },
+    {
       "id": "scene-modzsrjk-qyvi",
-      "title": "Scene 2",
+      "title": "test1",
       "moves": [
         {
           "action": "openSlide",
@@ -26,7 +166,7 @@
     },
     {
       "id": "demo-mog9h3ta-7qlc",
-      "title": "Scene 3",
+      "title": "test2",
       "moves": [
         {
           "action": "openSlide",

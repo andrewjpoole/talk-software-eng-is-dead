@@ -3,7 +3,8 @@
     "demoTime.customWebComponents": [
         ".demo/custom-components/animated-diagram.js",
         ".demo/custom-components/highlight.js",
-        ".demo/custom-components/animated-diagram-v2.js"
+        ".demo/custom-components/animated-diagram-v2.js",
+        ".demo/custom-components/animated-diagram-v3.js"
     ],
     "svg.preview.background": "custom"
 }
