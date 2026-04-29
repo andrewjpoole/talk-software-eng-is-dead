@@ -2,7 +2,8 @@
     "demoTime.defaultFileType": "json",
     "demoTime.customWebComponents": [
         ".demo/custom-components/animated-diagram.js",
-        ".demo/custom-components/highlight.js"
+        ".demo/custom-components/highlight.js",
+        ".demo/custom-components/animated-diagram-v2.js"
     ],
     "svg.preview.background": "custom"
 }

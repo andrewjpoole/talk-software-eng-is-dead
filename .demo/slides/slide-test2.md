@@ -11,4 +11,3 @@ filePath: .demo/assets/quebec-bridge-2.svg
 invert: true
 speed: 800
 ---
-
