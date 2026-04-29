@@ -1,7 +1,7 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/resistance-is-futile.svg
+filePath: .demo/assets/template-1.svg
 invert: true
-speed: 1400
+speed: 800
 ---
 
