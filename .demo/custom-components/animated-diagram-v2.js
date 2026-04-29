@@ -249,7 +249,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       cumTime += nodeDur;
     });
 
-    const { filtered, timeOff } = this._applyRange(entries, nodes, ranges, startIdx, stopIdx);
+    const { filtered, timeOff, nodeFirstEntry } = this._applyRange(entries, nodes, ranges, startIdx, stopIdx);
     this._paths = filtered;
     this._revealed = 0;
     this._duration = filtered.length > 0 ? Math.max(filtered[filtered.length-1].endTime, 1) : 2000;
@@ -273,7 +273,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
     const effStart = startIdx >= 0 ? startIdx : 0;
     const effStop  = stopIdx  >= 0 ? stopIdx  : nodes.length - 1;
-    this._pauses = this._mapPauses(rawPauses, drawPos, segs, this._duration, timeOff, effStart, effStop);
+    this._pauses = this._mapPauses(rawPauses, drawPos, segs, this._duration, timeOff, effStart, effStop, nodeFirstEntry, filtered.length);
     if (this._pauses.length) console.log(`[AnimDiag] ${this._pauses.length} pause(s)`);
   }
 
@@ -285,7 +285,14 @@ class SimpleAnimateSvgComponent extends HTMLElement {
   }
 
   _applyRange(entries, nodes, ranges, startIdx, stopIdx) {
-    if (startIdx < 0 && stopIdx < 0) return { filtered: entries, timeOff: 0 };
+    // nodeFirstEntry[ni] = index into filtered array of the first entry for node ni
+    const nodeFirstEntry = [];
+
+    if (startIdx < 0 && stopIdx < 0) {
+      ranges.forEach((r, ni) => { nodeFirstEntry[ni] = r.s; });
+      return { filtered: entries, timeOff: 0, nodeFirstEntry };
+    }
+
     const effStart = startIdx >= 0 ? startIdx : 0;
     const effStop  = stopIdx  >= 0 ? stopIdx  : nodes.length - 1;
     const sr = ranges[effStart];
@@ -302,6 +309,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
     const filtered = [];
     for (let ni = effStart; ni <= effStop; ni++) {
+      nodeFirstEntry[ni] = filtered.length;
       const { s, e } = ranges[ni];
       for (let i = s; i < e; i++) {
         const seg = { ...entries[i] };
@@ -309,7 +317,7 @@ class SimpleAnimateSvgComponent extends HTMLElement {
         filtered.push(seg);
       }
     }
-    return { filtered, timeOff };
+    return { filtered, timeOff, nodeFirstEntry };
   }
 
   _processText(textEl, startTime, baseSpeed, mult) {
@@ -396,14 +404,16 @@ class SimpleAnimateSvgComponent extends HTMLElement {
              fill: cs.fill || (fb && fb.fill) || cs.color || '#000' };
   }
 
-  _mapPauses(raw, drawPos, segs, totalDur, timeOff, rangeStart, rangeStop) {
+  _mapPauses(raw, drawPos, segs, totalDur, timeOff, rangeStart, rangeStop, nodeFirstEntry, filteredLen) {
     if (!raw.length || totalDur <= 0) return [];
     return raw.map(p => {
       const before = drawPos.filter(d => d.index < p.index).length;
       if (before <= rangeStart || before > rangeStop) return null;
       const seg = segs[before];
-      return { time: seg ? Math.max(0, seg.startTime - timeOff) : 0,
-               type: p.type, dur: p.duration, triggered: false };
+      const time = seg ? Math.max(0, seg.startTime - timeOff) : 0;
+      // Store path entry index so hideFrom is unambiguous for zero-duration (instant) elements
+      const pathIndex = nodeFirstEntry[before] !== undefined ? nodeFirstEntry[before] : filteredLen;
+      return { time, type: p.type, dur: p.duration, triggered: false, pathIndex };
     }).filter(Boolean).sort((a,b) => a.time - b.time);
   }
 
@@ -514,17 +524,13 @@ class SimpleAnimateSvgComponent extends HTMLElement {
         const p = this._pauses[this._pauseIdx];
         if (!p.triggered && ct >= p.time) {
           p.triggered = true;
-          this._draw(p.time);
-          // Hide everything that shouldn't be visible yet
-          let hideFrom = this._paths.length;
-          for (let i = 0; i < this._paths.length; i++) {
-            if (this._paths[i].startTime >= p.time) { hideFrom = i; break; }
-          }
-          const prev = this._revealed;
+          // pathIndex is the first entry AFTER the pause — reveal everything before it,
+          // hide everything from it onward. Using index (not time) avoids the ambiguity
+          // where instant elements (dur=0) share the same startTime as the pause point.
+          const hideFrom = p.pathIndex;
+          for (let i = this._revealed; i < hideFrom; i++) this._revealSeg(this._paths[i]);
           this._revealed = hideFrom;
           for (let i = hideFrom; i < this._paths.length; i++) this._hideSeg(this._paths[i]);
-          // Also un-reveal any that _draw just revealed beyond hideFrom
-          for (let i = hideFrom; i < prev; i++) this._hideSeg(this._paths[i]);
 
           this._pause();
           this._elapsed = Math.min(p.time, this._duration - 1);
