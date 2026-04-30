@@ -6,7 +6,7 @@
   "scenes": [
     {
       "id": "scene-mod4n3ls-1udn",
-      "title": "Scene 1",
+      "title": "title",
       "moves": [
         {
           "action": "openSlide",

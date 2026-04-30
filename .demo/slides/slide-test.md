@@ -1,5 +1,5 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/AnimateYourSvgFiles.svg
+filePath: .demo/assets/excalidraw-test.svg
 speed: 600
 ---

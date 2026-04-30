@@ -236,6 +236,14 @@ class SimpleAnimateSvgComponent extends HTMLElement {
             origDash: cs?.strokeDasharray || '' });
           nodeDur = dur;
           node.style.fillOpacity = '0';
+        } else if (this._canFillReveal(node, cs)) {
+          const dur = this._estimateFillDuration(node, effSpd);
+          entries.push({ el: node, len: 0, startTime: cumTime, endTime: cumTime+dur, dur,
+            isText: false, behavior: 'fill-reveal',
+            finalOp: cs?.opacity || '1', finalFillOp: cs?.fillOpacity || '1' });
+          nodeDur = dur;
+          node.style.clipPath = 'inset(0 100% 0 0)';
+          node.style.opacity = '1';
         } else {
           entries.push({ el: node, len: 0, startTime: cumTime, endTime: cumTime, dur: 0,
             isText: false, behavior: 'instant', finalOp: cs?.opacity || '1' });
@@ -263,6 +271,9 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       } else if (seg.behavior === 'instant') {
         seg.el.style.opacity = '0';
         if (!seg.el.style.transition) seg.el.style.transition = 'opacity 0.15s linear';
+      } else if (seg.behavior === 'fill-reveal') {
+        seg.el.style.clipPath = 'inset(0 100% 0 0)';
+        seg.el.style.opacity = '1';
       } else {
         seg.el.style.fillOpacity = '0';
         seg.el.style.strokeDasharray = `${seg.len} ${seg.len}`;
@@ -453,6 +464,34 @@ class SimpleAnimateSvgComponent extends HTMLElement {
     return isFinite(sw) ? sw > 0 : true;
   }
 
+  _canFillReveal(node, cs) {
+    if (!cs) return false;
+    const fill = cs.fill;
+    if (!fill || fill === 'none') return false;
+    const fo = parseFloat(cs.fillOpacity);
+    if (isFinite(fo) && fo <= 0) return false;
+    // Must NOT have a visible stroke (otherwise stroke animation would have handled it)
+    if (cs.stroke && cs.stroke !== 'none') {
+      const sw = parseFloat(cs.strokeWidth);
+      if (isFinite(sw) && sw > 0) return false;
+    }
+    return true;
+  }
+
+  _estimateFillDuration(node, effSpd) {
+    // Estimate duration from bounding box diagonal or path length
+    let size = 0;
+    try {
+      const bb = node.getBBox();
+      size = Math.sqrt(bb.width * bb.width + bb.height * bb.height);
+    } catch { size = 0; }
+    if (size <= 0) {
+      try { if (typeof node.getTotalLength === 'function') size = node.getTotalLength() * 0.3; } catch { size = 0; }
+    }
+    if (size <= 0) size = 20; // fallback minimum
+    return (size / effSpd) * 1000;
+  }
+
   _invertColors(svg) {
     svg.querySelectorAll('path,line,polyline,polygon,rect,circle,ellipse,text,tspan').forEach(el => {
       const cs = window.getComputedStyle(el);
@@ -611,6 +650,9 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       seg.el.style.fillOpacity = '1';
     } else if (seg.behavior === 'instant') {
       seg.el.style.opacity = seg.finalOp ?? '1';
+    } else if (seg.behavior === 'fill-reveal') {
+      seg.el.style.clipPath = 'inset(0 0% 0 0)';
+      seg.el.style.opacity = seg.finalOp ?? '1';
     } else {
       seg.el.style.strokeDashoffset = '0';
       seg.el.style.strokeDasharray = seg.origDash || 'none';
@@ -623,6 +665,8 @@ class SimpleAnimateSvgComponent extends HTMLElement {
       seg.el.style.fillOpacity = '0';
     } else if (seg.behavior === 'instant') {
       seg.el.style.opacity = '0';
+    } else if (seg.behavior === 'fill-reveal') {
+      seg.el.style.clipPath = 'inset(0 100% 0 0)';
     } else {
       seg.el.style.strokeDasharray = `${seg.len} ${seg.len}`;
       seg.el.style.strokeDashoffset = `${seg.len}`;
@@ -637,6 +681,13 @@ class SimpleAnimateSvgComponent extends HTMLElement {
     }
     if (seg.behavior === 'instant') {
       seg.el.style.opacity = time >= seg.endTime ? (seg.finalOp ?? '1') : '0';
+      return;
+    }
+    if (seg.behavior === 'fill-reveal') {
+      const elapsed = Math.max(0, Math.min(seg.dur, time - seg.startTime));
+      const prog = seg.dur > 0 ? elapsed / seg.dur : (time >= seg.endTime ? 1 : 0);
+      const clipRight = Math.max(0, (1 - prog) * 100);
+      seg.el.style.clipPath = `inset(0 ${clipRight}% 0 0)`;
       return;
     }
     const elapsed = Math.max(0, Math.min(seg.dur, time - seg.startTime));
