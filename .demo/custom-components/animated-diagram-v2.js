@@ -186,10 +186,15 @@ class SimpleAnimateSvgComponent extends HTMLElement {
 
   _applySizing(svg, { siz, w }) {
     const PAD = 20;
-    let bb; try { bb = svg.getBBox(); } catch { bb = { x:0, y:0, width:0, height:0 }; }
-    const vbw = bb.width  > 0 ? bb.width  : parseFloat(svg.getAttribute('width'))  || 100;
-    const vbh = bb.height > 0 ? bb.height : parseFloat(svg.getAttribute('height')) || 100;
-    svg.setAttribute('viewBox', `${bb.x-PAD} ${bb.y-PAD} ${vbw+PAD*2} ${vbh+PAD*2}`);
+    // Prefer the SVG's own viewBox — the author set it correctly
+    const existingVB = svg.getAttribute('viewBox');
+    if (!existingVB) {
+      // No viewBox set — calculate from bounding box (original behavior)
+      let bb; try { bb = svg.getBBox(); } catch { bb = { x:0, y:0, width:0, height:0 }; }
+      const vbw = bb.width  > 0 ? bb.width  : parseFloat(svg.getAttribute('width'))  || 100;
+      const vbh = bb.height > 0 ? bb.height : parseFloat(svg.getAttribute('height')) || 100;
+      svg.setAttribute('viewBox', `${bb.x-PAD} ${bb.y-PAD} ${vbw+PAD*2} ${vbh+PAD*2}`);
+    }
     if (siz === 'fill') {
       svg.removeAttribute('width'); svg.removeAttribute('height');
       svg.style.width = '100%'; svg.style.height = '100%';
