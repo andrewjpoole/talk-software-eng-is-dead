@@ -27,6 +27,20 @@ Ideas: could it be a retrospective on AI? with an animated SVG retro board?
 St Lwrence river was 3.2km (2m) wide at its narrowest
 Main trade channel for Quebec, closed by ice during the winter, fast flowing, 5m tidal range, 58m deep at the middle
 Commercial competition with Montreal, who already had rail connection to Toronto and other bridges planned
+Dodgy tendering decisions
+Span length changed without recalculating stresses May 1900
+Assistant deposed for opposition to the calculations July 1903
+Construction of main superstructure starts July 1905
+noticable midpoint deflections observed, June 1907
+predrilled rivet holes did were not lining up, disputes about whether the chords were bent during manufacture
+manufacturer confirmed they were all straight when they left the yard
+one chord A9L was dropped and bent and repaired (this was actually found to be the starting point of the collapse)
+Some workers were worried enough to stay at home, there were also strikes due to working conditions
+Chord AR9 was put under observation and its deflection increased from 19mm to 57mm!
+work halted, while onsite-inspector went to see the principal engineer, but the foreman changed his mind Aug 27th
+telegram sent to the local office but not the site "add no more load" Aug 29th
+message was ignored until 5:15 when in a meeting they decided to defer the decision untill the next morning, at 5:30 the bridge collapsed
+
 
 ### Emotional responses / Resistance is futile!
 

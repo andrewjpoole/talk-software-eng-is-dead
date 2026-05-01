@@ -1,7 +1,6 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/quebec-bridge-2.svg
+filePath: .demo/assets/tools-1.svg
 invert: true
 speed: 1200
-startAt: text4-1-7-8-8-1-7
 ---

@@ -126,11 +126,21 @@
     },
     {
       "id": "demo-models-1",
-      "title": "models-and-tools-1",
+      "title": "models-1",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/models-and-tools-1.md"
+          "path": ".demo/slides/models-1.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mon2je3b-ea92",
+      "title": "tools-1",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/tools-1.md"
         }
       ]
     },
@@ -185,12 +195,32 @@
       ]
     },
     {
+      "id": "demo-retro-1",
+      "title": "retro-board",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/retro-board.md"
+        }
+      ]
+    },
+    {
       "id": "demo-dark-1",
       "title": "the-dark-side",
       "moves": [
         {
           "action": "openSlide",
           "path": ".demo/slides/the-dark-side.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-momspptl-rdfo",
+      "title": "retro",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/retro-board.md"
         }
       ]
     },

@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="960.000pt"
+   height="540.000pt"
+   version="1.1"
+   viewBox="-480.000 498.000 960.000 540.000"
+   id="svg1"
+   sodipodi:docname="retro-board.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.7375"
+     inkscape:cx="600.57554"
+     inkscape:cy="343.88489"
+     inkscape:window-width="3840"
+     inkscape:window-height="2071"
+     inkscape:window-x="2551"
+     inkscape:window-y="121"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <!-- Title -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none"
+     x="-330"
+     y="545"
+     id="text-title"><tspan
+       sodipodi:role="line"
+       x="-330"
+       y="545"
+       id="tspan-title">RETRO ON AI IN SOFTWARE ENGINEERING</tspan></text>
+  <!-- Column divider left (hand-drawn wobbly vertical line) -->
+  <path
+     id="STROKE_divider-left"
+     opacity="1"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3.017"
+     stroke-opacity="1"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="M -148,570 C -149,590 -147,630 -148,670 C -149,710 -147,750 -148,790 C -149,830 -147,870 -148,910 C -149,950 -147,990 -148,1030"
+     sodipodi:nodetypes="ccccc" />
+  <!-- Column divider right (hand-drawn wobbly vertical line) -->
+  <path
+     id="STROKE_divider-right"
+     opacity="1"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3.017"
+     stroke-opacity="1"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="M 172,570 C 173,590 171,630 172,670 C 173,710 171,750 172,790 C 173,830 171,870 172,910 C 173,950 171,990 172,1030"
+     sodipodi:nodetypes="ccccc" />
+  <!-- GOOD column header -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;fill:#006600;fill-opacity:1;stroke:none"
+     x="-340"
+     y="595"
+     id="text-good"><tspan
+       sodipodi:role="line"
+       x="-340"
+       y="595"
+       id="tspan-good">GOOD</tspan></text>
+  <!-- GOOD underline -->
+  <path
+     id="STROKE_underline-good"
+     opacity="1"
+     fill="none"
+     stroke="#006600"
+     stroke-width="2.5"
+     stroke-opacity="1"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m -345,601 c 25,2 41.25899,-1.43165 81.25899,0.56835"
+     sodipodi:nodetypes="cc" />
+  <!-- BAD column header -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;fill:#880000;fill-opacity:1;stroke:none"
+     x="-30"
+     y="595"
+     id="text-bad"><tspan
+       sodipodi:role="line"
+       x="-30"
+       y="595"
+       id="tspan-bad">BAD</tspan></text>
+  <!-- BAD underline -->
+  <path
+     id="STROKE_underline-bad"
+     opacity="1"
+     fill="none"
+     stroke="#880000"
+     stroke-width="2.5"
+     stroke-opacity="1"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m -35,601 c 25,2 14.928058,-1.86331 54.928058,0.13669"
+     sodipodi:nodetypes="cc" />
+  <!-- ACTIONS column header -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;fill:#000088;fill-opacity:1;stroke:none"
+     x="230"
+     y="595"
+     id="text-actions"><tspan
+       sodipodi:role="line"
+       x="230"
+       y="595"
+       id="tspan-actions">ACTIONS</tspan></text>
+  <!-- ACTIONS underline -->
+  <path
+     id="STROKE_underline-actions"
+     opacity="1"
+     fill="none"
+     stroke="#000088"
+     stroke-width="2.5"
+     stroke-opacity="1"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m 225,601 c 35,2 53.05755,-2.72662 113.05755,-0.72662"
+     sodipodi:nodetypes="cc" />
+  <!--Pause:UntilPlay-->
+  <!-- ===== GOOD POST-ITS ===== -->
+  <g
+     id="g49"
+     transform="matrix(1.0511241,0,0,1.0511241,5.450753,-34.280599)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-428.83411"
+       y="643.37451"
+       id="text-g1"
+       transform="rotate(0.06699594)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="-428.83411"
+         y="643.37451">Very fast </tspan><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="-428.83411"
+         y="658.37451">generation of</tspan><tspan
+         sodipodi:role="line"
+         x="-428.83411"
+         y="673.37451"
+         id="tspan42">good quality</tspan><tspan
+         sodipodi:role="line"
+         x="-428.83411"
+         y="688.37451"
+         id="tspan43">code    </tspan></text>
+  </g>
+  <g
+     id="g49-1"
+     transform="matrix(1.0427598,0.13233968,-0.13233968,1.0427598,197.20734,18.905625)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-394.22324"
+       y="662.99677"
+       id="text-g1-3"
+       transform="rotate(3.0897319)"><tspan
+         sodipodi:role="line"
+         x="-394.22324"
+         y="662.99677"
+         id="tspan43-2">Focus shifts to </tspan><tspan
+         sodipodi:role="line"
+         x="-394.22324"
+         y="677.99677"
+         id="tspan53">design and </tspan><tspan
+         sodipodi:role="line"
+         x="-394.22324"
+         y="692.99677"
+         id="tspan54">guidance</tspan></text>
+  </g>
+  <g
+     id="g49-1-37"
+     transform="matrix(1.0427598,0.13233968,-0.13233968,1.0427598,290.13277,56.182962)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-2"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-640.39502"
+       y="461.47943"
+       id="text-g1-3-6"
+       transform="rotate(-20.863301)"><tspan
+         sodipodi:role="line"
+         x="-640.39502"
+         y="461.47943"
+         id="tspan54-65">Good for </tspan><tspan
+         sodipodi:role="line"
+         x="-640.39502"
+         y="476.47943"
+         id="tspan82">ideation and</tspan><tspan
+         sodipodi:role="line"
+         x="-640.39502"
+         y="491.47943"
+         id="tspan83">baking off ideas</tspan></text>
+  </g>
+  <g
+     id="g49-1-0"
+     transform="matrix(1.0421402,0.13713385,-0.13713385,1.0421402,83.59596,232.60263)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-06"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-452.45929"
+       y="628.69122"
+       id="text-g1-3-1"
+       transform="rotate(-2)"><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="628.69122"
+         id="tspan54-9">Rapid </tspan><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="643.69122"
+         id="tspan64">prototyping,</tspan><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="658.69122"
+         id="tspan65">especially in</tspan><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="673.69122"
+         id="tspan66">workshops</tspan></text>
+  </g>
+  <g
+     id="g49-1-0-4"
+     transform="matrix(1.0421402,0.13713385,-0.13713385,1.0421402,271.449,335.42651)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-06-07"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-452.45929"
+       y="628.69122"
+       id="text-g1-3-1-63"
+       transform="rotate(-2)"><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="628.69122"
+         id="tspan66-42">Good at </tspan><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="643.69122"
+         id="tspan78">debugging,</tspan><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="658.69122"
+         id="tspan79">especially when</tspan><tspan
+         sodipodi:role="line"
+         x="-452.45929"
+         y="673.69122"
+         id="tspan80">paired with MCP</tspan></text>
+  </g>
+  <g
+     id="g49-1-0-6"
+     transform="matrix(1.0511241,0,0,1.0511241,117.09238,180.003)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-06-0"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-405.1189"
+       y="657.78058"
+       id="text-g1-3-1-6"
+       transform="rotate(2.4054959)"><tspan
+         sodipodi:role="line"
+         x="-405.1189"
+         y="657.78058"
+         id="tspan66-4">Good at </tspan><tspan
+         sodipodi:role="line"
+         x="-405.1189"
+         y="672.78058"
+         id="tspan69">refactoring, given</tspan><tspan
+         sodipodi:role="line"
+         x="-405.1189"
+         y="687.78058"
+         id="tspan70">guidance and</tspan><tspan
+         sodipodi:role="line"
+         x="-405.1189"
+         y="702.78058"
+         id="tspan71">supervision</tspan></text>
+  </g>
+  <g
+     id="g49-1-0-6-7"
+     transform="matrix(1.0511241,0,0,1.0511241,51.654148,270.00145)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-06-0-8"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-526.77454"
+       y="565.71155"
+       id="text-g1-3-1-6-8"
+       transform="rotate(-9.8877275)"><tspan
+         sodipodi:role="line"
+         x="-526.77454"
+         y="565.71155"
+         id="tspan71-3">Will find bugs</tspan><tspan
+         sodipodi:role="line"
+         x="-526.77454"
+         y="580.71155"
+         id="tspan74">you hadn't </tspan><tspan
+         sodipodi:role="line"
+         x="-526.77454"
+         y="595.71155"
+         id="tspan75">spotted yet</tspan></text>
+  </g>
+  <g
+     id="g49-1-6"
+     transform="matrix(1.049651,0.05563029,-0.05563029,1.049651,151.88193,86.658796)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-0"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-458.29767"
+       y="629.70898"
+       id="text-g1-3-2"
+       transform="rotate(-2)"><tspan
+         sodipodi:role="line"
+         x="-458.29767"
+         y="629.70898"
+         id="tspan54-6">Great generation </tspan><tspan
+         sodipodi:role="line"
+         x="-458.29767"
+         y="644.70898"
+         id="tspan61">of documentation</tspan><tspan
+         sodipodi:role="line"
+         x="-458.29767"
+         y="659.70898"
+         id="tspan62">inc diagrams</tspan></text>
+  </g>
+  <g
+     id="g49-1-3"
+     transform="matrix(1.048079,-0.07995196,0.07995196,1.048079,-55.374952,36.820274)">
+    <rect
+       x="-462.45929"
+       y="604.69122"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-1-1"
+       style="fill:#aadfa1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-420.69641"
+       y="646.06934"
+       id="text-g1-3-9"
+       transform="rotate(1.1540092)"><tspan
+         sodipodi:role="line"
+         x="-420.69641"
+         y="646.06934"
+         id="tspan54-5">Great test</tspan><tspan
+         sodipodi:role="line"
+         x="-420.69641"
+         y="661.06934"
+         id="tspan56">generation,</tspan><tspan
+         sodipodi:role="line"
+         x="-420.69641"
+         y="676.06934"
+         id="tspan57">especially if there</tspan><tspan
+         sodipodi:role="line"
+         x="-420.69641"
+         y="691.06934"
+         id="tspan58">is a good pattern</tspan><tspan
+         sodipodi:role="line"
+         x="-420.69641"
+         y="706.06934"
+         id="tspan59">to follow</tspan></text>
+  </g>
+  <!--Pause:UntilPlay-->
+  <!-- ===== BAD POST-ITS ===== -->
+  <g
+     id="g50"
+     transform="matrix(1.0494428,0.05942878,-0.05942878,1.0494428,72.619992,-338.39949)">
+    <rect
+       x="-162.79555"
+       y="906.02228"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5"
+       style="fill:#dfa5a1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-123.47917"
+       y="933.10077"
+       id="text-g1-7"
+       transform="rotate(-0.22082197)"><tspan
+         sodipodi:role="line"
+         x="-123.47917"
+         y="933.10077"
+         id="tspan43-9">Massive </tspan><tspan
+         sodipodi:role="line"
+         x="-123.47917"
+         y="948.10077"
+         id="tspan46">environmnental</tspan><tspan
+         sodipodi:role="line"
+         x="-123.47917"
+         y="963.10077"
+         id="tspan47">impact</tspan></text>
+  </g>
+  <g
+     id="g50-1-1"
+     transform="matrix(1.0501142,-0.04606454,0.04606454,1.0501142,-20.262406,-252.47261)">
+    <rect
+       x="-162.79555"
+       y="906.02228"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-2-7"
+       style="fill:#dfa5a1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-262.1817"
+       y="909.9541"
+       id="text-g1-7-0-7"
+       transform="rotate(-8.7207959)"><tspan
+         sodipodi:role="line"
+         x="-262.1817"
+         y="909.9541"
+         id="tspan88">Noise, hype</tspan><tspan
+         sodipodi:role="line"
+         x="-262.1817"
+         y="924.9541"
+         id="tspan90">and marketing </tspan><tspan
+         sodipodi:role="line"
+         x="-262.1817"
+         y="939.9541"
+         id="tspan91">overload </tspan></text>
+  </g>
+  <g
+     id="g50-1"
+     transform="matrix(1.0305463,-0.20696918,0.20696918,1.0305463,-68.963754,-342.95866)">
+    <rect
+       x="-162.79555"
+       y="906.02228"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-2"
+       style="fill:#dfa5a1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-56.878521"
+       y="937.74457"
+       id="text-g1-7-0"
+       transform="rotate(3.8591672)"><tspan
+         sodipodi:role="line"
+         x="-56.878521"
+         y="937.74457"
+         id="tspan47-4">Junior jobs </tspan><tspan
+         sodipodi:role="line"
+         x="-56.878521"
+         y="952.74457"
+         id="tspan85">at risk</tspan></text>
+  </g>
+  <g
+     id="g50-1-1-9-3-7"
+     transform="matrix(1.0480362,0.0805104,-0.0805104,1.0480362,210.07612,-131.29535)">
+    <rect
+       x="-162.79555"
+       y="906.02228"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-2-7-9-8-8"
+       style="fill:#dfa5a1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-228.78076"
+       y="917.32117"
+       id="text-g1-7-0-7-8-0-3"
+       transform="rotate(-6.6117868)"><tspan
+         sodipodi:role="line"
+         x="-228.78076"
+         y="917.32117"
+         id="tspan99-0">Power</tspan><tspan
+         sodipodi:role="line"
+         x="-228.78076"
+         y="932.32117"
+         id="tspan102">concentrated</tspan><tspan
+         sodipodi:role="line"
+         x="-228.78076"
+         y="947.32117"
+         id="tspan103">in a few US</tspan><tspan
+         sodipodi:role="line"
+         x="-228.78076"
+         y="962.32117"
+         id="tspan104">companies </tspan></text>
+  </g>
+  <g
+     id="g50-1-1-9"
+     transform="matrix(1.0476307,0.08562592,-0.08562592,1.0476307,214.99838,-232.6011)">
+    <rect
+       x="-162.79555"
+       y="906.02228"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-2-7-9"
+       style="fill:#dfa5a1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-325.83228"
+       y="891.35718"
+       id="text-g1-7-0-7-8"
+       transform="rotate(-12.723291)"><tspan
+         sodipodi:role="line"
+         x="-325.83228"
+         y="891.35718"
+         id="tspan91-2">Code review</tspan><tspan
+         sodipodi:role="line"
+         x="-325.83228"
+         y="906.35718"
+         id="tspan94">becomes the </tspan><tspan
+         sodipodi:role="line"
+         x="-325.83228"
+         y="921.35718"
+         id="tspan95">bottleneck </tspan></text>
+  </g>
+  <g
+     id="g50-1-1-9-3"
+     transform="matrix(1.0350666,0.18302757,-0.18302757,1.0350666,199.06481,-119.76825)">
+    <rect
+       x="-162.79555"
+       y="906.02228"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-2-7-9-8"
+       style="fill:#dfa5a1;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-83.15023"
+       y="935.88196"
+       id="text-g1-7-0-7-8-0"
+       transform="rotate(2.4622092)"><tspan
+         sodipodi:role="line"
+         x="-83.15023"
+         y="935.88196"
+         id="tspan95-5">Strange new</tspan><tspan
+         sodipodi:role="line"
+         x="-83.15023"
+         y="950.88196"
+         id="tspan97">effects on health</tspan><tspan
+         sodipodi:role="line"
+         x="-83.15023"
+         y="965.88196"
+         id="tspan98">and wellbeing/</tspan><tspan
+         sodipodi:role="line"
+         x="-83.15023"
+         y="980.88196"
+         id="tspan99">burnout </tspan></text>
+  </g>
+  <!--Pause:UntilPlay-->
+  <!-- ===== ACTION POST-ITS ===== -->
+  <g
+     id="g51-0"
+     transform="matrix(1.0480427,0.08042621,-0.08042621,1.0480427,199.79297,-373.67252)">
+    <rect
+       x="161.94485"
+       y="930.20605"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-5-6"
+       style="fill:#a1d8df;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="-11.020554"
+       y="978.34778"
+       id="text-g1-7-4-1"
+       transform="rotate(-12.311682)"><tspan
+         sodipodi:role="line"
+         x="-11.020554"
+         y="978.34778"
+         id="tspan107">Share knowledge,</tspan><tspan
+         sodipodi:role="line"
+         x="-11.020554"
+         y="993.34778"
+         id="tspan108">learn and </tspan><tspan
+         sodipodi:role="line"
+         x="-11.020554"
+         y="1008.3478"
+         id="tspan105">level-up</tspan><tspan
+         sodipodi:role="line"
+         x="-11.020554"
+         y="1023.3478"
+         id="tspan106">together</tspan></text>
+  </g>
+  <g
+     id="g51-0-4"
+     transform="matrix(1.040235,0.15090738,-0.15090738,1.040235,169.92879,-283.44389)">
+    <rect
+       x="161.94485"
+       y="930.20605"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-5-6-3"
+       style="fill:#a1d8df;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="229.53625"
+       y="934.73303"
+       id="text-g1-7-4-1-9"
+       transform="rotate(1.4155102)"><tspan
+         sodipodi:role="line"
+         x="229.53625"
+         y="934.73303"
+         id="tspan49-9-8">TDD, SOLID,</tspan><tspan
+         sodipodi:role="line"
+         x="229.53625"
+         y="949.73303"
+         id="tspan109">Agile...</tspan><tspan
+         sodipodi:role="line"
+         x="229.53625"
+         y="964.73303"
+         id="tspan110">all the old good</tspan><tspan
+         sodipodi:role="line"
+         x="229.53625"
+         y="979.73303"
+         id="tspan111">things still</tspan><tspan
+         sodipodi:role="line"
+         x="229.53625"
+         y="994.73303"
+         id="tspan112">matter!</tspan></text>
+  </g>
+  <g
+     id="g51"
+     transform="matrix(1.0497103,0.05449841,-0.05449841,1.0497103,69.095798,-364.79209)">
+    <rect
+       x="161.94485"
+       y="930.20605"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-5"
+       style="fill:#a1d8df;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="171.94485"
+       y="954.20605"
+       id="text-g1-7-4"
+       transform="rotate(-2)"><tspan
+         sodipodi:role="line"
+         x="171.94485"
+         y="954.20605"
+         id="tspan47-2">Don't stop</tspan><tspan
+         sodipodi:role="line"
+         x="171.94485"
+         y="969.20605"
+         id="tspan49">hiring juniors!</tspan></text>
+  </g>
+  <g
+     id="g51-0-4-7"
+     transform="matrix(1.0489284,-0.06790441,0.06790441,1.0489284,57.912697,-224.23719)">
+    <rect
+       x="161.94485"
+       y="930.20605"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-5-6-3-8"
+       style="fill:#a1d8df;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-2)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="171.94485"
+       y="954.20605"
+       id="text-g1-7-4-1-9-3"
+       transform="rotate(-2)"><tspan
+         sodipodi:role="line"
+         x="171.94485"
+         y="954.20605"
+         id="tspan113">Remember the</tspan><tspan
+         sodipodi:role="line"
+         x="171.94485"
+         y="969.20605"
+         id="tspan114">Risk Spectrum</tspan></text>
+  </g>
+  <g
+     id="g51-0-4-7-7"
+     transform="matrix(1.0453568,0.10995885,-0.10995885,1.0453568,134.80187,-173.06369)">
+    <rect
+       x="131.339"
+       y="936.29883"
+       width="96.182922"
+       height="89.906174"
+       rx="0"
+       ry="0"
+       fill="#c5ffbfff"
+       stroke="#003333"
+       stroke-width="1"
+       opacity="0.92"
+       id="rect1-5-5-6-3-8-3"
+       style="fill:#a1d8df;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-3.7925094)" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Silent People';fill:#000000"
+       x="171.94485"
+       y="954.20605"
+       id="text-g1-7-4-1-9-3-4"
+       transform="rotate(-2)"><tspan
+         sodipodi:role="line"
+         x="171.94485"
+         y="954.20605"
+         id="tspan114-6">Invest your </tspan><tspan
+         sodipodi:role="line"
+         x="171.94485"
+         y="969.20605"
+         id="tspan115">tokens</tspan></text>
+  </g>
+</svg>

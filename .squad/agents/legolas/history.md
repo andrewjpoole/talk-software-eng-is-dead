@@ -50,3 +50,17 @@
 - 2 decision inbox files merged and deleted
 - Orchestration and session logs written
 - All work verified and committed
+
+### 2026-05-01T10:49:45+01:00 — Retro Board SVG slide
+- Created `.demo/assets/retro-board.svg` — retrospective board with Good/Bad/Actions columns
+- Same viewBox (`-480 498 960 540`), same `Silent People` font, same stroke styles as other slides
+- Post-its use `<rect>` fills with pre-inversion colors: `#005555` (good→salmon), `#555500` (bad→lavender), `#550055` (actions→green)
+- Post-it text `fill="#000000"` inverts to white on the colored backgrounds when `invert:true` is applied
+- Column headers colored: green (#006600) for GOOD, red (#880000) for BAD, blue (#000088) for ACTIONS
+- 17 post-its total: 6 good, 6 bad, 5 actions — content extracted from Andrew's notes.md
+- "DON'T STOP HIRING JUNIORS!" post-it is intentionally larger (14px font, thicker border) for emphasis
+- 4 animation stages via `<!--Pause:UntilPlay-->`: structure → good → bad → actions
+- Hand-drawn wobbly vertical dividers use cubic beziers with ±1-2px wobble
+- Post-its use slight rotations (±1-4°) via `transform="rotate()"` for organic look
+- Slide markdown at `.demo/slides/retro-board.md` with `invert:true`, `speed:1200`
+- Scene `demo-retro-1` inserted in `.demo/act1.json` after `demo-gartner-1`, before `demo-dark-1`
