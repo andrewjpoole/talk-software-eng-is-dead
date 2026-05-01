@@ -25,6 +25,16 @@
       ]
     },
     {
+      "id": "demo-moli5goq-i3e1",
+      "title": "whats-happened",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/ai-timeline.md"
+        }
+      ]
+    },
+    {
       "id": "demo-mok99ihg-l2ds",
       "title": "emotional-responses",
       "moves": [
@@ -51,6 +61,26 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/kubler-ross-change-curve.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-humans-1",
+      "title": "humans-still-nessecary",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/humans-still-nessecary.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mollbmm8-6uwx",
+      "title": "what-should-we-be-aiming-for",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/what-should-we-be-aiming-for.md"
         }
       ]
     },
@@ -85,16 +115,6 @@
       ]
     },
     {
-      "id": "demo-humans-1",
-      "title": "humans-still-nessecary",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/humans-still-nessecary.md"
-        }
-      ]
-    },
-    {
       "id": "demo-models-1",
       "title": "models-and-tools-1",
       "moves": [
@@ -125,22 +145,22 @@
       ]
     },
     {
-      "id": "demo-quebec-2",
-      "title": "quebec-bridge-2",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/quebec-bridge-2.md"
-        }
-      ]
-    },
-    {
       "id": "demo-quebec-1",
       "title": "quebec-bridge",
       "moves": [
         {
           "action": "openSlide",
           "path": ".demo/slides/quebec-bridge.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-quebec-2",
+      "title": "quebec-bridge-2",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/quebec-bridge-2.md"
         }
       ]
     },

@@ -1,5 +1,6 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/ai-timeline.svg
-speed: 1600
+invert: true
+speed: 1800
 ---

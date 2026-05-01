@@ -14,8 +14,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs1" />
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -26,27 +24,29 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.7375"
-     inkscape:cx="681.15108"
-     inkscape:cy="377.84173"
+     inkscape:zoom="4.9143921"
+     inkscape:cx="607.2979"
+     inkscape:cy="548.49103"
      inkscape:window-width="3840"
      inkscape:window-height="2071"
      inkscape:window-x="2551"
      inkscape:window-y="121"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g59-1" />
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
   <title
      id="title1">Drawing 4</title>
   <text
-     x="-52.235767"
-     y="515.15997"
+     x="-33.242962"
+     y="542.35425"
      font-size="24px"
      font-weight="bold"
      text-anchor="middle"
      fill="#222222"
      font-family="'Silent People'"
      id="text1"
-     style="stroke-width:0.75">The AI Acceleration: Mar 2024 → Apr 2026</text>
+     style="font-size:32px;stroke-width:0.75">AI ACCELERATION TIMELINE</text>
   <path
      id="STROKE_dbd12a5c-16b9-42d6-a92f-e882e7fa1056"
      opacity="1"
@@ -56,7 +56,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -420.79323,610.55631 c 46.01111,-4.05875 94.78642,-3.89674 139.95,10.01356 45.21079,9.85442 91.14493,16.77106 137.59894,13.89294 92.785417,-2.20934 183.758928,-23.58064 276.38779,-28.27484 72.33267,-4.5292 145.12306,-11.13206 217.54727,-4.98166 34.82644,3.63918 60.42795,38.57009 56.23125,72.93575 0.95887,35.43781 -35.64015,52.31332 -66.18994,53.15456 -69.9931,3.58239 -140.32319,2.32032 -209.66406,-8.77381 -65.579296,-4.86928 -223.550261,6.43604 -277.34602,6.07818 -44.4754,-0.21282 -79.29206,-14.24441 -162.35178,-17.87452 -38.71264,0.8622 -69.06938,1.88249 -114.38545,21.04484 -30.38601,14.50042 -41.40382,64.32745 -5.467,81.55875 35.21272,15.55171 75.14779,16.74368 113.08525,19.47375 60.6889,0.8929 121.9556,3.57625 181.59187,-10.13144 69.835025,-12.4259 141.2326973,-11.84182 211.558875,-4.38906 79.427255,6.10755 157.615795,27.26027 237.812005,22.233 31.00945,-1.6817 82.47059,5.14139 85.469,43.637 -8.92418,32.8539 -43.24149,48.83881 -74.41,53.996 -54.66403,5.07834 -109.13037,-6.21068 -163.739,-8.046 -60.50732,-4.92905 -119.932662,-18.03616 -180.438005,-23.226 -69.323425,-10.61004 -141.396045,-13.02227 -209.385995,6.6245 -61.36139,16.31586 -129.62332,19.532 -190.62453,11.46959 l -17.8892,-1.1461 -36.19565,-1.2008"
+     d="m -401.80042,637.75055 c 46.01111,-4.05875 94.78642,-3.89674 139.95,10.01356 45.21079,9.85442 91.14493,16.77106 137.59894,13.89294 92.785413,-2.20934 183.758924,-23.58064 276.38779,-28.27484 72.33267,-4.5292 145.12306,-11.13206 217.54727,-4.98166 34.82644,3.63918 60.42795,38.57009 56.23125,72.93575 0.95887,35.43781 -35.64015,52.31332 -66.18994,53.15456 -69.9931,3.58239 -140.32319,2.32032 -209.66406,-8.77381 -65.5793,-4.86928 -223.550265,6.43604 -277.34602,6.07818 -44.4754,-0.21282 -79.29206,-14.24441 -162.35178,-17.87452 -38.71264,0.8622 -69.06938,1.88249 -114.38545,21.04484 -30.38601,14.50042 -41.40382,64.32745 -5.467,81.55875 35.21272,15.55171 75.14779,16.74368 113.08525,19.47375 60.6889,0.8929 121.9556,3.57625 181.59187,-10.13144 69.835021,-12.4259 141.232693,-11.84182 211.558871,-4.38906 79.427259,6.10755 157.615799,27.26027 237.812009,22.233 31.00945,-1.6817 82.47059,5.14139 85.469,43.637 -8.92418,32.8539 -43.24149,48.83881 -74.41,53.996 -54.66403,5.07834 -109.13037,-6.21068 -163.739,-8.046 C 121.37126,948.3685 61.945914,935.26139 1.4405708,930.07155 -67.882854,919.46151 -139.95547,917.04928 -207.94542,936.69605 c -61.36139,16.31586 -129.62332,19.532 -190.62453,11.46959 l -17.8892,-1.1461 -36.19565,-1.2008"
      sodipodi:nodetypes="cccccccccccccccccccccccc" />
   <path
      id="STROKE_cd4b5e25-c1a3-49af-9267-4b5ae8dfc039"
@@ -67,7 +67,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -455.62633,907.90526 c -0.37082,0.81748 -17.58252,10.0888 -17.75824,10.48016 -0.33362,0.743 16.73111,12.70913 17.25077,12.99321"
+     d="m -436.63352,935.0995 c -0.37082,0.81748 -17.58252,10.0888 -17.75824,10.48016 -0.33362,0.743 16.73111,12.70913 17.25077,12.99321"
      sodipodi:nodetypes="csc" />
   <path
      id="STROKE_a53d1714-c0f0-4325-a5e2-d89635c69ff6"
@@ -78,7 +78,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -420.53423,610.48353 c 0.0191,0.005 0.0897,-0.0121 0.007,0.0309"
+     d="m -401.54142,637.67777 c 0.0191,0.005 0.0897,-0.0121 0.007,0.0309"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_165553ad-7c68-4dc0-beb0-909b178ac17a"
@@ -89,7 +89,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -263.65599,624.23546 c -0.268,0.56854 0.52538,0.31336 0.0771,-0.0582"
+     d="m -244.66318,651.4297 c -0.268,0.56854 0.52538,0.31336 0.0771,-0.0582"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_97d0145f-be58-4367-ba32-9d8d4aab7898"
@@ -99,8 +99,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-105.05524"
-     cy="632.74927"
+     cx="-86.062431"
+     cy="659.94354"
      r="1.5089999" />
   <circle
      id="STROKE_09808293-f756-4cc6-a810-27740956ce8f"
@@ -110,8 +110,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="48.016678"
-     cy="614.18127"
+     cx="67.009483"
+     cy="641.37555"
      r="1.5089999" />
   <circle
      id="STROKE_f42658d8-6727-484b-bfa9-ff2dc2afeb2c"
@@ -121,8 +121,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="202.01477"
-     cy="602.98529"
+     cx="221.00758"
+     cy="630.17957"
      r="1.5089999" />
   <circle
      id="STROKE_318544ed-8868-42f4-ac0d-78428e50db5c"
@@ -132,8 +132,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="352.53876"
-     cy="604.07928"
+     cx="371.53156"
+     cy="631.27356"
      r="1.5089999" />
   <path
      id="STROKE_83bfe989-9772-4df1-9368-b21bb83bbe0d"
@@ -144,7 +144,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 359.16893,724.94647 c -0.58911,-0.008 -0.0389,0.43648 0.0381,0.006"
+     d="m 378.16174,752.14071 c -0.58911,-0.008 -0.0389,0.43648 0.0381,0.006"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_78f3b325-deca-4632-a9e7-a6ea3b6c57a5"
@@ -155,7 +155,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 215.45115,727.42355 c -0.14261,-0.009 -0.0229,0.0475 -0.0165,-0.0415"
+     d="m 234.44396,754.61779 c -0.14261,-0.009 -0.0229,0.0475 -0.0165,-0.0415"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_b4773389-e693-4ee1-8e9a-97bd4b48377e"
@@ -165,8 +165,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="52.216766"
-     cy="715.72729"
+     cx="71.209572"
+     cy="742.92157"
      r="1.5089999" />
   <circle
      id="STROKE_ab0d6b94-137a-4b74-9427-ef60802747db"
@@ -176,8 +176,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-110.13207"
-     cy="724.00067"
+     cx="-91.139267"
+     cy="751.19495"
      r="1.5089999" />
   <circle
      id="STROKE_0993d166-2369-44bf-920b-d780690771bf"
@@ -187,8 +187,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-268.81516"
-     cy="709.53003"
+     cx="-249.82234"
+     cy="736.7243"
      r="1.5089999" />
   <circle
      id="STROKE_2ffb6edd-3554-4c67-bb7e-7d363b2fda70"
@@ -198,8 +198,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-426.68829"
-     cy="731.36487"
+     cx="-407.6955"
+     cy="758.55914"
      r="1.5089999" />
   <path
      id="STROKE_7e282e59-3b41-460a-aacc-a5cf82ae8ef9"
@@ -210,7 +210,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -345.51774,826.68237 c 0,0 0.0447,0.11241 -0.017,0.0235"
+     d="m -326.52493,853.87661 c 0,0 0.0447,0.11241 -0.017,0.0235"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_711c38e2-0c30-491f-b12b-b01df75b0c5a"
@@ -221,7 +221,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -221.73953,829.25696 c 0,0 -0.13441,0.0101 0.024,-0.0242"
+     d="m -202.74672,856.4512 c 0,0 -0.13441,0.0101 0.024,-0.0242"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7"
@@ -232,7 +232,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -92.085009,812.82964 c 0,0 -0.03878,0.0236 0.0707,-0.008"
+     d="m -73.092203,840.02388 c 0,0 -0.03878,0.0236 0.0707,-0.008"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_8528b304-178d-4cbb-b5ce-e4eb205a2a53"
@@ -243,7 +243,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 48.521315,811.6497 c -0.259333,0 -0.0049,0.0382 0.0545,0.007"
+     d="m 67.514121,838.84394 c -0.259333,0 -0.0049,0.0382 0.0545,0.007"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_3b70efcc-edab-4d03-a7c3-175f37ff8e0f"
@@ -254,7 +254,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 163.65677,824.91531 c 0,0 -0.0499,0.11863 0.0673,-0.006"
+     d="m 182.64958,852.10955 c 0,0 -0.0499,0.11863 0.0673,-0.006"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_1bbadcc1-b9ec-4d3d-b601-1bda84948037"
@@ -265,7 +265,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 291.39954,837.36045 c 0.002,-0.0712 -0.0266,-0.004 0.002,-0.004"
+     d="m 310.39235,864.55469 c 0.002,-0.0712 -0.0266,-0.004 0.002,-0.004"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_f9370476-f1f4-4688-acf0-505ab72263e4"
@@ -275,8 +275,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="391.59625"
-     cy="899.65881"
+     cx="410.58905"
+     cy="926.85309"
      r="1.5089999" />
   <circle
      id="STROKE_70551808-5471-4df5-827a-99c8253570e7"
@@ -286,8 +286,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="276.29858"
-     cy="935.04962"
+     cx="295.29138"
+     cy="962.2439"
      r="1.5089999" />
   <circle
      id="STROKE_00e270a6-75c6-4cc2-a476-134ab7e0bcaa"
@@ -297,8 +297,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="131.52098"
-     cy="922.89478"
+     cx="150.51379"
+     cy="950.08905"
      r="1.5089999" />
   <path
      id="STROKE_0d830073-487a-4159-ae84-587f3510621a"
@@ -309,7 +309,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -12.183932,903.34665 -0.0095,0.0421"
+     d="m 6.8088738,930.54089 -0.0095,0.0421"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_a61f761d-0edf-4213-baf4-c2746401936b"
@@ -319,8 +319,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-153.40071"
-     cy="896.37292"
+     cx="-134.4079"
+     cy="923.5672"
      r="1.5089999" />
   <circle
      id="STROKE_98ed6746-4605-4596-beeb-476b6cc1c72f"
@@ -330,8 +330,8 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-278.67725"
-     cy="920.08228"
+     cx="-259.68445"
+     cy="947.27655"
      r="1.5089999" />
   <circle
      id="STROKE_b9882232-75ac-468f-926d-748d5e19eb02"
@@ -341,46 +341,37 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-389.71478"
-     cy="923.82013"
+     cx="-370.72198"
+     cy="951.0144"
      r="1.5089999" />
-  <g
-     id="g45"
-     transform="translate(-19.781235,-31.412689)">
-    <text
-       x="-400.97778"
-       y="653.40753"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text7"
-       style="stroke-width:0.75">Mar 2024</text>
-    <text
-       x="-400.97778"
-       y="666.15753"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text8"
-       style="stroke-width:0.75">Claude 3 Family</text>
-    <text
-       x="-400.97778"
-       y="678.90753"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text9"
-       style="stroke-width:0.75">Opus/Sonnet/Haiku</text>
-  </g>
+  <text
+     x="-401.7662"
+     y="649.18909"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c41e3a"
+     font-family="'Silent People'"
+     id="text7"
+     style="stroke-width:0.75"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="-401.7662"
+       y="649.18909"
+       style="fill:#333333;fill-opacity:1">Mar 2024</tspan><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="-401.7662"
+       y="666.68909"
+       style="fill:#333333;fill-opacity:1">Claude 3 Family</tspan><tspan
+       sodipodi:role="line"
+       x="-401.7662"
+       y="684.18909"
+       id="tspan5"
+       style="fill:#333333;fill-opacity:1">Opus/Sonnet/Haiku</tspan></text>
   <g
      id="g46"
-     transform="translate(142.95259,-20.621322)">
+     transform="translate(161.9454,6.5729226)">
     <text
        x="-243.87"
        y="665"
@@ -389,19 +380,28 @@
        text-anchor="middle"
        fill="#333333"
        font-family="'Silent People'"
-       id="text2">May 2024</text>
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="-243.87"
+         y="665">May 2024</tspan><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="-243.87"
+         y="682.5">GPT-4o</tspan></text>
     <text
-       x="-243.87"
-       y="677"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text3">GPT-4o</text>
+       xml:space="preserve"
+       style="font-size:9px;writing-mode:lr-tb;direction:ltr;opacity:0.249;fill:#c41e3a;fill-opacity:1;stroke:#f925b2;stroke-width:19"
+       x="-225.9382"
+       y="683.08173"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:19" /></text>
   </g>
   <g
      id="g47"
-     transform="translate(136.47777,-50.405495)">
+     transform="translate(162.37705,-3.3551349)">
     <text
        x="-85.269997"
        y="659.5"
@@ -410,541 +410,454 @@
        text-anchor="middle"
        fill="#c41e3a"
        font-family="'Silent People'"
-       id="text4">Jun 2024</text>
-    <text
-       x="-85.269997"
-       y="647.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text5">Claude 3.5 Sonnet</text>
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="-85.269997"
+         y="659.5"
+         style="fill:#333333;fill-opacity:1">Jun 2024</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="-85.269997"
+         y="677"
+         style="fill:#333333;fill-opacity:1">Claude 3.5 Sonnet</tspan></text>
   </g>
-  <g
-     id="g48"
-     transform="translate(209.85907,-48.247222)">
-    <text
-       x="67.690002"
-       y="659"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text6">Jul-Aug 2024</text>
-    <text
-       x="67.690002"
-       y="672.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text11">Llama 3.1</text>
-    <text
-       x="67.690002"
-       y="686"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text12">Cursor IDE Growth</text>
-  </g>
-  <g
-     id="g49"
-     transform="translate(70.866255,94.198831)">
-    <text
-       x="221.8"
-       y="631"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text13">Sep-Oct 2024</text>
-    <text
-       x="221.8"
-       y="617.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text14">o1/o1-mini · Copilot Agent</text>
-    <text
-       x="221.8"
-       y="604"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text15">Claude 3.5 Haiku</text>
-  </g>
-  <g
-     id="g50"
-     transform="translate(-319.78124,80.385871)">
-    <text
-       x="372.32001"
-       y="648"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text16">Nov 2024</text>
-    <text
-       x="372.32001"
-       y="660"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text17">MCP / Windsurf</text>
-    <text
-       x="373.04733"
-       y="673.18158"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text17-4">Claude Opus 4.5</text>
-  </g>
-  <g
-     id="g51"
-     transform="translate(-487.3463,-31.285489)">
-    <text
-       x="378.95001"
-       y="750"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text18">Dec 2024</text>
-    <text
-       x="378.95001"
-       y="738"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text19">Gemini 2.0 Flash</text>
-    <text
-       x="378.95001"
-       y="726"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text20">Devin AI GA</text>
-  </g>
+  <text
+     x="296.54187"
+     y="637.94702"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text6"><tspan
+       sodipodi:role="line"
+       id="tspan12"
+       x="296.54187"
+       y="637.94702">Jul-Aug 2024</tspan><tspan
+       sodipodi:role="line"
+       id="tspan13"
+       x="296.54187"
+       y="655.44702">Llama 3.1</tspan><tspan
+       sodipodi:role="line"
+       x="296.54187"
+       y="672.94702"
+       id="tspan14">Cursor IDE Growth</tspan></text>
+  <text
+     x="305.93964"
+     y="733.93982"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text13"><tspan
+       sodipodi:role="line"
+       id="tspan15"
+       x="305.93964"
+       y="733.93982">Sep-Oct 2024</tspan><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="305.93964"
+       y="751.43982">Claude 3.5 Haiku</tspan><tspan
+       sodipodi:role="line"
+       x="305.93964"
+       y="768.93982"
+       id="tspan17">GPT01/01-mini</tspan><tspan
+       sodipodi:role="line"
+       x="305.93964"
+       y="786.43982"
+       id="tspan18">Copilot Agent</tspan></text>
+  <text
+     x="79.733017"
+     y="763.34991"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c41e3a"
+     font-family="'Silent People'"
+     id="text16"><tspan
+       sodipodi:role="line"
+       id="tspan19"
+       x="79.733017"
+       y="763.34991">Nov 2024</tspan><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="79.733017"
+       y="780.84991">MCP Protocol</tspan><tspan
+       sodipodi:role="line"
+       x="79.733017"
+       y="798.34991"
+       id="tspan21"
+       style="fill:#333333;fill-opacity:1">Windsurf</tspan></text>
+  <text
+     x="-104.61931"
+     y="767.05981"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan22"
+       x="-104.61931"
+       y="767.05981">Dec 2024</tspan><tspan
+       sodipodi:role="line"
+       id="tspan23"
+       x="-104.61931"
+       y="784.55981">Devin AI GA</tspan><tspan
+       sodipodi:role="line"
+       x="-104.61931"
+       y="802.05981"
+       id="tspan25">Gemini 2.0 Flash</tspan><tspan
+       sodipodi:role="line"
+       x="-104.61931"
+       y="819.55981"
+       id="tspan24" /></text>
   <g
      id="g52"
-     transform="translate(-473.88196,-17.599739)">
+     transform="translate(-454.88915,9.5945056)">
     <text
-       x="72"
-       y="758.5"
+       x="51.820145"
+       y="745.76617"
        font-size="14px"
        font-weight="bold"
        text-anchor="middle"
        fill="#c41e3a"
        font-family="'Silent People'"
-       id="text21">Feb 2025</text>
-    <text
-       x="72"
-       y="772"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text22">Claude Code CLI</text>
-    <text
-       x="72"
-       y="787"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text23">Opus 4.5 / GPT-4.5</text>
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="51.820145"
+         y="745.76617">Feb 2025</tspan><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="51.820145"
+         y="763.26617">Claude Code CLI</tspan><tspan
+         sodipodi:role="line"
+         x="51.820145"
+         y="780.76617"
+         id="tspan29"
+         style="fill:#333333;fill-opacity:1">Claude Sonnet 3.7</tspan><tspan
+         sodipodi:role="line"
+         x="51.820145"
+         y="798.26617"
+         id="tspan30"
+         style="fill:#333333;fill-opacity:1">GPT-4.5</tspan><tspan
+         sodipodi:role="line"
+         x="51.820145"
+         y="815.76617"
+         style="fill:#c41e3a;fill-opacity:1"
+         id="tspan84">Agent Mode in vscode</tspan></text>
   </g>
-  <g
-     id="g61"
-     transform="translate(-94.457496,89.450631)">
-    <text
-       x="-247.63"
-       y="728"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text24">Mar 2025</text>
-    <text
-       x="-247.63"
-       y="717.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text25">Gemini 2.5 Pro</text>
-  </g>
-  <g
-     id="g53"
-     transform="translate(111.4418,-50.83715)">
-    <text
-       x="-201.96001"
-       y="854"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text26">May 2025</text>
-    <text
-       x="-201.96001"
-       y="843.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text27">Copilot Workspace</text>
-  </g>
-  <g
-     id="g54"
-     transform="translate(-19.781235,-31.412689)">
-    <text
-       x="68.300003"
-       y="854.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text28">Jun 2025</text>
-    <text
-       x="68.300003"
-       y="865"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text29">Claude Sonnet 4</text>
-    <text
-       x="68.300003"
-       y="877"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text30">Agentic Mainstream</text>
-  </g>
+  <text
+     x="-321.36807"
+     y="870.00458"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text24"><tspan
+       sodipodi:role="line"
+       id="tspan31"
+       x="-321.36807"
+       y="870.00458">Mar 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan32"
+       x="-321.36807"
+       y="887.50458">Gemini 2.5 Pro</tspan></text>
+  <text
+     x="-67.748421"
+     y="857.87506"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text26"
+     style="fill:#c41e3a;fill-opacity:1"><tspan
+       sodipodi:role="line"
+       id="tspan33"
+       x="-67.748421"
+       y="857.87506">May 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan34"
+       x="-67.748421"
+       y="875.37506">Claude 4 Family</tspan><tspan
+       sodipodi:role="line"
+       x="-67.748421"
+       y="892.87506"
+       id="tspan79">Opus/Sonnet/Haiku</tspan><tspan
+       sodipodi:role="line"
+       x="-67.748421"
+       y="910.37506"
+       id="tspan35" /></text>
+  <text
+     x="72.089966"
+     y="852.11292"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c41e3a"
+     font-family="'Silent People'"
+     id="text28"><tspan
+       sodipodi:role="line"
+       id="tspan36"
+       x="72.089966"
+       y="852.11292">Jun 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan37"
+       x="72.089966"
+       y="869.61292">Agentic Mainstream</tspan></text>
   <g
      id="g55"
-     transform="translate(-144.96109,-45.657294)">
+     transform="translate(-125.96828,-18.463049)">
     <text
-       x="311.17999"
-       y="862"
+       x="322.77856"
+       y="885.57867"
        font-size="14px"
        font-weight="bold"
        text-anchor="middle"
        fill="#333333"
        font-family="'Silent People'"
-       id="text31">Jul 2025</text>
-    <text
-       x="311.17999"
-       y="850"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text32">GPT-5 Release</text>
-  </g>
-  <g
-     id="g56"
-     transform="translate(-122.51505,-97.455856)">
-    <text
-       x="411.38"
-       y="925"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text33">Aug 2025</text>
-    <text
-       x="411.38"
-       y="911.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text34">Reasoning Models</text>
-    <text
-       x="411.38"
-       y="898"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text35">Mainstream</text>
-  </g>
-  <g
-     id="g50-6"
-     transform="translate(17.156499,264.61605)">
-    <text
-       x="372.32001"
-       y="648"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text16-1">Sep 2025</text>
-    <text
-       x="372.32001"
-       y="661.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text17-3">Qwen3 Coder Next</text>
-  </g>
-  <g
-     id="g57"
-     transform="translate(-19.781235,-31.412689)">
-    <text
-       x="296.07999"
-       y="977.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text36">Oct 2025</text>
-    <text
-       x="296.07999"
-       y="989.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text37"><tspan
+       id="text31"><tspan
          sodipodi:role="line"
-         id="tspan62"
-         x="296.07999"
-         y="989.5">Model Cost Parity</tspan><tspan
+         id="tspan38"
+         x="322.77856"
+         y="885.57867">Jul 2025</tspan><tspan
          sodipodi:role="line"
-         id="tspan63"
-         x="296.07999"
-         y="1007">Agent Skills</tspan></text>
+         id="tspan39"
+         x="322.77856"
+         y="903.07867">GPT-5 Release</tspan></text>
   </g>
-  <g
-     id="g58"
-     transform="translate(-19.781235,-31.412689)">
-    <text
-       x="151.3"
-       y="948"
-       font-size="9"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text38"
-       style="font-size:14px">Nov 2025</text>
-    <text
-       x="151.3"
-       y="934.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text39">Claude 3.5 Haiku v2</text>
-  </g>
-  <g
-     id="g59"
-     transform="translate(-19.781235,-31.412689)">
-    <text
-       x="7.5999999"
-       y="945.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text40">Dec 2025</text>
-    <text
-       x="7.5999999"
-       y="957.5"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text41">Enterprise Agent</text>
-    <text
-       x="7.5999999"
-       y="971"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text42">Adoption</text>
-  </g>
-  <g
-     id="g54-6"
-     transform="translate(-171.91723,58.214861)">
-    <text
-       x="68.300003"
-       y="854.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text28-1">Dec-Jan</text>
-    <text
-       x="68.300003"
-       y="868"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text29-8">GasTown</text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People Bold';writing-mode:lr-tb;direction:ltr;opacity:0.312236;fill:none;stroke:#7fdbf7;stroke-width:23"
-       x="-95.633774"
-       y="875.42279"
-       id="text64"><tspan
-         sodipodi:role="line"
-         id="tspan64"
-         style="stroke-width:23"
-         x="-95.633774"
-         y="875.42279" /></text>
-  </g>
-  <g
-     id="g60"
-     transform="translate(-19.781235,-31.412689)">
-    <text
-       x="-133.62"
-       y="922.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text43">Jan 2026</text>
-    <text
-       x="-133.62"
-       y="909"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text44">Claude Opus 4.6</text>
-    <text
-       x="-133.62"
-       y="895.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#c41e3a"
-       font-family="'Silent People'"
-       id="text45">Sonnet 4.6</text>
-  </g>
-  <g
-     id="g59-1"
-     transform="translate(-280.87805,-12.508142)">
-    <text
-       x="7.5999999"
-       y="945.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text40-3">Feb 2026</text>
-    <text
-       x="8.4633112"
-       y="960.95325"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text41-59"><tspan
-         sodipodi:role="line"
-         id="tspan65"
-         x="8.4633131"
-         y="960.95325">GitHub Agentic</tspan><tspan
-         sodipodi:role="line"
-         id="tspan66"
-         x="8.4633112"
-         y="978.45325">workflows</tspan></text>
-  </g>
-  <g
-     id="g59-1-9"
-     transform="translate(-353.73693,-43.993736)">
-    <g
-       id="g1">
-      <text
-         x="8.4633093"
-         y="946.36328"
-         font-size="14px"
-         font-weight="bold"
-         text-anchor="middle"
-         fill="#333333"
-         font-family="'Silent People'"
-         id="text40-3-7">Feb-Apr 2026</text>
-      <text
-         x="8.4633112"
-         y="959.45325"
-         font-size="14px"
-         text-anchor="middle"
-         fill="#555555"
-         font-family="'Silent People'"
-         id="text41-59-3"><tspan
-           sodipodi:role="line"
-           id="tspan66-2"
-           x="8.4633112"
-           y="959.45325">Squad</tspan></text>
-    </g>
-  </g>
-  <g
-     id="g59-1-6"
-     transform="translate(-420.85923,-10.119636)">
-    <text
-       x="7.5999999"
-       y="945.5"
-       font-size="14px"
-       font-weight="bold"
-       text-anchor="middle"
-       fill="#333333"
-       font-family="'Silent People'"
-       id="text40-3-3">Apr 2026</text>
-    <text
-       x="8.4633112"
-       y="959.45325"
-       font-size="14px"
-       text-anchor="middle"
-       fill="#555555"
-       font-family="'Silent People'"
-       id="text41-59-6"><tspan
-         sodipodi:role="line"
-         id="tspan65-1"
-         x="8.4633112"
-         y="959.45325">Google</tspan><tspan
-         sodipodi:role="line"
-         id="tspan66-5"
-         x="8.4633112"
-         y="976.95325">Gemma 4</tspan></text>
-  </g>
+  <text
+     x="342.42459"
+     y="860.61401"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text33"><tspan
+       sodipodi:role="line"
+       id="tspan40"
+       x="342.42459"
+       y="860.61401">Aug 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan41"
+       x="342.42459"
+       y="878.11401">Mainstream</tspan><tspan
+       sodipodi:role="line"
+       x="342.42459"
+       y="895.61401"
+       id="tspan42">Reasoning Models</tspan></text>
+  <text
+     x="405.21075"
+     y="944.26227"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c41e3a"
+     font-family="'Silent People'"
+     id="text16-1"><tspan
+       sodipodi:role="line"
+       id="tspan43"
+       x="405.21075"
+       y="944.26227">Sep 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan44"
+       x="405.21075"
+       y="961.76227">Claude Sonnet 4.5</tspan><tspan
+       sodipodi:role="line"
+       x="405.21075"
+       y="979.26227"
+       id="tspan77">GitHub Copilot CLI beta</tspan><tspan
+       sodipodi:role="line"
+       x="405.21075"
+       y="996.76227"
+       id="tspan53"
+       style="fill:#333333;fill-opacity:1">Qwen3 Coder Next</tspan></text>
+  <text
+     x="271.56699"
+     y="958.57831"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text36"><tspan
+       sodipodi:role="line"
+       id="tspan45"
+       x="271.56699"
+       y="958.57831"
+       style="fill:#c41e3a;fill-opacity:1">Oct 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan46"
+       x="271.56699"
+       y="976.07831">Model Cost Parity</tspan><tspan
+       sodipodi:role="line"
+       x="271.56699"
+       y="993.57831"
+       id="tspan47"
+       style="fill:#c41e3a;fill-opacity:1">Agent Skills</tspan><tspan
+       sodipodi:role="line"
+       x="271.56699"
+       y="1011.0783"
+       id="tspan51">ClaudeHaiku 4.5</tspan></text>
+  <text
+     x="150.51158"
+     y="943.78156"
+     font-size="14"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text38"
+     style="font-size:14px;fill:#c41e3a;fill-opacity:1"><tspan
+       sodipodi:role="line"
+       id="tspan48"
+       x="150.51158"
+       y="943.78156">Nov 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan49"
+       x="150.51158"
+       y="961.28156">Claude Opus 4.5</tspan></text>
+  <text
+     x="11.618879"
+     y="943.64703"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text40"><tspan
+       sodipodi:role="line"
+       id="tspan54"
+       x="11.618879"
+       y="943.64703">Dec 2025</tspan><tspan
+       sodipodi:role="line"
+       id="tspan55"
+       x="11.618877"
+       y="961.14703">Enterprise Agent</tspan><tspan
+       sodipodi:role="line"
+       x="11.618879"
+       y="978.64703"
+       id="tspan56">Adoption</tspan></text>
+  <text
+     x="-57.430176"
+     y="992.35516"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c41e3a"
+     font-family="'Silent People'"
+     id="text28-1"><tspan
+       sodipodi:role="line"
+       id="tspan57"
+       x="-57.430176"
+       y="992.35516">Dec-Jan</tspan><tspan
+       sodipodi:role="line"
+       id="tspan58"
+       x="-57.430176"
+       y="1009.8552">GasTown</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People Bold';writing-mode:lr-tb;direction:ltr;opacity:0.312236;fill:none;stroke:#7fdbf7;stroke-width:23"
+     x="-248.5582"
+     y="960.83191"
+     id="text64"><tspan
+       sodipodi:role="line"
+       id="tspan64"
+       style="stroke-width:23"
+       x="-248.5582"
+       y="960.83191" /></text>
+  <text
+     x="-130.52351"
+     y="940.08014"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#c41e3a"
+     font-family="'Silent People'"
+     id="text43"><tspan
+       sodipodi:role="line"
+       id="tspan59"
+       x="-130.52351"
+       y="940.08014">Jan 2026</tspan><tspan
+       sodipodi:role="line"
+       id="tspan60"
+       x="-130.52351"
+       y="957.58014">ClaudeOpus4.6</tspan><tspan
+       sodipodi:role="line"
+       x="-130.52351"
+       y="975.08014"
+       id="tspan61">ClaudeSonnet4.6</tspan></text>
+  <text
+     x="-254.28525"
+     y="961.68616"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text40-3"><tspan
+       sodipodi:role="line"
+       id="tspan62"
+       x="-254.28525"
+       y="961.68616">Feb 2026</tspan><tspan
+       sodipodi:role="line"
+       id="tspan63"
+       x="-254.28525"
+       y="979.18616">GitHub Agentic</tspan><tspan
+       sodipodi:role="line"
+       x="-254.28525"
+       y="996.68616"
+       id="tspan65">workflows</tspan><tspan
+       sodipodi:role="line"
+       x="-254.28525"
+       y="1014.1862"
+       id="tspan78"
+       style="fill:#c41e3a;fill-opacity:1">GitHub Copilot CLI GA</tspan></text>
+  <text
+     x="-326.28082"
+     y="929.56378"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text40-3-7"><tspan
+       sodipodi:role="line"
+       id="tspan66"
+       x="-326.28082"
+       y="929.56378">Feb-Apr 2026</tspan><tspan
+       sodipodi:role="line"
+       id="tspan67"
+       x="-326.28082"
+       y="947.06378">Squad</tspan></text>
+  <text
+     x="-397.28799"
+     y="966.02783"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     font-family="'Silent People'"
+     id="text40-3-3"><tspan
+       sodipodi:role="line"
+       id="tspan74"
+       x="-397.28799"
+       y="966.02783">Apr 2026</tspan><tspan
+       sodipodi:role="line"
+       id="tspan75"
+       x="-397.28799"
+       y="983.52783">Google</tspan><tspan
+       sodipodi:role="line"
+       x="-397.28799"
+       y="1001.0278"
+       id="tspan76">Gemma 4</tspan></text>
   <metadata
      id="metadata1">
     <rdf:RDF>
@@ -954,4 +867,10 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <!--Pause:UntilPlay-->
+  <path
+     style="opacity:0.169336;fill:none;fill-opacity:1;stroke:#25f955;stroke-width:19;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 142.01439,948.64748 C 88.776455,941.30791 37.7638,933.96121 -26.278054,926.43797 c -54.757853,-3.89864 -78.722006,-4.3344 -135.466026,-0.25823"
+     id="path1"
+     sodipodi:nodetypes="ccc" />
 </svg>
