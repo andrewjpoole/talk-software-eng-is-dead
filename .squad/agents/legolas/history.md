@@ -30,6 +30,19 @@
 - Reference timeline at `.demo/assets/ai-timeline-reference.svg` has the complete data model
 - Key pattern: alternate text above/below dots within each row to avoid label overlap
 
+### 2026-05-01T10:01:33+01:00 — Gartner Hype Cycle SVG slide
+- Created `.demo/assets/gartner-hype-cycle.svg` matching hand-drawn style of `kubler-ross-change-curve.svg`
+- Same viewBox (`-480 498 960 540`), same `Silent People` font, same stroke styles (`stroke-width:3.017`, round caps/joins)
+- Reused identical Y-axis and X-axis path data from reference (same arrow groups with `sodipodi:nodetypes`)
+- Y-axis label "Expectations" (rotated ~-90.7°), X-axis label "Time"
+- Hype curve uses single continuous cubic bezier path with `stroke-dasharray:18.102` for animation compatibility
+- Curve shape: low start → sharp peak (~y=595) → deep trough (~y=902) → gradual rise → plateau (~y=718)
+- 5 stage labels use 24px font (slightly smaller than 32px title) with two-line `<tspan>` pairs for long names
+- Each stage separated by `<!--Pause:UntilPlay-->` with cyan ellipse markers (`fill:#21e3ff`, rx=6.41, ry=5.80)
+- Slide markdown (`.demo/slides/gartner-hype-cycle.md`) uses `animated-diagram.html` layout with `invert:true`, `speed:1200`
+- Scene inserted in `.demo/act1.json` as `demo-gartner-1` after `demo-quebec-2`, before `demo-dark-1`
+- No base64 images included — pure SVG elements only
+
 ## Session Completion
 
 ### 2026-04-30T11:18:00Z — Session finalized by Scribe

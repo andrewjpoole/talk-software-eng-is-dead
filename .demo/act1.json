@@ -65,6 +65,16 @@
       ]
     },
     {
+      "id": "demo-momq54or-lt7b",
+      "title": "hype-cycle",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/gartner-hype-cycle.md"
+        }
+      ]
+    },
+    {
       "id": "demo-humans-1",
       "title": "humans-still-nessecary",
       "moves": [
@@ -161,6 +171,16 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/quebec-bridge-2.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-gartner-1",
+      "title": "gartner-hype-cycle",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/gartner-hype-cycle.md"
         }
       ]
     },

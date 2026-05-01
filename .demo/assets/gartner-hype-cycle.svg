@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="960.000pt"
+   height="540.000pt"
+   version="1.1"
+   viewBox="-480.000 498.000 960.000 540.000"
+   id="svg1"
+   sodipodi:docname="gartner-hype-cycle.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.7375"
+     inkscape:cx="639.71223"
+     inkscape:cy="360"
+     inkscape:window-width="3840"
+     inkscape:window-height="2071"
+     inkscape:window-x="2551"
+     inkscape:window-y="121"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-178.42"
+     y="557.89"
+     id="text-title"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-178.42"
+       y="557.89"
+       id="tspan-title">GARTNER HYPE CYCLE</tspan></text>
+  <g
+     id="g-yaxis">
+    <path
+       id="STROKE_yaxis-main"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.017"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m -378.33,936.928 c 0.23933,-38.22597 5.73192,-76.22745 1.447,-114.462 -1.38541,-69.16516 5.27246,-138.87401 0.452,-207.669 -0.0285,-1.12015 0.84823,-17.05935 -0.137,-11.124 -2.92288,4.36275 -5.73973,9.35231 -8.094,13.835"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="STROKE_yaxis-arrow"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.017"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m -375.59804,604.45926 c -2.32322,-8.43637 6.26493,11.61371 6.83217,12.77661"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-936.72345"
+     y="-403.04608"
+     id="text-yaxis"
+     transform="rotate(-90.707651)"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-936.72345"
+       y="-403.04608"
+       id="tspan-yaxis">Expectations</tspan></text>
+  <g
+     id="g-xaxis">
+    <path
+       id="STROKE_xaxis-main"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.017"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m -371.893,942.476 c 6.45325,-1.4356 49.73202,-4.26583 67.102,-3.3335 77.45327,1.21499 154.90131,3.42396 232.403,3.0635 98.215264,9.62797 197.02097,3.41367 295.5235,6.723 36.30686,-0.0983 81.19119,-0.94755 113.4745,-1.807 -0.80384,-2.87721 -14.88126,-7.5229 -14.58348,-7.078"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="STROKE_xaxis-arrow"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.017"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 336.71871,947.37507 c -3.87017,4.02798 -6.73562,6.5382 -12.83462,10.69733"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-76.18"
+     y="983.02"
+     id="text-xaxis"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-76.18"
+       y="983.02"
+       id="tspan-xaxis">Time</tspan></text>
+  <g
+     id="g-curve">
+    <path
+       id="STROKE_hype-curve"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="3.017"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m -350.12,929.48 c 4.813,-8.237 13.627,-24.891 22.43,-42.816 14.109,-28.724 30.673,-63.418 48.92,-97.214 20.318,-37.612 39.27,-66.831 55.149,-87.42 18.713,-24.287 38.962,-47.319 52.48,-61.837 16.281,-17.487 29.133,-28.671 39.812,-35.428 12.147,-7.691 21.318,-10.172 28.549,-9.836 8.431,0.392 14.723,4.218 20.287,12.631 6.483,9.802 11.917,24.748 17.631,44.219 8.012,27.304 14.681,60.128 22.184,96.367 12.306866,45.90997 9.495484,85.00827 59.992151,106.55802 15.687784,8.21549 67.679125,7.322 80.229562,4.16961 28.343417,-7.11924 78.248017,-29.86876 104.937287,-54.28763 9.812,-13.718 18.281,-26.612 25.918,-37.281 6.912,-9.647 13.113,-17.428 18.431,-23.184 5.812,-6.297 10.812,-10.381 15.281,-12.631 5.217,-2.632 9.617,-3.218 13.431,-2.281 4.281,1.053 59.08854,-2.57136 76.60686,0.11791"
+       style="stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
+       sodipodi:nodetypes="cccccccccccscccccc" />
+  </g>
+  <!--Pause:UntilPlay-->
+  <ellipse
+     style="opacity:1;fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
+     id="dot-trigger"
+     cx="-348.32"
+     cy="928.14"
+     rx="6.4097452"
+     ry="5.799293" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-315.3064"
+     y="896.19696"
+     id="text-trigger"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-315.3064"
+       y="896.19696"
+       id="tspan-trigger">Technology</tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-315.3064"
+       y="926.19696"
+       id="tspan-trigger2">Trigger</tspan></text>
+  <!--Pause:UntilPlay-->
+  <ellipse
+     style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
+     id="dot-peak"
+     cx="-103.42"
+     cy="595.18"
+     rx="6.4097452"
+     ry="5.799293" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-56.895615"
+     y="606.95093"
+     id="text-peak"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-56.895615"
+       y="606.95093"
+       id="tspan-peak">Peak of Inflated</tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-56.895615"
+       y="636.95093"
+       id="tspan-peak2">Expectations</tspan></text>
+  <!--Pause:UntilPlay-->
+  <ellipse
+     style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
+     id="dot-trough"
+     cx="34.042587"
+     cy="860.93115"
+     rx="6.4097452"
+     ry="5.799293" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-17.028629"
+     y="889.14093"
+     id="text-trough"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-17.028629"
+       y="889.14093"
+       id="tspan-trough">Trough of</tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-17.028629"
+       y="919.14093"
+       id="tspan-trough2">Disillusionment</tspan></text>
+  <!--Pause:UntilPlay-->
+  <ellipse
+     style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
+     id="dot-slope"
+     cx="200.39633"
+     cy="807.54663"
+     rx="6.4097452"
+     ry="5.799293" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="184.49913"
+     y="840.78357"
+     id="text-slope"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="184.49913"
+       y="840.78357"
+       id="tspan-slope">Slope of</tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="184.49913"
+       y="870.78357"
+       id="tspan-slope2">Enlightenment</tspan></text>
+  <!--Pause:UntilPlay-->
+  <ellipse
+     style="fill:#21e3ff;fill-opacity:1;stroke-width:19;stroke-dasharray:18.102, 18.102;stroke-dashoffset:0"
+     id="dot-plateau"
+     cx="279.0495"
+     cy="729.53302"
+     rx="6.4097452"
+     ry="5.799293" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="258.97064"
+     y="760.22003"
+     id="text-plateau"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="258.97064"
+       y="760.22003"
+       id="tspan-plateau">Plateau of</tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="258.97064"
+       y="790.22003"
+       id="tspan-plateau2">Productivity</tspan></text>
+</svg>

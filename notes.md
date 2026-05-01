@@ -24,6 +24,9 @@ Ideas: could it be a retrospective on AI? with an animated SVG retro board?
 	- gold rush/arms race
 - there is potential danger ahead though if we are not careful
 - Quebec Bridge bridge disaster 29th August 1907, Iron rings and constant reminder,  Lévis
+St Lwrence river was 3.2km (2m) wide at its narrowest
+Main trade channel for Quebec, closed by ice during the winter, fast flowing, 5m tidal range, 58m deep at the middle
+Commercial competition with Montreal, who already had rail connection to Toronto and other bridges planned
 
 ### Emotional responses / Resistance is futile!
 
