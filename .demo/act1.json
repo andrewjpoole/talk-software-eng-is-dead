@@ -195,6 +195,16 @@
       ]
     },
     {
+      "id": "demo-moniys3x-39ks",
+      "title": "case-studies-flagstone",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/flagstone-correspondent-bank.md"
+        }
+      ]
+    },
+    {
       "id": "demo-retro-1",
       "title": "retro-board",
       "moves": [

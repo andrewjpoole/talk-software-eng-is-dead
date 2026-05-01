@@ -5,16 +5,13 @@
    version="1.1"
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
-   sodipodi:docname="template-1.svg"
+   sodipodi:docname="pace-of-change.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -26,14 +23,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.7771772"
-     inkscape:cx="544.68401"
+     inkscape:cx="765.82121"
      inkscape:cy="366.0299"
-     inkscape:window-width="2560"
-     inkscape:window-height="1511"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="3840"
+     inkscape:window-height="2071"
+     inkscape:window-x="2551"
+     inkscape:window-y="121"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />    
+     inkscape:current-layer="svg1" />
   <title
      id="title1">Drawing 4</title>
   <desc
@@ -170,63 +167,98 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="166.93118"
-     y="891.94208"
-     id="speech-bubble-text">
-     <tspan
-       sodipodi:role="line"
-       style="stroke-width:19"
-       x="166.93118"
-       y="891.94208"
-       id="tspan7-8">forget everything you thought you knew</tspan>
-   </text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="156.38074"
+     y="894.89618"
+     id="speech-bubble-text"><tspan
+   sodipodi:role="line"
+   style="font-size:28px;stroke-width:19"
+   x="156.38074"
+   y="894.89618"
+   id="tspan7-8">forget everything</tspan><tspan
+   sodipodi:role="line"
+   style="font-size:28px;stroke-width:19"
+   x="156.38074"
+   y="929.89618"
+   id="tspan8">you thought</tspan><tspan
+   sodipodi:role="line"
+   style="font-size:28px;stroke-width:19"
+   x="156.38074"
+   y="964.89618"
+   id="tspan9">you knew</tspan>   </text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-430.6044"
-     y="669.44794"
+     x="-431.87045"
+     y="635.68652"
      id="textP1"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-430.6044"
-       y="669.44794"
+       x="-431.87045"
+       y="635.68652"
        sodipodi:role="line"
-       id="tspan4">the huge amount of noise, options, marketing hype</tspan></text>
+       id="tspan4">- huge amount of noise, experimentation,</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-431.87045"
+       y="676.02759"
+       sodipodi:role="line"
+       id="tspan2">options, marketing hype</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-430.6044"
-     y="765.1756"
+     x="-433.98053"
+     y="735.08258"
      id="textP2"><tspan
        id="tspan1-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-430.6044"
-       y="765.1756"
-       sodipodi:role="line">github stars are useful</tspan></text>
+       x="-433.98053"
+       y="735.08258"
+       sodipodi:role="line">- github stars are useful</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-430.6044"
-     y="859.87921"
+     x="-435.66861"
+     y="792.44159"
      id="textP3"><tspan
        sodipodi:role="line"
        style="stroke-width:19"
-       x="-430.6044"
-       y="859.87921"
-       id="tspan6">your own experimentation is massively important</tspan></text>
+       x="-435.66861"
+       y="792.44159"
+       id="tspan6">- your own experimentation is </tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-435.66861"
+       y="832.44159"
+       id="tspan3">massively important</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-430.6044"
-     y="954.45483"
+     x="-438.20071"
+     y="891.49658"
      id="textP4"><tspan
        sodipodi:role="line"
        style="stroke-width:19"
-       x="-430.6044"
-       y="954.45483"
-       id="tspan7">don't try to read everything, just follow a few people, learn together, level eachother up, don't compete</tspan></text>
+       x="-438.20071"
+       y="891.49658"
+       id="tspan7">- don't try to read everything, </tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-438.20071"
+       y="931.49658"
+       id="tspan5">just follow a few people</tspan></text>
+  <!--Pause:UntilPlay-->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-443.72998"
+     y="988.66357"
+     id="textP4-6"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-443.72998"
+       y="988.66357"
+       id="tspan5-6">- learn together, level eachother up</tspan></text>
 </svg>
