@@ -195,6 +195,16 @@
       ]
     },
     {
+      "id": "demo-mooswb34-qbpy",
+      "title": "squad",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/squad.md"
+        }
+      ]
+    },
+    {
       "id": "demo-moniys3x-39ks",
       "title": "case-studies-flagstone",
       "moves": [

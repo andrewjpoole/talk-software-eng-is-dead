@@ -6,25 +6,18 @@ In this hopefully positive and optimistic talk, Andrew will share some practical
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Ideas: could it be a retrospective on AI? with an animated SVG retro board?
-- good, bad and ugly?
-
-- Intro									graveyard, gravestone RIP, Ai robot filling in grave?
-- what's happened?						race finish line, AI vested person/robot surging ahead
-- what's good?							
-- Demo?
-- what's bad?							AI character in evil liar etc
-- what's next? (end with actions)		long windy road ahead/ road to the machine city from the Matrix
-
 ## Intro
 
 - RIP software engineering as we knew it
 - wasn't determinism something we liked?
 - the whole thing feels like a bad idea, unregulated capitalism is ill-equipped to handle the existential risks of AI
 	- gold rush/arms race
+
+
+
 - there is potential danger ahead though if we are not careful
 - Quebec Bridge bridge disaster 29th August 1907, Iron rings and constant reminder,  Lévis
-St Lwrence river was 3.2km (2m) wide at its narrowest
+St Lawrence river was 3.2km (2m) wide at its narrowest
 Main trade channel for Quebec, closed by ice during the winter, fast flowing, 5m tidal range, 58m deep at the middle
 Commercial competition with Montreal, who already had rail connection to Toronto and other bridges planned
 Dodgy tendering decisions
@@ -47,30 +40,16 @@ message was ignored until 5:15 when in a meeting they decided to defer the decis
 - Ours is not the first, nor will it be the last industry to be changed forever by AI
 - Kübler-Ross change processes
 - what is the value we add?
-	- we are the arbiters of change, not writers of code
 	- it was never about the code, although thats how we identified ourselves
 	- need to shift our value earlier in the process
-	- plenty of things still needed from humans: 
-		- ideas
-		- sanity checking for ideas
-		- domain knowledge
-		- interpretation of the real world, domain modeling, event storming etc
-		- learnings from failures
-		- architecture & distributed systems strategies
-		- systems thinking
-		- discerning overcomplexity with respect to the complexity of the problem 
-		- plain old common sense
-		- oversight of test fitness, that tests adequately prove that the system is doing what it should, become hugely important
-		- anything truly new or novel, this is pretty rare, but models can only remix existing things from their training corpus or things you point them at
+	- plenty of things still needed from humans
 
 ### Pace of change
 
 - Cutting through the crap
 	- the huge amount of noise, options, marketing hype
 	- github stars are useful
-	- your own experimentation is massively important
-	- 
-	
+	- your own experimentation is important	
 	
 - state of the art
 	- Gas town, Beads & Dolt, OpenSpec, Speckit, BMAD etc
@@ -131,6 +110,15 @@ What should we be aiming for?
 	- squad on k8s
 	- pluggable storage, so you can use Beads etc
 
+### Productivity Gains
+
+	- most people are seeing that generating code is much faster
+	- people talk about 2 - 10x gains
+	- but the writing of code probably wasn't the bottleneck
+	- objectively I feel like our team is perhaps 1.5 - 2 x faster
+	- difficult to measure
+	- cost of tokens also increasingly important
+
 ### Things which still need to improve
 
 - working accross repos, especially with the shift towards unix philosophy
@@ -140,9 +128,8 @@ What should we be aiming for?
 
 ### Crystal ball
 
-- what will the future look like?
-- riskiness
 - shapes and sizes, unix philosophy, ethemeral code?
+- effect on teams?
 - predicting which things will work & survive (mostly stuff we already know and use)
 	- TDD
 	- SOLID
@@ -166,14 +153,8 @@ What should we be aiming for?
 - junior jobs
 - lack of a professional body
 
+- Mental and physical effects
 - AI vampire, dopamine, slot machine, burnout, who should benefit from the productivity increase?
-
-### Call to Action
-- LETS NOT STOP HIRING JUNIORS!!!
-- learn together, level eachother up
-- remember the Risk spectrum
-
-
 
 
 
@@ -303,12 +284,11 @@ clarity on the direction in terms of UX
 	- Control (YOLO, dangerouslySkipPermissions)
 	- running local models
 	- use AI to build AI
-- Squad
 - Pricing
 - Slot machine, dopamine
+- Case studies, outlines and results etc
 
 - Productivity Gains
-- Improvements needed
 - Crystal Ball
 - Dark side
 
@@ -317,8 +297,10 @@ clarity on the direction in terms of UX
 - practice timings
 
 - UI mockups from work?
+- squad roster screenshot?
 - quote from Lee?
 - more AI quotes?
-	- terminator/skynet
-	- Holly from RedDwarf 
-		- "I should never have let him out in the first place."
+	- terminator
+		- "There is no fate but what we make for ourselves."
+		- "I'll be back."
+		- "Come with me if you want to live."
