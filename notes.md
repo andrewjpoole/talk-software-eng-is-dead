@@ -293,3 +293,32 @@ Actual outcome
 enjoyment and collaborative sense of progress
 clarity on the direction in terms of UX
 
+## ToDo
+
+- improve RIP drawing
+- Concepts slide(s)
+	- context, tokens, cost
+	- MCP (relatively hard abstraction, based on API, takes up context)
+	- Skills (much softer, large but canned prompt, with tools, context efficient)
+	- Control (YOLO, dangerouslySkipPermissions)
+	- running local models
+	- use AI to build AI
+- Squad
+- Pricing
+- Slot machine, dopamine
+
+- Productivity Gains
+- Improvements needed
+- Crystal Ball
+- Dark side
+
+- Notes
+- Ordering of slides/sections
+- practice timings
+
+- UI mockups from work?
+- quote from Lee?
+- more AI quotes?
+	- terminator/skynet
+	- Holly from RedDwarf 
+		- "I should never have let him out in the first place."

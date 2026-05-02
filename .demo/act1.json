@@ -205,6 +205,16 @@
       ]
     },
     {
+      "id": "demo-moo4ebwf-sr9y",
+      "title": "improvements-needed",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/improvements-needed.md"
+        }
+      ]
+    },
+    {
       "id": "demo-monkjr7o-6qu7",
       "title": "crystal-ball-time",
       "moves": [
