@@ -85,6 +85,36 @@
       ]
     },
     {
+      "id": "demo-monklwcj-le3g",
+      "title": "what-things-are-important",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/what-things-are-important.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-models-1",
+      "title": "models-1",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/models-1.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mon2je3b-ea92",
+      "title": "tools-1",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/tools-1.md"
+        }
+      ]
+    },
+    {
       "id": "demo-mollbmm8-6uwx",
       "title": "what-should-we-be-aiming-for",
       "moves": [
@@ -121,26 +151,6 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/risk-spectrum-2.md"
-        }
-      ]
-    },
-    {
-      "id": "demo-models-1",
-      "title": "models-1",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/models-1.md"
-        }
-      ]
-    },
-    {
-      "id": "demo-mon2je3b-ea92",
-      "title": "tools-1",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/tools-1.md"
         }
       ]
     },
@@ -185,16 +195,6 @@
       ]
     },
     {
-      "id": "demo-gartner-1",
-      "title": "gartner-hype-cycle",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/gartner-hype-cycle.md"
-        }
-      ]
-    },
-    {
       "id": "demo-moniys3x-39ks",
       "title": "case-studies-flagstone",
       "moves": [
@@ -205,12 +205,12 @@
       ]
     },
     {
-      "id": "demo-retro-1",
-      "title": "retro-board",
+      "id": "demo-monkjr7o-6qu7",
+      "title": "crystal-ball-time",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/retro-board.md"
+          "path": ".demo/slides/crystal-ball-time.md"
         }
       ]
     },
@@ -225,8 +225,8 @@
       ]
     },
     {
-      "id": "demo-momspptl-rdfo",
-      "title": "retro",
+      "id": "demo-retro-1",
+      "title": "retro-board",
       "moves": [
         {
           "action": "openSlide",
