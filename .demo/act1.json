@@ -75,6 +75,26 @@
       ]
     },
     {
+      "id": "demo-pace-1",
+      "title": "pace-of-change",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/pace-of-change.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mopkm7v8-txq7",
+      "title": "effects-on-health",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/pace-of-change.md"
+        }
+      ]
+    },
+    {
       "id": "demo-humans-1",
       "title": "humans-still-nessecary",
       "moves": [
@@ -155,22 +175,22 @@
       ]
     },
     {
-      "id": "demo-pace-1",
-      "title": "pace-of-change",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/pace-of-change.md"
-        }
-      ]
-    },
-    {
       "id": "demo-productivity-1",
       "title": "productivity-gains",
       "moves": [
         {
           "action": "openSlide",
           "path": ".demo/slides/productivity-gains.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mopl2rit-r4xw",
+      "title": "risks",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/risks.md"
         }
       ]
     },
@@ -211,6 +231,26 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/flagstone-correspondent-bank.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mops1qtj-bkm9",
+      "title": "case-studies-report-mapper-1",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/case-study-1.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mopsv665-vvlm",
+      "title": "case-studies-ui-mockup",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/case-study-2.md"
         }
       ]
     },
@@ -261,16 +301,6 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/slide-test.md"
-        }
-      ]
-    },
-    {
-      "id": "demo-mog9h3ta-7qlc",
-      "title": "test2",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/slide-test2.md"
         }
       ]
     }

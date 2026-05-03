@@ -5,13 +5,16 @@
    version="1.1"
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
-   sodipodi:docname="productivity-gains.svg"
+   sodipodi:docname="risks.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -32,7 +35,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <title
-     id="title1">Drawing 4</title>
+     id="title1">risks</title>
   <desc
      id="desc1">Drawing exported from Concepts: Smarter Sketching</desc>
   <defs
@@ -86,7 +89,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
        x="-435.44122"
        y="573.16278"
-       sodipodi:role="line">PRODUCTIVITY GAINS</tspan></text>
+       sodipodi:role="line">RISKS</tspan></text>
   <g
      id="speech-bubble"
      opacity="1.000">
@@ -161,58 +164,62 @@
        style="stroke-width:19"
        x="166.93118"
        y="891.94208"
-       id="tspan7-8">10x? 100x?</tspan></text>
+       id="tspan7-8">?</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-441.57684"
-     y="659.74152"
+     x="-442.42087"
+     y="635.26453"
      id="textP1"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-441.57684"
-       y="659.74152"
+       x="-442.42087"
+       y="635.26453"
        sodipodi:role="line"
-       id="tspan4">- Creation of code is significantly faster</tspan></text>
+       id="tspan5">- security</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-441.57684"
-     y="741.78381"
+     x="-442.42087"
+     y="749.88733"
      id="textP2"><tspan
-       id="tspan1-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-441.57684"
-       y="741.78381"
-       sodipodi:role="line">- Hype: 2x - 10x per developer gains?</tspan></text>
+       x="-442.42087"
+       y="749.88733"
+       sodipodi:role="line"
+       id="tspan9">- cognitive or comprehension debt</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-441.57684"
-     y="823.63409"
+     x="-442.42087"
+     y="864.51013"
      id="textP3"><tspan
        sodipodi:role="line"
        style="stroke-width:19"
-       x="-441.57684"
-       y="823.63409"
-       id="tspan6">- Reality: ? subjectively I believe my team</tspan><tspan
-       sodipodi:role="line"
-       style="stroke-width:19"
-       x="-441.57684"
-       y="863.63409"
-       id="tspan2">is perhaps 1.5 - 1.8x faster with Agents?</tspan></text>
+       x="-442.42087"
+       y="864.51013"
+       id="tspan8">- proliferation of built tools/components</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-441.57684"
-     y="944.74841"
+     x="-442.42087"
+     y="978.08783"
      id="textP4"><tspan
        sodipodi:role="line"
        style="stroke-width:19"
-       x="-441.57684"
-       y="944.74841"
-       id="tspan7">- Token cost increasinly important</tspan></text>
+       x="-442.42087"
+       y="978.08783"
+       id="tspan7">- something really bad happening...</tspan></text>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>risks</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>

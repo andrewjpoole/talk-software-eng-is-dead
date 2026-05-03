@@ -39,6 +39,15 @@ message was ignored until 5:15 when in a meeting they decided to defer the decis
 
 - Ours is not the first, nor will it be the last industry to be changed forever by AI
 - Kübler-Ross change processes
+	- Shock
+	- Denial (disbelief, looking for evidence that it isn't true)
+	- Frustration (recognition that things are different, sometimes anger)
+	- Depression (low mood, lacking in energy)
+	- Experiment (initial engagement with a new solution)
+	- Decision (Learning how to work in the new situation)
+	- Integration (changes integrated, a renewed individual)
+	- Hopefully the we end up at the same hieght or higher than the starting point.
+	- For a resctructure etc the initial stages can be quite rapid, for AI its been a long time coming
 - what is the value we add?
 	- it was never about the code, although thats how we identified ourselves
 	- need to shift our value earlier in the process
@@ -50,14 +59,12 @@ message was ignored until 5:15 when in a meeting they decided to defer the decis
 	- the huge amount of noise, options, marketing hype
 	- github stars are useful
 	- your own experimentation is important	
+	- share knowledge and level eachother up
 	
-- state of the art
+- state of the art?
 	- Gas town, Beads & Dolt, OpenSpec, Speckit, BMAD etc
 
-What should we be aiming for?
-- Steve Yegges levels
-- introduce the Risk spectrum, how far/fast we go, what we compromise on, what we care about, what we review all depends on what we are building, criticality and risk e.g. nuclear reactor control, medical tech, defense tech, even financial transactions require more rigour, scrutiny and deep understanding of the code/inner workings. A SentimentChecker app, who cares!
-
+### What things are important
 - Tools 
 - Claude, Github Copilot CLI, Open Code
 - MCP servers
@@ -66,13 +73,10 @@ What should we be aiming for?
 - Squad (more later)
 
 - Models
-	- commercial frontier / open wieght
 	- context windows and why they are important
 	- who's on top at the moment?
 	- pricing
 	- interesting developments - Google tensor
-	- how to compare?
-	- how to choose?
 	
 - Control
 	- dangerouslySkipPermissions (claude)
@@ -83,6 +87,11 @@ What should we be aiming for?
 - Concepts
 	- use AI to build AI (turtles)
 	- David Whitney Agent alongside etc
+
+What should we be aiming for?
+- Steve Yegges levels
+- introduce the Risk spectrum, how far/fast we go, what we compromise on, what we care about, what we review all depends on what we are building, criticality and risk e.g. nuclear reactor control, medical tech, defense tech, even financial transactions require more rigour, scrutiny and deep understanding of the code/inner workings. A SentimentChecker app, who cares!
+
 
 ### Real life case studies: Squad
 
@@ -115,7 +124,7 @@ What should we be aiming for?
 	- most people are seeing that generating code is much faster
 	- people talk about 2 - 10x gains
 	- but the writing of code probably wasn't the bottleneck
-	- objectively I feel like our team is perhaps 1.5 - 2 x faster
+	- objectively I feel like our team is perhaps 1.5 - 1.8 x faster
 	- difficult to measure
 	- cost of tokens also increasingly important
 
@@ -143,11 +152,13 @@ What should we be aiming for?
 	- keeping data secure
 	- baking in security
 	- token efficiency
+- projects and product teams will have both a human and token resource budgets
+- local models will become crucial to control costs
 
 ### Dark side
 
 - project lavenda
-- we are literally throwing money and power at a very small number of US tech companies/MAGA
+- we are literally throwing money and power at a very small number of exclusively US tech companies/MAGA
 - massive environmental impact
 - running local open weight models via ollama is a thing
 - junior jobs
@@ -176,6 +187,41 @@ there is a lot of strange and complex logic in this area
 A single static class with 700 lines of uncomprehensible regex, shared between all scenarios (all payment types, credit and debit)
 Aim
 
+```xml
+<Ntry>
+    <NtryRef>20260503-001</NtryRef>
+    <Amt Ccy="EUR">1500.00</Amt>
+    <CdtDbtInd>CRDT</CdtDbtInd>
+    <Sts>BOOK</Sts>
+    <BkTxCd>
+        <Domn>
+            <Cd>PMNT</Cd>
+            <Fmly>
+                <Cd>NTFR</Cd>
+                <SubFmlyCd>MCOP</SubFmlyCd>
+            </Fmly>
+        </Domn>
+    </BkTxCd>
+    <ValDt>
+        <Dt>2026-05-03</Dt>
+    </ValDt>
+    <AcctSvcrRef>REF123456789</AcctSvcrRef>
+    <NtryDtls>
+        <TxDtls>
+            <Refs>
+                <EndToEndId>E2E-987654321</EndToEndId>
+            </Refs>
+            <AmtDtls>
+                <TxAmt>
+                    <Amt Ccy="EUR">1500.00</Amt>
+                </TxAmt>
+            </AmtDtls>
+            <AddtlNtryInf>INV-2026-0503; Customer ID: 998877; Project Alpha payment.</AddtlNtryInf>
+        </TxDtls>
+    </NtryDtls>
+</Ntry>
+```
+
 we identified a better way to send a unique identifier along with automated payments, but required a ReportMapper change to read these identifiers on the way back in
 Desired outcomes
 
@@ -203,11 +249,14 @@ We now have a strategy per payment type and direction
 We are also seeing RemittanceAccount info correctly parsed on transactions where the old legacy ReportMapper was not able.
 Analysis of PR #365 — Task/253602 reference changes phase 1 (merged, 70 files, 10,968 LOC):
 
-Folder	Added	Deleted	Total	%
-.squad	+4,579	-6	4,585	41.8%
-tests	+4,244	-10	4,254	38.8%
-src	+1,253	-29	1,282	11.7%
-docs	+843	-1	844	7.7%
+|Folder|Added|Deleted|Total|%|
+|---|---|---|---|---|
+|.squad| +4,579| -6	 |4,585	|41.8%|
+|tests | +4,244| -10 |4,254	|38.8%|
+|src   | +1,253| -29 |1,282	|11.7%|
+|docs  | +843  | -1	 |844	|7.7% |
+
+
 Observations
 
 Speed, this change was large, it was complex and performs a critical job, everyone was afraid to go there. Speed is difficult to measure, but:
@@ -285,10 +334,15 @@ clarity on the direction in terms of UX
 	- running local models
 	- use AI to build AI
 - Pricing
-- Slot machine, dopamine
+	- gateway drug
+
 - Case studies, outlines and results etc
 
-- Productivity Gains
+- Risks
+	- security risks 
+	- cognitive or comprehension debt
+	- proliferation of built tools, while tool/SaaS vendors struggle and die, is this a good thing?
+
 - Crystal Ball
 - Dark side
 
