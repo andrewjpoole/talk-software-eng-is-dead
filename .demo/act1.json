@@ -45,16 +45,6 @@
       ]
     },
     {
-      "id": "demo-mok9hn1o-l199",
-      "title": "emotional-responses-2",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/resistance-is-futile-2.md"
-        }
-      ]
-    },
-    {
       "id": "demo-kubler-1",
       "title": "kubler-ross-change-curve",
       "moves": [
@@ -90,7 +80,7 @@
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/pace-of-change.md"
+          "path": ".demo/slides/effects-on-health.md"
         }
       ]
     },
@@ -145,6 +135,16 @@
       ]
     },
     {
+      "id": "demo-productivity-1",
+      "title": "productivity-gains",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/productivity-gains.md"
+        }
+      ]
+    },
+    {
       "id": "demo-steve-1",
       "title": "steve-yegges-levels",
       "moves": [
@@ -171,16 +171,6 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/risk-spectrum-2.md"
-        }
-      ]
-    },
-    {
-      "id": "demo-productivity-1",
-      "title": "productivity-gains",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/productivity-gains.md"
         }
       ]
     },
@@ -236,7 +226,7 @@
     },
     {
       "id": "demo-mops1qtj-bkm9",
-      "title": "case-studies-report-mapper-1",
+      "title": "case-studies-report-mapper",
       "moves": [
         {
           "action": "openSlide",

@@ -155,13 +155,7 @@ What should we be aiming for?
 - projects and product teams will have both a human and token resource budgets
 - local models will become crucial to control costs
 
-### Dark side
 
-- project lavenda
-- we are literally throwing money and power at a very small number of exclusively US tech companies/MAGA
-- massive environmental impact
-- running local open weight models via ollama is a thing
-- junior jobs
 - lack of a professional body
 
 - Mental and physical effects
@@ -326,6 +320,11 @@ clarity on the direction in terms of UX
 ## ToDo
 
 - improve RIP drawing
+- add case studies title page
+- some missing images/quotes
+	- effects-on-health
+	- productivity-gains
+	- risks
 - Concepts slide(s)
 	- context, tokens, cost
 	- MCP (relatively hard abstraction, based on API, takes up context)
@@ -336,15 +335,10 @@ clarity on the direction in terms of UX
 - Pricing
 	- gateway drug
 
-- Case studies, outlines and results etc
+- Case studies slides improvements
+- Survey slides?
 
-- Risks
-	- security risks 
-	- cognitive or comprehension debt
-	- proliferation of built tools, while tool/SaaS vendors struggle and die, is this a good thing?
-
-- Crystal Ball
-- Dark side
+## After slides done...
 
 - Notes
 - Ordering of slides/sections
