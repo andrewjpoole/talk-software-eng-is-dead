@@ -27,12 +27,12 @@
      inkscape:zoom="1.7375"
      inkscape:cx="454.38849"
      inkscape:cy="385.89928"
-     inkscape:window-width="3840"
-     inkscape:window-height="2071"
-     inkscape:window-x="2551"
-     inkscape:window-y="121"
+     inkscape:window-width="2560"
+     inkscape:window-height="1511"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="g69" />
   <title
      id="title1">Drawing 4</title>
   <desc
@@ -74,8 +74,8 @@
        style="opacity:1;stroke:#5d0f96;stroke-width:25;stroke-dasharray:none;stroke-opacity:0.342995"
        sodipodi:nodetypes="ccccccccccccccc" />
     <text
-       x="-157.97714"
-       y="795.95984"
+       x="-182.15337"
+       y="796.07983"
        text-anchor="start"
        alignment-baseline="mathematical"
        font-size="24px"
@@ -83,11 +83,38 @@
        fill="#000000"
        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
        id="text3-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"
        transform="rotate(-0.73861326)"><tspan
-         x="-157.97714"
+         x="-182.15337"
          id="tspan3-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Tools</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Interface</tspan></text>
+    <text
+       x="-23.23255"
+       y="636.98492"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-39-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         sodipodi:role="line"
+         id="tspan55-8"
+         x="-23.23255"
+         y="636.98492"><tspan
+           x="-23.23255"
+           id="tspan3-39-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">JetBrains</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan56-2"
+         x="-23.23255"
+         y="664.59857">Rider</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -65.070049,632.71178 c 11.93168,1.5262 27.67257,3.95308 37.17249,4.82071"
+       id="path14-6"
+       sodipodi:nodetypes="cc" />
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

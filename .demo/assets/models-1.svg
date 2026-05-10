@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.7375"
-     inkscape:cx="749.64029"
-     inkscape:cy="410.64748"
+     inkscape:cx="689.20863"
+     inkscape:cy="262.73381"
      inkscape:window-width="3840"
      inkscape:window-height="2071"
      inkscape:window-x="2551"
@@ -89,15 +89,15 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#999999;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 16.187066,791.52519 C 95.825877,779.74978 357.15703,833.36396 434.24464,851.09354"
+       d="M 16.187066,791.52519 C 95.825877,779.74978 379.17142,836.8172 456.25903,854.54678"
        id="path2"
        sodipodi:nodetypes="cc" />
     <text
-       x="730.45154"
-       y="722.48773"
+       x="741.83661"
+       y="724.82574"
        text-anchor="start"
        alignment-baseline="mathematical"
-       font-size="24px"
+       font-size="18px"
        font-weight="lighter"
        fill="#000000"
        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
@@ -105,35 +105,40 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';text-align:end;text-anchor:end;fill:#999999;fill-opacity:1;stroke-width:0.920455"
        transform="rotate(10.196636)"><tspan
          sodipodi:role="line"
-         id="tspan1"
-         x="581.53754"
-         y="722.48773"><tspan
-           x="581.53754"
-           id="tspan3-9-9-3-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#999999;fill-opacity:1;stroke-width:0.920455">Closed</tspan></tspan><tspan
-         sodipodi:role="line"
          id="tspan2"
-         x="581.53754"
-         y="744.98773"><tspan
-           x="581.53754"
+         x="592.92261"
+         y="724.82574"><tspan
+           x="592.92261"
+           id="tspan3-9-9-3-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#999999;fill-opacity:1;stroke-width:0.920455">Closed/</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="592.92261"
+         y="747.32574"
+         id="tspan4"><tspan
+           x="592.92261"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#999999;fill-opacity:1;stroke-width:0.920455"
-           id="tspan3">commercial frontier</tspan></tspan></text>
+           id="tspan5">Commercial</tspan></tspan></text>
     <text
-       x="487.4494"
-       y="780.34436"
+       x="502.50519"
+       y="781.14496"
        text-anchor="start"
        alignment-baseline="mathematical"
-       font-size="24px"
+       font-size="18px"
        font-weight="lighter"
        fill="#000000"
        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
        id="text3-1-2-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#999999;fill-opacity:1;stroke-width:0.920455"
        transform="rotate(10.196636)"><tspan
-         x="487.4494"
+         x="502.50519"
          id="tspan3-9-9-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#999999;fill-opacity:1;stroke-width:0.920455">Open weight</tspan></text>
   </g>
+  <!--Pause:UntilPlay-->
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m -178.43675,797.12144 c -12.28921,4.8784 -24.70691,9.51835 -36.62712,15.26129"
+     id="path7" />
   <g
      id="g45">
     <path
@@ -185,6 +190,10 @@
          x="-446.10361"
          id="tspan3-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Codex</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -360.35143,845.95759 c -5.48302,0.21053 -15.29609,13.04266 -18.31355,9.76723"
+       id="path25" />
     <text
        x="-441.3284"
        y="793.21771"
@@ -199,6 +208,10 @@
          x="-441.3284"
          id="tspan3-19"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">GPT</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -362.18278,802.00505 c -12.58747,-6.35222 -26.77212,-8.88114 -39.06892,-15.87174"
+       id="path26" />
     <text
        x="-347.35129"
        y="740.96948"
@@ -213,6 +226,10 @@
          x="-347.35129"
          id="tspan3-19-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">GPT-mini</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -297.47488,780.63923 c -6.5582,-9.23719 -8.89517,-20.56859 -14.04039,-30.52259"
+       id="path18" />
     <text
        x="-416.37634"
        y="939.2749"
@@ -229,25 +246,13 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">GPT-OSS</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -297.47488,780.63923 c -6.5582,-9.23719 -8.89517,-20.56859 -14.04039,-30.52259"
-       id="path18" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -324.33476,864.27115 c -8.58464,18.02269 -20.73219,35.01132 -24.41807,54.94067"
        id="path24" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -360.35143,845.95759 c -5.48302,0.21053 -15.29609,13.04266 -18.31355,9.76723"
-       id="path25" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -362.18278,802.00505 c -12.58747,-6.35222 -26.77212,-8.88114 -39.06892,-15.87174"
-       id="path26" />
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m -178.43675,797.12144 c -12.28921,4.8784 -24.70691,9.51835 -36.62712,15.26129"
-     id="path7" />
+     d="m -99.688455,731.19263 c -8.600885,-21.53948 -19.615435,-42.93029 -20.755365,-66.53925"
+     id="path11" />
   <g
      id="g43">
     <path
@@ -299,6 +304,10 @@
          x="-355.41833"
          id="tspan3-196"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Claude Opus</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -205.29664,605.43954 c -7.87411,-3.36359 -15.16624,-7.98038 -23.19718,-10.98814"
+       id="path12" />
     <text
        x="-229.65573"
        y="544.97314"
@@ -313,6 +322,10 @@
          x="-229.65573"
          id="tspan3-12"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Claude Sonnet</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -135.70512,571.86468 c 1.36161,-7.39053 -3.00144,-14.08116 -3.05226,-21.36582"
+       id="path13" />
     <text
        x="-59.222282"
        y="565.3634"
@@ -329,23 +342,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Claude Haiku</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -205.29664,605.43954 c -7.87411,-3.36359 -15.16624,-7.98038 -23.19718,-10.98814"
-       id="path12" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -135.70512,571.86468 c 1.36161,-7.39053 -3.00144,-14.08116 -3.05226,-21.36582"
-       id="path13" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -42.305977,599.94547 c 11.068377,-6.24358 19.012522,-16.39976 28.080787,-25.02853"
        id="path14" />
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m -99.688455,731.19263 c -8.600885,-21.53948 -19.615435,-42.93029 -20.755365,-66.53925"
-     id="path11" />
+     d="M 16.907857,767.81974 C 39.471114,756.31812 30.168469,758.3928 53.471443,752.2622"
+     id="path8"
+     sodipodi:nodetypes="cc" />
   <g
-     id="g46">
+     id="g46"
+     transform="translate(-36.258993,-10.359712)">
     <path
        id="STROKE_159814cf-632e-4eb9-b421-a8c2d413ad50-1-2"
        opacity="1"
@@ -366,45 +373,7 @@
        stroke-linecap="round"
        stroke-linejoin="round"
        d="m 97.444679,743.2202 c 2.817471,-25.14462 34.586281,-27.59506 54.611991,-27.35358 21.82024,0.29328 53.5788,5.02335 60.99462,28.55976 0.45342,21.86151 -22.31599,31.54364 -40.94135,32.40143 -22.08842,2.46325 -45.65369,0.96595 -65.96657,-8.48167 -21.124908,-18.30217 7.45629,-41.88366 27.80873,-40.42108 8.89462,-2.26418 32.68402,-5.94942 10.70869,-0.0739 -13.02644,4.58019 -41.96993,13.98237 -42.58246,21.08594 18.98711,-3.45162 36.87243,-11.53435 55.96356,-14.89737 8.85453,-3.9205 39.53308,-6.5702 15.00358,0.27605 -20.65671,6.39729 -42.30964,10.60014 -61.33928,21.31565 -3.0298,11.26714 22.92371,-4.60634 30.44595,-3.44458 15.50127,-2.23793 46.73549,-14.36977 54.31768,-7.03307 -19.91027,6.43658 -41.12067,8.94423 -60.62941,16.70007 -18.31489,12.5693 19.37562,0.3035 27.71219,-1.55327 10.86684,-2.60875 35.35149,-9.98506 38.21355,-5.14406 -12.27092,9.65206 -28.44756,11.53502 -43.39068,13.68045"
-       style="stroke:#64b5c1;stroke-width:17.6715;stroke-dasharray:none;stroke-opacity:0.79710144;opacity:0.45991561" />
-    <g
-       id="TEXT_72d2acbb-9e64-49ba-97d8-e7548ce119dd-26"
-       opacity="1"
-       transform="matrix(0.920455,0,0,0.920455,255.54573,709.46053)">
-      <text
-         x="0"
-         y="0"
-         text-anchor="start"
-         alignment-baseline="mathematical"
-         font-size="24px"
-         font-weight="lighter"
-         fill="#000000"
-         font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-         id="text3-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People'"><tspan
-           x="0"
-           id="tspan3-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People'">Gemini Pro</tspan></text>
-    </g>
-    <g
-       id="TEXT_72d2acbb-9e64-49ba-97d8-e7548ce119dd-26-9"
-       opacity="1"
-       transform="matrix(0.920455,0,0,0.920455,268.47423,751.39731)">
-      <text
-         x="0"
-         y="0"
-         text-anchor="start"
-         alignment-baseline="mathematical"
-         font-size="24px"
-         font-weight="lighter"
-         fill="#000000"
-         font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-         id="text3-5-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People'"><tspan
-           x="0"
-           id="tspan3-3-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People'">Gemini Flash</tspan></text>
-    </g>
+       style="opacity:0.459916;stroke:#64b5c1;stroke-width:17.6715;stroke-dasharray:none;stroke-opacity:0.797101" />
     <text
        x="104.16981"
        y="759.00916"
@@ -420,8 +389,45 @@
          id="tspan3-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Google</tspan></text>
     <text
-       x="165.64822"
-       y="839.25372"
+       x="255.54573"
+       y="709.46051"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="255.54573"
+         id="tspan3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Gemini Pro</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 203.09569,724.47766 c 11.76257,-7.91318 24.8605,-13.75609 38.45847,-17.70311"
+       id="path16" />
+    <text
+       x="268.47424"
+       y="751.39734"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-5-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="268.47424"
+         id="tspan3-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Gemini Flash</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 225.04764,751.63905 c 14.61706,-0.94831 24.67967,-2.13053 38.52618,-4.14937"
+       id="path17"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="143.63383"
+       y="834.07385"
        text-anchor="start"
        alignment-baseline="mathematical"
        font-size="22.0909px"
@@ -430,28 +436,22 @@
        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
        id="text3-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
-         x="165.64822"
+         x="143.63383"
          id="tspan3-25"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Gemma</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 203.09569,724.47766 c 11.76257,-7.91318 24.8605,-13.75609 38.45847,-17.70311"
-       id="path16" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 218.35699,764.15704 c 14.61706,-0.94831 27.05377,-9.68449 40.90028,-13.42995"
-       id="path17" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 181.11942,789.18556 c 5.41283,8.82745 7.01552,19.25564 10.98814,28.69124"
-       id="path19" />
+       d="m 181.11942,789.18556 c 0.23297,8.3958 0.10905,18.82399 -1.09819,27.82793"
+       id="path19"
+       sodipodi:nodetypes="cc" />
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 16.907857,767.81974 C 39.471114,756.31812 65.564152,757.52949 90.16209,757.44206"
-     id="path8" />
+     d="m -72.552483,833.28622 c 1.300455,21.22779 8.286375,42.44332 16.078506,61.56398 l -0.817206,-1.73969"
+     id="path5" />
   <g
-     id="g6">
+     id="g6"
+     transform="translate(-52.661871,7.3381295)">
     <path
        id="STROKE_159814cf-632e-4eb9-b421-a8c2d413ad50-1-9"
        opacity="1"
@@ -501,6 +501,10 @@
          x="-61.008247"
          id="tspan3-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Qwen</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -30.707392,952.17623 c -0.170819,6.7628 1.012868,13.45991 1.831357,20.14491"
+       id="path22" />
     <text
        x="31.247141"
        y="974.15656"
@@ -519,31 +523,15 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 37.052767,932.64176 c 10.795875,4.95828 15.111364,17.06494 23.807625,24.41808"
        id="path21" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -30.707392,952.17623 c -0.170819,6.7628 1.012868,13.45991 1.831357,20.14491"
-       id="path22" />
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m -45.358238,830.69629 c 1.300455,21.22779 8.286375,42.44332 16.078506,61.56398 l -0.817206,-1.73969"
-     id="path5" />
+     d="M 7.7510775,803.83641 C 14.549773,811.58802 35.249354,832.43113 46.177602,842.39"
+     id="path9"
+     sodipodi:nodetypes="cc" />
   <g
-     id="g47">
-    <text
-       x="249.58653"
-       y="981.91467"
-       text-anchor="start"
-       alignment-baseline="mathematical"
-       font-size="22.0909px"
-       font-weight="lighter"
-       fill="#000000"
-       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-       id="text3-1-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
-         x="249.58653"
-         id="tspan3-9-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Llama</tspan></text>
+     id="g47"
+     transform="translate(-178.27338,-42.733813)">
     <path
        id="STROKE_159814cf-632e-4eb9-b421-a8c2d413ad50-1-9-8"
        opacity="1"
@@ -564,7 +552,7 @@
        stroke-linecap="round"
        stroke-linejoin="round"
        d="m 194.68449,915.22117 c 0.73524,-21.06471 26.96568,-25.12776 43.61426,-26.20538 18.14239,-1.14915 44.82264,0.75251 52.48443,19.82829 1.77198,18.12901 -16.52207,27.62422 -31.93736,29.5255 -18.18919,3.45581 -37.85785,3.71629 -55.33255,-2.83428 -18.71432,-13.85323 3.51978,-35.26407 20.51767,-35.34832 7.24326,-2.44832 26.76728,-7.02768 8.88981,-0.74486 -10.52728,4.63572 -33.96734,14.29248 -34.02269,20.23173 15.55019,-4.07879 29.88965,-11.93381 45.5319,-15.94565 7.10425,-3.8215 32.41643,-7.98046 12.47945,-0.72836 -16.74894,6.632 -34.46538,11.50491 -49.58727,21.61972 -1.79736,9.55176 18.7462,-5.28915 25.06825,-4.80433 12.73236,-2.84822 37.90084,-14.91842 44.66682,-9.30859 -16.12644,6.61699 -33.58353,10.05364 -49.29225,17.74076 -14.4099,11.60894 16.11256,-0.98462 22.91832,-3.05893 8.85938,-2.86042 28.72527,-10.54992 31.41146,-6.71171 -9.57603,8.80014 -22.892,11.39663 -35.16667,14.13239"
-       style="stroke:#64b5c1;stroke-width:14.721;stroke-dasharray:none;stroke-opacity:0.79710144;opacity:0.45991561" />
+       style="opacity:0.459916;stroke:#64b5c1;stroke-width:14.721;stroke-dasharray:none;stroke-opacity:0.797101" />
     <text
        x="207.54019"
        y="922.3493"
@@ -579,6 +567,20 @@
          x="207.54019"
          id="tspan3-4-38-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Meta</tspan></text>
+    <text
+       x="249.58653"
+       y="981.91467"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="249.58653"
+         id="tspan3-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Llama</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 264.14088,946.07171 c 2.25949,4.37471 3.83618,9.05817 6.10452,13.42994"
@@ -586,8 +588,166 @@
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 7.7510775,803.83641 C 57.283586,854.32183 120.71698,893.29444 189.0553,911.8864"
-     id="path9" />
+     d="m 10.341044,796.25472 c 6.798695,7.75161 198.865186,79.96162 209.793426,89.92049"
+     id="path9-5"
+     sodipodi:nodetypes="cc" />
+  <g
+     id="g47-6"
+     transform="translate(13.39748,-5.4927724)">
+    <path
+       id="STROKE_159814cf-632e-4eb9-b421-a8c2d413ad50-1-9-8-2"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="1.77653"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 283.54111,894.95046 c -16.39627,-16.0291 -42.09515,-12.694 -62.6301,-8.645 -19.40924,1.76578 -42.13441,20.26024 -32.39325,41.32144 8.52767,17.344 30.11969,16.71322 46.62899,18.86414 22.72171,1.3303 51.19143,-1.43572 62.95757,-24.0896 8.89583,-14.00966 -3.73066,-28.82854 -18.15151,-30.02822 -1.79065,-0.40875 -3.59721,-0.74473 -5.41015,-1.03759" />
+    <path
+       id="STROKE_d5b90901-6196-4d0f-ad43-39675ced1758-9-0-2-5"
+       opacity="0.253"
+       fill="none"
+       stroke="#3dd4cf"
+       stroke-width="12"
+       stroke-opacity="0.253"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 194.68449,915.22117 c 0.73524,-21.06471 26.96568,-25.12776 43.61426,-26.20538 18.14239,-1.14915 44.82264,0.75251 52.48443,19.82829 1.77198,18.12901 -16.52207,27.62422 -31.93736,29.5255 -18.18919,3.45581 -37.85785,3.71629 -55.33255,-2.83428 -18.71432,-13.85323 3.51978,-35.26407 20.51767,-35.34832 7.24326,-2.44832 26.76728,-7.02768 8.88981,-0.74486 -10.52728,4.63572 -33.96734,14.29248 -34.02269,20.23173 15.55019,-4.07879 29.88965,-11.93381 45.5319,-15.94565 7.10425,-3.8215 32.41643,-7.98046 12.47945,-0.72836 -16.74894,6.632 -34.46538,11.50491 -49.58727,21.61972 -1.79736,9.55176 18.7462,-5.28915 25.06825,-4.80433 12.73236,-2.84822 37.90084,-14.91842 44.66682,-9.30859 -16.12644,6.61699 -33.58353,10.05364 -49.29225,17.74076 -14.4099,11.60894 16.11256,-0.98462 22.91832,-3.05893 8.85938,-2.86042 28.72527,-10.54992 31.41146,-6.71171 -9.57603,8.80014 -22.892,11.39663 -35.16667,14.13239"
+       style="opacity:0.459916;stroke:#64b5c1;stroke-width:14.721;stroke-dasharray:none;stroke-opacity:0.797101" />
+    <text
+       x="207.54019"
+       y="922.3493"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-3-4-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="207.54019"
+         id="tspan3-4-38-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Mistral</tspan></text>
+    <text
+       x="150.17844"
+       y="976.74756"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="150.17844"
+         id="tspan3-9-9-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Ministral3</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 215.22481,944.09875 c -2.16629,3.45903 -6.08367,10.88952 -8.54633,14.65084"
+       id="path20-9-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="249.58653"
+       y="981.91467"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="249.58653"
+         id="tspan3-9-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Large3</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 264.14088,946.07171 c 2.25949,4.37471 7.04105,16.07837 9.30939,20.45014"
+       id="path20-9"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="300.25397"
+       y="951.56055"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="300.25397"
+         id="tspan3-9-9-8-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Small</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 295.94092,929.1945 c 1.1912,1.47506 3.98879,4.63239 5.64668,5.64668"
+       id="path20-9-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="322.5004"
+       y="926.36261"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="322.5004"
+         id="tspan3-9-9-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Devstral</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 301.32027,912.54917 c 5.15914,1.9329 14.6717,4.63239 18.46617,5.34145"
+       id="path20-9-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="189.31873"
+       y="785.9939"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2-9-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="189.31873"
+         id="tspan3-9-9-8-76"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Magistral</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 232.82397,790.85536 c 0.7487,6.10133 6.30417,87.21957 7.35161,91.59132"
+       id="path20-9-32"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="240.2108"
+       y="814.88239"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-1-2-9-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         x="240.2108"
+         id="tspan3-9-9-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Medium</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 263.98768,819.30061 c -0.64016,4.2221 -13.9836,57.76109 -14.6149,60.91195"
+       id="path20-9-5"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m -96.636195,834.96946 c -15.303395,43.16318 -57.014315,68.27729 -90.310665,96.54859 -7.05539,5.77914 -15.46659,18.932 -15.90797,23.71043"
+     id="path6" />
   <g
      id="g49">
     <path
@@ -646,8 +806,9 @@
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m -96.636195,834.96946 c -15.303395,43.16318 -57.014315,68.27729 -90.310665,96.54859 -7.05539,5.77914 -15.46659,18.932 -15.90797,23.71043"
-     id="path6" />
+     d="m 5.91972,740.34941 c 32.049032,-27.31654 64.514446,-60.2884 93.093919,-90.27058"
+     id="path10"
+     sodipodi:nodetypes="cc" />
   <g
      id="g44">
     <path
@@ -706,13 +867,11 @@
     </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 177.45671,612.15451 c 5.77948,1.09824 7.57576,-10.29829 13.42995,-7.93588"
-       id="path15" />
+       d="m 179.56103,610.9135 c 5.94135,-3.16435 12.48583,-11.37742 14.45513,-13.22365"
+       id="path15"
+       sodipodi:nodetypes="cc" />
   </g>
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 5.91972,740.34941 c 32.049032,-27.31654 62.377864,-57.9229 90.957337,-87.90508"
-     id="path10" />
+  <!--Pause:UntilPlay-->
   <g
      id="g7">
     <path
@@ -721,7 +880,7 @@
        id="path27" />
     <path
        style="opacity:0.295359;fill:none;fill-opacity:1;stroke:#26ffca;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 29.169067,965.69788 123.884883,0.8633"
+       d="m -21.766185,973.03601 123.884885,0.8633"
        id="path27-8" />
   </g>
   <metadata

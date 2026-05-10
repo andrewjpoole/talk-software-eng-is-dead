@@ -1,16 +1,14 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/pace-of-change.svg
+filePath: .demo/assets/model-costs-tokens.svg
 invert: true
-speed: 1200
+speed: 2200
 ---
 
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/pace-of-change-2.svg
+filePath: .demo/assets/model-costs-credits.svg
 invert: true
-speed: 1200
-startAt: textP3
+speed: 2200
 ---
-
 

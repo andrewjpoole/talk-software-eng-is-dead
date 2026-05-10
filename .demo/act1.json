@@ -25,6 +25,16 @@
       ]
     },
     {
+      "id": "demo-moy2u63n-sinu",
+      "title": "questions",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/questions-1.md"
+        }
+      ]
+    },
+    {
       "id": "demo-moli5goq-i3e1",
       "title": "whats-happened",
       "moves": [
@@ -65,6 +75,16 @@
       ]
     },
     {
+      "id": "demo-humans-1",
+      "title": "humans-still-nessecary",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/humans-still-nessecary.md"
+        }
+      ]
+    },
+    {
       "id": "demo-pace-1",
       "title": "pace-of-change",
       "moves": [
@@ -81,16 +101,6 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/effects-on-health.md"
-        }
-      ]
-    },
-    {
-      "id": "demo-humans-1",
-      "title": "humans-still-nessecary",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/humans-still-nessecary.md"
         }
       ]
     },
@@ -115,12 +125,32 @@
       ]
     },
     {
+      "id": "demo-mozgn1sk-3k0b",
+      "title": "models-costs",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/costs.md"
+        }
+      ]
+    },
+    {
       "id": "demo-mon2je3b-ea92",
-      "title": "tools-1",
+      "title": "interfaces-1",
       "moves": [
         {
           "action": "openSlide",
           "path": ".demo/slides/tools-1.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-moyfokmr-n3sk",
+      "title": "concepts",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/concepts.md"
         }
       ]
     },
@@ -205,6 +235,16 @@
       ]
     },
     {
+      "id": "demo-mozj9bnk-38bx",
+      "title": "how-to-get-started",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/how-to-get-started.md"
+        }
+      ]
+    },
+    {
       "id": "demo-mooswb34-qbpy",
       "title": "squad",
       "moves": [
@@ -245,12 +285,22 @@
       ]
     },
     {
-      "id": "demo-moo4ebwf-sr9y",
-      "title": "improvements-needed",
+      "id": "demo-dark-1",
+      "title": "the-dark-side",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/improvements-needed.md"
+          "path": ".demo/slides/the-dark-side.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mozj8oto-lu0m",
+      "title": "ensuring-quality",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/ensuring-quality.md"
         }
       ]
     },
@@ -265,12 +315,12 @@
       ]
     },
     {
-      "id": "demo-dark-1",
-      "title": "the-dark-side",
+      "id": "demo-moo4ebwf-sr9y",
+      "title": "improvements-needed",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/the-dark-side.md"
+          "path": ".demo/slides/improvements-needed.md"
         }
       ]
     },

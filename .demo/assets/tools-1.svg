@@ -32,7 +32,7 @@
      inkscape:window-x="2551"
      inkscape:window-y="121"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="g70" />
   <title
      id="title1">Drawing 4</title>
   <desc
@@ -74,8 +74,8 @@
        style="opacity:1;stroke:#5d0f96;stroke-width:25;stroke-dasharray:none;stroke-opacity:0.342995"
        sodipodi:nodetypes="ccccccccccccccc" />
     <text
-       x="-157.97714"
-       y="795.95984"
+       x="-182.17006"
+       y="797.37469"
        text-anchor="start"
        alignment-baseline="mathematical"
        font-size="24px"
@@ -83,11 +83,11 @@
        fill="#000000"
        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
        id="text3-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"
        transform="rotate(-0.73861326)"><tspan
-         x="-157.97714"
+         x="-182.17006"
          id="tspan3-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Tools</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Interface</tspan></text>
   </g>
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -118,8 +118,8 @@
        d="m -178.0378,633.6316 c 0.80138,-31.10593 29.39123,-37.10578 47.53734,-38.69709 19.7743,-1.69694 48.854433,1.11122 57.205401,29.28013 1.931367,26.77084 -18.008228,40.79227 -34.810121,43.59987 -19.8253,5.10315 -41.26315,5.48779 -60.30968,-4.18533 -20.39769,-20.45687 3.83637,-52.07393 22.36321,-52.19833 7.89479,-3.61541 29.17498,-10.37769 9.68945,-1.09994 -11.47421,6.8455 -37.02269,21.10548 -37.08302,29.8759 16.94892,-6.0231 32.57821,-17.62248 49.62748,-23.5467 7.74328,-5.64315 35.332273,-11.78463 13.60197,-1.07557 -18.2555,9.79338 -37.56553,16.98913 -54.04762,31.92552 -1.95903,14.10495 20.4324,-7.8104 27.32312,-7.09448 13.87763,-4.20592 41.310013,-22.02981 48.684593,-13.74584 -17.577013,9.77121 -36.604353,14.84604 -53.726083,26.1975 -15.70606,17.14274 17.56189,-1.45397 24.97983,-4.51708 9.65628,-4.22393 31.309093,-15.5789 34.236903,-9.91107 -10.43738,12.99502 -24.951133,16.82922 -38.329903,20.86908"
        style="opacity:0.459916;stroke:#64b5c1;stroke-width:18.676;stroke-dasharray:none;stroke-opacity:0.797101" />
     <text
-       x="-160.36328"
-       y="624.93628"
+       x="-96.271767"
+       y="623.6413"
        text-anchor="start"
        alignment-baseline="mathematical"
        font-size="22.0909px"
@@ -127,19 +127,19 @@
        fill="#000000"
        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
        id="text3-3-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Silent People';-inkscape-font-specification:'Silent People';text-align:center;text-anchor:middle;stroke-width:0.920455"><tspan
          sodipodi:role="line"
          id="tspan50"
-         x="-160.36328"
-         y="624.93628"><tspan
-           x="-160.36328"
+         x="-129.71581"
+         y="623.6413"><tspan
+           x="-129.71581"
            id="tspan3-4-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">Trad</tspan></tspan><tspan
          sodipodi:role="line"
-         x="-160.36328"
-         y="669.93628"
+         x="-129.71581"
+         y="668.6413"
          id="tspan65"><tspan
-           x="-160.36328"
+           x="-129.71581"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"
            id="tspan66">IDE</tspan></tspan></text>
     <text
@@ -208,6 +208,28 @@
          id="tspan56"
          x="-22.900394"
          y="583.51501">extensions</tspan></text>
+    <text
+       x="-21.553795"
+       y="636.96332"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-39-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"><tspan
+         sodipodi:role="line"
+         id="tspan55-8"
+         x="-21.553795"
+         y="636.96332"><tspan
+           x="-21.553795"
+           id="tspan3-39-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455">JetBrains</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan56-2"
+         x="-21.553795"
+         y="664.57697">Rider</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -186.98308,629.24716 c -7.87411,-3.36359 -51.48813,-12.86399 -59.51907,-15.87175"
@@ -222,6 +244,11 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -64.892697,618.86948 c 11.068377,-6.24358 34.579045,-22.80951 43.64731,-31.43828"
        id="path14"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -63.391304,632.6902 c 11.931686,1.5262 27.67257,3.95308 37.17249,4.82071"
+       id="path14-6"
        sodipodi:nodetypes="cc" />
   </g>
   <path
