@@ -2,15 +2,5 @@
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/pace-of-change.svg
 invert: true
-speed: 1200
+speed: 2200
 ---
-
----
-customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/pace-of-change-2.svg
-invert: true
-speed: 1200
-startAt: textP3
----
-
-

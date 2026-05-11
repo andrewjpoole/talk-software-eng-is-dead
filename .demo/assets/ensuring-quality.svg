@@ -106,19 +106,24 @@
   <text
      xml:space="preserve"
      style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-319.13977"
-     y="617.92047"
+     x="-71.837479"
+     y="563.90222"
      id="textP1"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-319.13977"
-       y="617.92047"
+       x="-71.837479"
+       y="563.90222"
        sodipodi:role="line"
-       id="tspan4">&quot;Go faster, use all the things, </tspan><tspan
+       id="tspan4">&quot;You must go faster, use all the things. </tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-319.13977"
-       y="658.26154"
+       x="-71.837479"
+       y="604.24329"
        sodipodi:role="line"
-       id="tspan3">but you are still responsible for quality!&quot;</tspan></text>
+       id="tspan3">But don't forget you are still </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-71.837479"
+       y="644.58435"
+       sodipodi:role="line"
+       id="tspan8">personally responsible for quality!😅&quot;</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"

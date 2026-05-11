@@ -174,7 +174,13 @@ message was ignored until 5:15 when in a meeting they decided to defer the decis
 		- liquid cooling
 		- Models built especially for the hardware
 		- 30-80x higher performance per watt than traditional hardware
-	
+
+- Tools
+	- Serena [efficient semantic code retrieval/editing/refactoring/debugging]
+	- codebase-memory-mcp [tree-sitter, creates map of code, indexed 28M LOC linux kernel codebase in 3 mins] 120x fewer tokens 
+	- RTK [CLI proxy, filters and compresses command outputs before reaching LLM] 60-90% token reduction
+	- caveman ["why use many token when few do trick"] up to 75% redunction in output tokens
+
 - Control
 	- dangerouslySkipPermissions (claude)
 	- yolo (Copilot)
@@ -498,13 +504,6 @@ Panel 10: Humanoid AI robot is holding a shovel dropping dirt from a pile to fil
 - Notes
 - Ordering of slides/sections
 - practice timings
-
-- UI mockups from work?
-- more AI quotes?
-	- terminator
-		- "There is no fate but what we make for ourselves."
-		- "I'll be back."
-		- "Come with me if you want to live."
 
 Some kind of project attribution, per session for token usage?
 
