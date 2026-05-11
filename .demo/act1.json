@@ -35,8 +35,18 @@
       ]
     },
     {
-      "id": "demo-moli5goq-i3e1",
+      "id": "demo-mp1qltbw-jkzg",
       "title": "whats-happened",
+      "steps": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/whats-happened.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-moli5goq-i3e1",
+      "title": "ai-timeline",
       "steps": [
         {
           "action": "openSlide",
@@ -136,11 +146,11 @@
     },
     {
       "id": "demo-mon2je3b-ea92",
-      "title": "interfaces-1",
+      "title": "interfaces",
       "steps": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/tools-1.md"
+          "path": ".demo/slides/interfaces.md"
         }
       ]
     },
@@ -285,16 +295,6 @@
       ]
     },
     {
-      "id": "demo-dark-1",
-      "title": "the-dark-side",
-      "steps": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/the-dark-side.md"
-        }
-      ]
-    },
-    {
       "id": "demo-mozj8oto-lu0m",
       "title": "ensuring-quality",
       "steps": [
@@ -321,6 +321,16 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/improvements-needed.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-dark-1",
+      "title": "the-dark-side",
+      "steps": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/the-dark-side.md"
         }
       ]
     },

@@ -1,6 +1,7 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/gartner-hype-cycle.svg
+filePath: .demo/assets/whats-happened.svg
 invert: true
 speed: 2500
 ---
+

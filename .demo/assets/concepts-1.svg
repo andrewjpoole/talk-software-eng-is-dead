@@ -25,12 +25,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.7375"
-     inkscape:cx="423.8849"
-     inkscape:cy="427.33814"
-     inkscape:window-width="3840"
-     inkscape:window-height="2071"
-     inkscape:window-x="2551"
-     inkscape:window-y="121"
+     inkscape:cx="832.51799"
+     inkscape:cy="544.17266"
+     inkscape:window-width="2560"
+     inkscape:window-height="1511"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <title
@@ -705,6 +705,29 @@
          x="-314.78589"
          y="917.50061"
          id="tspan3-3-4-7-2">YOLO</tspan></text>
+    <text
+       x="-220.7993"
+       y="924.9563"
+       text-anchor="start"
+       alignment-baseline="mathematical"
+       font-size="22.0909px"
+       font-weight="lighter"
+       fill="#000000"
+       font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+       id="text3-49-7-5-9-6-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Silent People';-inkscape-font-specification:'Silent People';stroke-width:0.920455"
+       transform="rotate(-1.6886091)"
+       inkscape:transform-center-x="-74.244606"
+       inkscape:transform-center-y="-6.4748203"><tspan
+         sodipodi:role="line"
+         x="-220.7993"
+         y="924.9563"
+         id="tspan3-3-4-7-2-0">Sandbox</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -163.07306,894.7461 c 2.60136,3.88981 6.41235,11.74845 10.35753,17.45133"
+       id="path8-2-0"
+       sodipodi:nodetypes="cc" />
   </g>
   <!--Pause:UntilPlay-->
   <g
@@ -742,7 +765,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      d="m -361.94407,977.58814 c 80.99519,0.6507 213.47759,2.3923 284.274517,1.3663"
-     style="stroke:#5d0f96;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.342995"
+     style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.73955774"
      sodipodi:nodetypes="cc" />
   <!--Pause:UntilPlay-->
   <g
@@ -824,7 +847,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      d="m 14.798232,852.42856 c 14.840885,0.13201 32.236339,0.32407 51.187454,0.5463 76.755074,0.90008 179.028904,2.29511 240.455954,2.20041 4.11892,-0.01 6.57416,24.4304 7.91412,36.5599 0,0 -252.968856,0.7516 -297.304777,0.5834 -4.630001,-0.018 -1.226277,-35.4962 -1.05971,-35.4985"
-     style="stroke:#5d0f96;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.342995"
+     style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.73955774"
      sodipodi:nodetypes="cssssc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -832,6 +855,11 @@
      id="path6-7-4-87-1"
      sodipodi:nodetypes="cc" />
   <!--Pause:UntilPlay-->
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 138.43912,914.8577 c 0.14453,10.04946 -0.18172,34.83376 -0.005,50.79265"
+     id="path6-7-4-83-3-1"
+     sodipodi:nodetypes="cc" />
   <text
      x="-6.2196498"
      y="1000.0522"
@@ -859,6 +887,6 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      d="m 17.734954,987.08594 c 8.673438,0.46719 267.590796,-0.11232 273.658246,0.026"
-     style="stroke:#5d0f96;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.342995"
+     style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.73955774"
      sodipodi:nodetypes="cc" />
 </svg>

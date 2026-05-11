@@ -1,6 +1,6 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/case-study-2.svg
-invert: false
-speed: 1800
+invert: true
+speed: 2500
 ---

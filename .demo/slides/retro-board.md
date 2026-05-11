@@ -1,6 +1,6 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/retro-board.svg
-invert: false
-speed: 1200
+invert: true
+speed: 2500
 ---

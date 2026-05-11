@@ -2,5 +2,5 @@
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/improvements-needed.svg
 invert: true
-speed: 1800
+speed: 2500
 ---
