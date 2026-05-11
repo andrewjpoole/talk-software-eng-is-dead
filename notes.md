@@ -447,18 +447,6 @@ clarity on the direction in terms of UX
 
 ## ToDo
 
-- improve RIP drawing or replace with ai generated images
-- some need images/quotes removing/adding
-	- crystal ball x 2
-	- improvements
-	- pace of change x 2
-	- productivity gains
-	- risks
-- Concepts slide(s)
-	- tokens, credits, cost	
-	- Control (YOLO, dangerouslySkipPermissions, sandboxing)
-	- running local models (ollama)
-	- use AI to build AI
 - Pricing
 	- token prices actually dropping over time
 	- demand rising, GPUs, RAM, compute costs rising
@@ -467,8 +455,6 @@ clarity on the direction in terms of UX
 	- once enterprises are sufficiently hooked, raise the subscription prices
 	- API per token pricing likely to be much higher -> token efficiency tooling and local models becoming more important
 	- cartell/drug dealer/gateway drug
-
-- Ensuring Quality
 
 - Case studies slides improvements
 
@@ -501,9 +487,8 @@ Panel 10: Humanoid AI robot is holding a shovel dropping dirt from a pile to fil
 
 ## After slides done...
 
+- update retro board
 - Notes
-- Ordering of slides/sections
-- practice timings
 
 Some kind of project attribution, per session for token usage?
 

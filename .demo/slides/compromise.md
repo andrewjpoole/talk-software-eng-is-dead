@@ -1,8 +1,6 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/crystal-ball-time.svg
+filePath: .demo/assets/compromise.svg
 invert: true
 speed: 2500
 ---
-
-
