@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
-   sodipodi:docname="how-to-get-started.svg"
+   sodipodi:docname="how-to-get-started-2.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.256654"
-     inkscape:cx="746.02871"
-     inkscape:cy="407.03326"
+     inkscape:cx="746.02874"
+     inkscape:cy="407.03328"
      inkscape:window-width="2560"
      inkscape:window-height="1511"
      inkscape:window-x="-9"
@@ -94,13 +94,33 @@
      xml:space="preserve"
      style="font-size:64px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
      x="-9.1985178"
-     y="751.27472"
+     y="673.27472"
      id="slide-title"><tspan
        id="tspan1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
        x="-9.1985178"
-       y="751.27472"
+       y="673.27472"
        sodipodi:role="line">How to get started?</tspan></text>
   <!--Pause:UntilPlay-->
-  <!--Pause:UntilPlay-->
+  <text
+     xml:space="preserve"
+     style="font-size:48px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-39.599678"
+     y="770.17822"
+     id="slide-title-1"><tspan
+       id="tspan1-0"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-39.599678"
+       y="770.17822"
+       sodipodi:role="line">Introducing Squad</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-39.599678"
+       y="830.68982"
+       sodipodi:role="line"
+       id="tspan2">case study 1: CAMT report mapper</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-39.599678"
+       y="891.20142"
+       sodipodi:role="line"
+       id="tspan3">case study 2: Realtime UI mockup</tspan></text>
 </svg>

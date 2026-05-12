@@ -15,16 +15,6 @@
       ]
     },
     {
-      "id": "demo-mok987an-9lxt",
-      "title": "rip-software-eng",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/rip-software-eng.md"
-        }
-      ]
-    },
-    {
       "id": "demo-moy2u63n-sinu",
       "title": "questions",
       "moves": [
