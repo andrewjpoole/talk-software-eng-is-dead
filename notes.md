@@ -494,7 +494,7 @@ Some kind of project attribution, per session for token usage?
 
 Amazon tells engineers to review all ai output
 
-
+more dopamine info
 
 Could an economic calulation be contrived?
 1 sprint == 25 story points in 2 weeks (10 working days) == £20k
