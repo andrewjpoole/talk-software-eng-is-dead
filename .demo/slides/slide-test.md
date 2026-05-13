@@ -1,5 +1,5 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/ai-timeline.svg
-speed: 1600
+filePath: .demo/assets/panel-10-rip.svg
+speed: 5500
 ---

@@ -488,7 +488,9 @@ Panel 10: Humanoid AI robot is holding a shovel dropping dirt from a pile to fil
 ## After slides done...
 
 - update retro board
-- Notes
+- add consistent accepts
+- make title placement consistent
+- create notes
 
 Some kind of project attribution, per session for token usage?
 
