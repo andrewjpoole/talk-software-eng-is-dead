@@ -1,0 +1,3 @@
+# Notes for humans-still-nessecary
+
+- LLMs have vast amounts of knowledge but no original thought and no wisdom

@@ -458,38 +458,14 @@ clarity on the direction in terms of UX
 
 - Case studies slides improvements
 
-- sketch ideas
 
-A set of 11 hand-drawn sketch panels arranged in a neat grid on white background. All panels are black and white with gray shading, drawn in pen-and-ink style using 3px thin black strokes for outlines and broader soft gray hatching strokes for shading, simulating hand-drawn illustrations. The sketches should be moderately complex but made of lines rather than large complex shapes so I can animate them using css by stroking the paths so they look like they are being hand drawn. Two recurring characters appear throughout: a human figure (young, casual clothes, expressive face) and a humanoid robot with the letters "AI" printed on its chest. The 7 panels are:
-Panel 1: Human standing in a robot shop looking completely overwhelmed, surrounded by robots of wildly different shapes and sizes — some humanoid, some boxy, some on wheels — displayed on shelves and standing on the floor, human has wide eyes and raised hands in confusion. There are posters and advertising and marketting materials everywhere, overwhelming the human.
-Panel 2: Human and the humanoid AI robot arm wrestling at a table, both straining, human looking determined but struggling, robot calm and steady.
-Panel 3: Human slumped over asleep in a chair, mouth open, zzz bubbles, while the humanoid AI robot stands nearby buzzing with energy, building something, clearly full of activity.
-Panel 4: Human dozing off in a supervisor's chair, hard hat slipping off head, while 5 humanoid AI robots energetically work on a construction site — carrying beams, hammering, using tools — all full of energy.
-Panel 5: Human standing with arms folded and a smug or exasperated expression, looking down at the humanoid AI robot which has toppled and collapsed into a crumpled heap on the floor.
-Panel 6: Human and humanoid AI robot skipping together side by side, holding hands, both with happy expressions, motion lines suggesting joyful movement.
-Panel 7: Human is running very fast because the humanoid AI robot is pushing the human along, both are enjoying going so fast. 
-Panel 8: Human in a workshop bending over the humanoid AI robot laid on a table, tools scattered around, human wearing magnifying goggles, poking and experimenting on the robot's open chest panel.
-Panel 9: Human looking worried a little scared of the humanoid AI robot who is looking menacing and evil.
-Panel 10: Humanoid AI robot is holding a shovel dropping dirt from a pile to fill in a deep open grave where some books and computer equipment including a keyboard can be seen at the bottom of the grave, at the head of the grave is a gravestone saying "R.I.P Beloved Human Written Code" and the dates "1940s - 2025" the human is not in this sketch at all.
-Panel 11: Human supervises while the humanoid AI robot installs a jetpack on to the back of a second humanoid AI robot.
-Grid is clean and evenly spaced, each panel has a thin border, consistent character proportions and sketch style throughout, whimsical editorial cartoon aesthetic.
-
-perhaps just 
-1, 3, 6,  7, 8 and 10
-
-Panel 1: Human standing in a robot shop looking completely overwhelmed, surrounded by robots of wildly different shapes and sizes — some humanoid, some boxy, some on wheels — displayed on shelves and standing on the floor, human has wide eyes and raised hands in confusion. There are posters and advertising and marketting materials everywhere, overwhelming the human.
-Panel 3: Human slumped over asleep in a chair, mouth open, zzz bubbles, while the humanoid AI robot stands nearby buzzing with energy, building something, clearly full of activity.
-Panel 5: Human standing with arms folded and a smug or exasperated expression, looking down at the humanoid AI robot which has toppled and collapsed into a crumpled heap on the floor.
-Panel 6: Human and humanoid AI robot skipping together side by side, holding hands, both with happy expressions, motion lines suggesting joyful movement.
-Panel 7: Human is running very fast because the humanoid AI robot is pushing the human along, both are enjoying going so fast. 
-Panel 8: Human in a workshop bending over the humanoid AI robot laid on a table, tools scattered around, human wearing magnifying goggles, poking and experimenting on the robot's open chest panel.
-Panel 10: Humanoid AI robot is holding a shovel dropping dirt from a pile to fill in a deep open grave where some books and computer equipment including a keyboard can be seen at the bottom of the grave, at the head of the grave is a gravestone saying "R.I.P Beloved Human Written Code" and the dates "1940s - 2025" the human is not in this sketch at all.
 
 ## After slides done...
 
 - update retro board
 - add consistent accepts
 - make title placement consistent
+- benefits of squad page?
 - create notes
 
 Some kind of project attribution, per session for token usage?

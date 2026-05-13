@@ -1,6 +1,7 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/what-should-we-be-aiming-for.svg
+filePath: .demo/assets/end.svg
 invert: true
-speed: 55000
+speed: 35000
 ---
+

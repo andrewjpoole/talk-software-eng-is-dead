@@ -12,7 +12,10 @@
           "action": "openSlide",
           "path": ".demo/slides/slide1-1.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/scene-mod4n3ls-1udn_notes.md"
+      }
     },
     {
       "id": "demo-moy2u63n-sinu",
@@ -32,7 +35,11 @@
           "action": "openSlide",
           "path": ".demo/slides/whats-happened.md"
         }
-      ]
+      ],
+      "icons": {
+        "start": "circle-large-filled",
+        "end": ""
+      }
     },
     {
       "id": "demo-moli5goq-i3e1",
@@ -42,7 +49,10 @@
           "action": "openSlide",
           "path": ".demo/slides/ai-timeline.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-moli5goq-i3e1_notes.md"
+      }
     },
     {
       "id": "demo-mok99ihg-l2ds",
@@ -52,7 +62,10 @@
           "action": "openSlide",
           "path": ".demo/slides/resistance-is-futile.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-mok99ihg-l2ds_notes.md"
+      }
     },
     {
       "id": "demo-kubler-1",
@@ -62,7 +75,10 @@
           "action": "openSlide",
           "path": ".demo/slides/kubler-ross-change-curve.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-kubler-1_notes.md"
+      }
     },
     {
       "id": "demo-momq54or-lt7b",
@@ -72,7 +88,10 @@
           "action": "openSlide",
           "path": ".demo/slides/gartner-hype-cycle.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-momq54or-lt7b_notes.md"
+      }
     },
     {
       "id": "demo-humans-1",
@@ -82,7 +101,10 @@
           "action": "openSlide",
           "path": ".demo/slides/humans-still-nessecary.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-humans-1_notes.md"
+      }
     },
     {
       "id": "demo-mopkm7v8-txq7",
@@ -92,7 +114,10 @@
           "action": "openSlide",
           "path": ".demo/slides/effects-on-health.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-mopkm7v8-txq7_notes.md"
+      }
     },
     {
       "id": "demo-pace-1",
@@ -112,7 +137,11 @@
           "action": "openSlide",
           "path": ".demo/slides/what-things-are-important.md"
         }
-      ]
+      ],
+      "icons": {
+        "start": "circle-large-filled",
+        "end": ""
+      }
     },
     {
       "id": "demo-models-1",
@@ -122,7 +151,10 @@
           "action": "openSlide",
           "path": ".demo/slides/models-1.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-models-1_notes.md"
+      }
     },
     {
       "id": "demo-mozgn1sk-3k0b",
@@ -132,7 +164,10 @@
           "action": "openSlide",
           "path": ".demo/slides/costs.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-mozgn1sk-3k0b_notes.md"
+      }
     },
     {
       "id": "demo-mon2je3b-ea92",
@@ -152,7 +187,10 @@
           "action": "openSlide",
           "path": ".demo/slides/concepts.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-moyfokmr-n3sk_notes.md"
+      }
     },
     {
       "id": "demo-mollbmm8-6uwx",
@@ -162,7 +200,14 @@
           "action": "openSlide",
           "path": ".demo/slides/what-should-we-be-aiming-for.md"
         }
-      ]
+      ],
+      "icons": {
+        "start": "circle-large-filled",
+        "end": ""
+      },
+      "notes": {
+        "path": "notes/demo-mollbmm8-6uwx_notes.md"
+      }
     },
     {
       "id": "demo-productivity-1",
@@ -171,6 +216,29 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/productivity-gains.md"
+        }
+      ],
+      "notes": {
+        "path": "notes/demo-productivity-1_notes.md"
+      }
+    },
+    {
+      "id": "demo-mozj8oto-lu0m",
+      "title": "ensuring-quality",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/ensuring-quality.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mp1r8e9t-3pym",
+      "title": "compromise",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/compromise.md"
         }
       ]
     },
@@ -222,7 +290,10 @@
           "action": "openSlide",
           "path": ".demo/slides/quebec-bridge.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-quebec-1_notes.md"
+      }
     },
     {
       "id": "demo-quebec-2",
@@ -232,7 +303,10 @@
           "action": "openSlide",
           "path": ".demo/slides/quebec-bridge-2.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-quebec-2_notes.md"
+      }
     },
     {
       "id": "demo-mozj9bnk-38bx",
@@ -242,7 +316,11 @@
           "action": "openSlide",
           "path": ".demo/slides/how-to-get-started.md"
         }
-      ]
+      ],
+      "icons": {
+        "start": "circle-large-filled",
+        "end": ""
+      }
     },
     {
       "id": "demo-mooswb34-qbpy",
@@ -285,24 +363,18 @@
       ]
     },
     {
-      "id": "demo-mozj8oto-lu0m",
-      "title": "ensuring-quality",
+      "id": "demo-mp3xjr42-lnz7",
+      "title": "whats-coming-next",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/ensuring-quality.md"
+          "path": ".demo/slides/whats-coming-next.md"
         }
-      ]
-    },
-    {
-      "id": "demo-mp1r8e9t-3pym",
-      "title": "compromise",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/compromise.md"
-        }
-      ]
+      ],
+      "icons": {
+        "start": "circle-large-filled",
+        "end": ""
+      }
     },
     {
       "id": "demo-monkjr7o-6qu7",
@@ -345,12 +417,12 @@
       ]
     },
     {
-      "id": "scene-modzsrjk-qyvi",
-      "title": "test1",
+      "id": "demo-mp485yaq-v9i2",
+      "title": "ending",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/slide-test.md"
+          "path": ".demo/slides/ending.md"
         }
       ]
     }

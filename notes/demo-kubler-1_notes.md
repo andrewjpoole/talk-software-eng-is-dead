@@ -1,0 +1,16 @@
+# Notes for kubler-ross-change-curve
+
+- grief
+- big changes in life and work
+- enterprise re-structures etc (which no-one ever actually measures)
+
+## stages
+
+- Shock
+- Denial (disbelief, looking for evidence that it isn't true)
+- Frustration (recognition that things are different, sometimes anger)
+- Depression (low mood, lacking in energy)
+- Experiment (initial engagement with a new solution)
+- Decision (Learning how to work in the new situation)
+- Integration (changes integrated, a renewed individual)
+- don't always follow this sequence
