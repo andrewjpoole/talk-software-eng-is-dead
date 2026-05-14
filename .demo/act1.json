@@ -473,9 +473,11 @@
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/slide-test.md"
+          "path": ".demo/slides/slide-test.md",
+          "disabled": false
         }
-      ]
+      ],
+      "disabled": true
     }
   ]
 }
