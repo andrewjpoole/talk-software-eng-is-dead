@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="2.4571961"
-     inkscape:cx="624.49229"
-     inkscape:cy="342.87048"
+     inkscape:zoom="1.7375"
+     inkscape:cx="561.43884"
+     inkscape:cy="343.30935"
      inkscape:window-width="2560"
      inkscape:window-height="1511"
      inkscape:window-x="-9"
@@ -298,11 +298,16 @@
        style="font-size:28px;stroke-width:19"
        x="28.583942"
        y="907.50415"
-       id="tspan19">especially tests</tspan><tspan
+       id="tspan19">especially tests,</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:28px;stroke-width:19"
+       x="28.583942"
+       y="947.50415"
+       id="tspan2">Co-design</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:19"
        x="28.583942"
-       y="947.50415"
+       y="987.50415"
        id="tspan1-2" /></text>
   <metadata
      id="metadata9">

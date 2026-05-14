@@ -15,8 +15,9 @@
     - Food & Beverage (sugar/obesity)
 
 - There have been instances of deaths caused by software
-    - Toyota Unintended Acceleration (2005–2010) 89 fatalities
+    - Toyota Unintended Acceleration (2005–2010) possibly 89 fatalities
     - Boeing 737 Max Crashes (2018–2019) 346 fatalities
+    - also medical incidents
 
 - Software is being used increasingly in all ares of life
 - AI and associated risks make this more worrying

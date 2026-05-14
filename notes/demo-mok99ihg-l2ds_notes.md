@@ -5,3 +5,6 @@
 - readability
 - intentionality
 - who enjoyed syntactic sugar
+
+- wasn't determinism something we liked?
+- the whole thing feels like a bad idea!

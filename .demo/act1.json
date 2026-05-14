@@ -270,7 +270,10 @@
           "action": "openSlide",
           "path": ".demo/slides/risk-spectrum-2.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-risk-2_notes.md"
+      }
     },
     {
       "id": "demo-mopl2rit-r4xw",
@@ -333,6 +336,16 @@
       ]
     },
     {
+      "id": "demo-mp600zjq-blcq",
+      "title": "squad 2",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/squad-2.md"
+        }
+      ]
+    },
+    {
       "id": "demo-moniys3x-39ks",
       "title": "case-studies-flagstone",
       "moves": [
@@ -363,6 +376,28 @@
       ]
     },
     {
+      "id": "demo-mp60kygy-6oaq",
+      "title": "case-studies-ui-mockup-page-1",
+      "moves": [
+        {
+          "action": "openWebsite",
+          "url": "http://localhost:8080/outbound-payments.html",
+          "openInVSCode": true
+        }
+      ]
+    },
+    {
+      "id": "demo-mp60lrla-9ftz",
+      "title": "case-studies-ui-mockup-page-2",
+      "moves": [
+        {
+          "action": "openWebsite",
+          "url": "http://localhost:8080/inbound-payments.html",
+          "openInVSCode": true
+        }
+      ]
+    },
+    {
       "id": "demo-mp3xjr42-lnz7",
       "title": "whats-coming-next",
       "moves": [
@@ -384,7 +419,10 @@
           "action": "openSlide",
           "path": ".demo/slides/crystal-ball-time.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-monkjr7o-6qu7_notes.md"
+      }
     },
     {
       "id": "demo-moo4ebwf-sr9y",
@@ -404,7 +442,10 @@
           "action": "openSlide",
           "path": ".demo/slides/the-dark-side.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-dark-1_notes.md"
+      }
     },
     {
       "id": "demo-retro-1",
@@ -423,6 +464,16 @@
         {
           "action": "openSlide",
           "path": ".demo/slides/ending.md"
+        }
+      ]
+    },
+    {
+      "id": "demo-mp61ooed-3qd2",
+      "title": "test",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/slide-test.md"
         }
       ]
     }

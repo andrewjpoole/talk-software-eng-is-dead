@@ -1,5 +1,6 @@
 ---
-customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/panel-10-rip.svg
-speed: 5500
+layout: animated
+svgFile: .demo/assets/flagstone-correspondent-bank.svg
+invertLightAndDarkColours: true
+animationSpeed: 2500
 ---

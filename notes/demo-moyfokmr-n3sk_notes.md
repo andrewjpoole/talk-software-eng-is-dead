@@ -1,5 +1,8 @@
 # Notes for concepts
 
+- MCP: json, tools, resourses, prompts
+- Skills: anything you might do more than once or share with someone, hard to test
+
 - Serena (semantic search, edit, refactor and debugging, 40 languages LSP) much better than grepping
 - codebase-memory-mcp (treesitter, indexes code tree into sqllite, 155 languages) read only tools, "120x fewer tokens" vs grepping
 - RTK (CLI proxy, intercepts filters and compresses command outputs before reaching LLM) "reduces token consumption 60-90%"

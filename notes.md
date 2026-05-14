@@ -19,277 +19,9 @@ promised themes from the abstract:
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-current structure:
-- RIP SE
-- whats happened? timeline
-- emotional responses
-	- change curve
-	- where I am personally
-- hype cycle
-- pace of change
-- effects on health
-- humans are still nessecary
-- what things are important [models, tools, concepts]
-- how to get started? [squad]
-- What should we be aiming for? [productivity gains, yegge's levels, risk spectrum]
-- Risks [capitalism and industry failures, quebec bridge]
-- case studies
-- improvements needed
-- cystal ball
-- dark side
-- retro board
-
-## Intro
-
-- RIP software engineering as we knew it
-- wasn't determinism something we liked?
-- the whole thing feels like a bad idea:
-	- sometimes industries do something even when they know its the wrong thing to do
-		- e.g. Tobacco (cancer), Fossil Fuel (climate change), Phamaceutical (opioid pankillers/addition), Forever chemicals (3M & DuPont toxic non-stick and water repellant coatings), Automotive industry (fuel tank fires, faulty ignition switches. diesel emmissions), Social Media (mental heath/addiction), Food & Beverage (sugar/obesity)
-	- AI adoption  can be likened to a gold rush/arms race scenario where a kind of commercial fear of falling behind drives escalation/accumulation
-	- unregulated capitalism is ill-equipped to protect scociety against these risks
-	- AI could be seen as one such risk, for several different reasons
-
-## Quebec bridge
-
-- there is potential danger ahead though if we are not careful
-- Quebec Bridge bridge disaster 29th August 1907, Iron rings and constant reminder,  Lévis
-St Lawrence river was 3.2km (2m) wide at its narrowest
-Main trade channel for Quebec, closed by ice during the winter, fast flowing, 5m tidal range, 58m deep at the middle
-Commercial competition with Montreal, who already had rail connection to Toronto and other bridges planned
-Dodgy tendering decisions
-Span length changed without recalculating stresses May 1900
-Assistant deposed for opposition to the calculations July 1903
-Construction of main superstructure starts July 1905
-noticable midpoint deflections observed, June 1907
-predrilled rivet holes did were not lining up, disputes about whether the chords were bent during manufacture
-manufacturer confirmed they were all straight when they left the yard
-one chord A9L was dropped and bent and repaired (this was actually found to be the starting point of the collapse)
-Some workers were worried enough to stay at home, there were also strikes due to working conditions
-Chord AR9 was put under observation and its deflection increased from 19mm to 57mm!
-work halted, while onsite-inspector went to see the principal engineer, but the foreman changed his mind Aug 27th
-telegram sent to the local office but not the site "add no more load" Aug 29th
-message was ignored until 5:15 when in a meeting they decided to defer the decision untill the next morning, at 5:30 the bridge collapsed
-
-- lack of a professional body
-
-### Emotional responses / Resistance is futile!
-
-- Ours is not the first, nor will it be the last industry to be changed forever by AI
-- Kübler-Ross change processes
-	- Shock
-	- Denial (disbelief, looking for evidence that it isn't true)
-	- Frustration (recognition that things are different, sometimes anger)
-	- Depression (low mood, lacking in energy)
-	- Experiment (initial engagement with a new solution)
-	- Decision (Learning how to work in the new situation)
-	- Integration (changes integrated, a renewed individual)
-	- Hopefully the we end up at the same hieght or higher than the starting point.
-	- For a resctructure etc the initial stages can be quite rapid, for AI its been a long time coming
-- what is the value we add?
-	- it was never about the code, although thats how we sometimes identified ourselves
-	- need to shift our value earlier in the process
-	- plenty of things still needed from humans
-
-### Pace of change
-
-- Cutting through the crap
-	- suprise + spread of information + impatient economic actors = frenzy 
-	- the huge amount of noise, options, marketing hype
-	- github stars are useful
-	- your own experimentation is important	
-	- share knowledge and level eachother up
-	- dont try and read everything
-		- I follow David Fowler, David Whitney, Brady Gaster, Steve Yegge, the odd news post that catches my eye.
-	
-- state of the art?
-	- Gas town, Beads & Dolt, OpenSpec, Speckit, BMAD etc
-
-### What things are important
-
-- Models
-- Tools 
-- Claude, Github Copilot CLI, Open Code
-
-#### Concepts
-
-- Ue AI to build AI
-- Add deterministic tools to the non-deterministic models
-	- use tokens efficiently
-
-- context and tokens
-- git work trees
-
-- MCP
-	- standardised protocol for programs to expose capabilities to AI apps
-	- defined in JSON
-	- Tools
-		- Functions that the model can call at will, could be anything, typed inputs and outputs, the human must approve
-	- Resourses
-		- Passive data sources, read only, controlled by the application
-	- Prompts
-		- Prebuilt instruction templates instructing the model to use the Tools and resources
-
-	- Excellent examples Azure MCP, Aspire MCP
-
-	- Cons
-		- Security flaws, lacls built-in auth/granular permissions
-		- Context window bloat, all tools are added to trhe context
-		- Performance, can be slower than direct API calls
-
-- Skills
-	- whereas MCP is a relatively hard abstration, Skills are much softer
-	- reusable, portable and modular package of instructions, scripts and resources
-	- expressed in markdown SKILL.md
-	- extend the functionality of an agent
-	- anything you might need to do more than once or share with someone else, could be a skill
-	
-	- Cons
-		- hard to test, use evals
-
-- Github Agentic workflows
-
-- Agent Harness [Agent = model + harness, Harness = orchestration loop + tool execution and sandboxing + context management + state & memory persistence + guard rails & safety]
-	- sub agents
-	- personas
-
-- Squad
-
-- Token efficiency tools
-	- Serena 
-	- codebase-memory-mcp https://github.com/DeusData/codebase-memory-mcp
-	- Caveman
-
-- Models
-	- open weight = snapshot of trained model, download and run. Open source = includes training data, code, architecture etc 
-	- context windows and why they are important
-	- who's on top at the moment?
-	- pricing
-	- interesting developments - Google tensor, 10 years of development
-		- Google have developed their own hardware Tensor Processing units (TPUs)
-		- ASIC (Application specific integrated circuits) specific to AI, better than CPUs or GPUs
-		- specific chips for training and inference
-		- new design at every level, hardware, infra, network, cooling
-		- Sparse cores especially for sparse data which normally slow standard processors
-		- liquid cooling
-		- Models built especially for the hardware
-		- 30-80x higher performance per watt than traditional hardware
-
-- Tools
-	- Serena [efficient semantic code retrieval/editing/refactoring/debugging]
-	- codebase-memory-mcp [tree-sitter, creates map of code, indexed 28M LOC linux kernel codebase in 3 mins] 120x fewer tokens 
-	- RTK [CLI proxy, filters and compresses command outputs before reaching LLM] 60-90% token reduction
-	- caveman ["why use many token when few do trick"] up to 75% redunction in output tokens
-
-- Control
-	- dangerouslySkipPermissions (claude)
-	- yolo (Copilot)
-	- sandboxing
-	- harness
-	
-- Concepts
-	- use AI to build AI (turtles)
-	- David Whitney Co-design with Agents
-
-What should we be aiming for?
-- Steve Yegges levels
-- introduce the Risk spectrum, how far/fast we go, what we compromise on, what we care about, what we review all depends on what we are building, criticality and risk e.g. nuclear reactor control, medical tech, defense tech, even financial transactions require more rigour, scrutiny and deep understanding of the code/inner workings. A SentimentChecker app, who cares!
-
-### Real life case studies: Squad
-
-- Resilience report tool
-	- initial plan, curate a series of prompts to be used in ChatGPT/Perplexity
-	- better to be split into deterministic and non-deterministic phases
-		- scripts for the deterministic parts, written once by an agent and tested, same output each time called
-		- skills for the non-deterministic parts which require natural language processing/sentiment analysis etc
-	1. extract JSON data file from single Word document response - D - skill with script
-	2. augment JSON data with summary/analysis of free text answers - ND - skill with prompt
-	3. once all respones gathered, create new summary JSON file with summary/analysis/recommendations of all submissions for the setting - ND - skill with prompt
-	4. read summary and response JSON files, check if summary is correct
-	5. human sanity check summary and response JSON files
-	6. load markdown template and create report - D - skill with script
-	7. generate and insert graphics - D - skill with script
-	8. send report
-	9. once summary JSON files are available for all settings, use steps similar to 3-7 to create overall report
-
-	If a survey tool with an API were to be used to gather initial responses, then a corresponding MCP server would be ideal to extract data from the API
-	Or perhaps if we wanted to store the data in a database
-	Or if the system were to scale up, we could have agents build an app for the whole thing
-
-### Real life case studies: Squad
-
-- Audited SQL query tool (trivial)
-	- project outline 
-	- introducing the squad
-	- Github Copilot CLI
-	- decisions
-	- charter & history
-	- suprisingly human commands 
-	- github integration?
-	- teams integration?
-
-- real life case study CAMT mapping refactor (critical)
-	- 700 line single mapper, covering all payment types, in & out, heavy use of undocumented Regex patterns, organically developed, everyone scared to go there
-	- overdue a refactor, opportunity to aggressively refactor!
-	- confidence tests
-	- process(iterative, manual reviews and commits)
-	- results
-	
-- comparisons/conclusions?
-
-- pros and cons of Squad
-	- beyond single repo squad?
-	- squad on k8s
-	- pluggable storage, so you can use Beads etc
-
-### Productivity Gains
-
-	- most people are seeing that generating code is much faster
-	- people talk about 2 - 10x gains
-	- but the writing of code probably wasn't the bottleneck
-	- objectively I feel like our team is perhaps 1.5 - 1.8 x faster
-	- difficult to measure
-	- cost of tokens also increasingly important
-
-### Things which still need to improve
-
-- working accross repos, especially with the shift towards unix philosophy
-- enterprise level memory, storage and context efficient retrieval
-- guard rails, everyone is trying to build their own, we should probably converge on some standards
-- safe use of secrets
-
-### Crystal ball
-
-- shapes and sizes, unix philosophy, ethemeral code?
-- effect on teams?
-- predicting which things will work & survive (mostly stuff we already know and use)
-	- TDD
-	- SOLID
-	- agile practices / XP
-	- established technologies
-		- git
-		- markdown
-		- anything which will have been in the training corpus
-- need to adapt our processes
-	- keeping up with code reviews
-	- keeping data secure
-	- baking in security
-	- token efficiency
-- projects and product teams will have both a human and token resource budgets
-	- all tokens will need to be attributed for cost accounting
-- local models will become crucial to control costs
+## ToDo
 
 
-
-
-### Dark side
-
-- Mental and physical effects
-- AI vampire, dopamine, slot machine, burnout, who should benefit from the productivity increase?
-
-Nvidia ??
-Neural scaling laws
-Mistral (French)
 
 
 ## Case studies
@@ -389,47 +121,10 @@ The PR looked big, but no legacy code was removed yet - there will be a signific
 The .squad folder is interesting, its large, but it represents the squad members 'learning' the domain and from steering from human users. Plus it could potentially be compacted if needed.
 Slides
 
-animated diagram for the background?
-screenshot of confidence test results?
-piechart of PR split?
-Case study 2 - Audited SQL query tool
 
-PoC no risk while building, minimal risk after adoption
 
-Background
 
-occasionally need to do database updates
-we have a pipeline based script runner tool to safely execute scripts which have been PR'd and merged
-but writing and testing the scripts is still tricky
-Aims
 
-we need a tool to make investigation of data issues and the writing and testing of update scripts easier
-the tool must be strictly read only
-we need to audit the read queries that engineers are performing
-some mode/strategy to aid writing and testing of update scripts
-also with the safe help of an LLM with the context of the source code if possible
-Desired Outcomes
-
-A tool to demo
-Approach
-
-100% AI generated
-I am only interested key parts of the C# code, to garuntee the readonly-ness
-I have never looked at the frontend code, may even scrap and regen in a different form etc
-Actual Outcome
-
-working demo able to run queries in the monaco editor in an hour or so
-schema explorer and code completion in a couple more hours
-query audit trail posting to github and AzDO in another hour
-added local LLM integration via ollama in a few more hours
-Case study 3 - UI mockup in high level project workshop with stakeholders
-
-Background
-
-workshop to reach alignment on next phase of major project
-discovery of actual process, and unfitness of current tooling
-difficulties visualising UX options
-Aims
 
 an easy way to try out UX ideas
 Approach
@@ -445,42 +140,25 @@ Actual outcome
 enjoyment and collaborative sense of progress
 clarity on the direction in terms of UX
 
-## ToDo
+### Dark side
 
-- Pricing
-	- token prices actually dropping over time
-	- demand rising, GPUs, RAM, compute costs rising
-	- subsidised subscription models easy for enterprise to budget for
-	- Anthropic appear to be the only company charge true cost rates
-	- once enterprises are sufficiently hooked, raise the subscription prices
-	- API per token pricing likely to be much higher -> token efficiency tooling and local models becoming more important
-	- cartell/drug dealer/gateway drug
+Nvidia ??
+Neural scaling laws
 
-- Case studies slides improvements
-
-
+- git work trees
 
 ## After slides done...
 
 - update retro board
-- add consistent accepts
+- add consistent accents
 - make title placement consistent
 - benefits of squad page?
-- create notes
 
 Some kind of project attribution, per session for token usage?
 
 Amazon tells engineers to review all ai output
 
-more dopamine info
 
-Could an economic calulation be contrived?
-1 sprint == 25 story points in 2 weeks (10 working days) == £20k
-1 PO, 5 engineers == 6 people, £20k/6 = £3,333 per person
-10 days * 5 engineers == 50 engineer days
-£3,333 / 10 == £330 per day
-opus tokens for £330?
-would velocity rise due to agents?
 at what point does an agent cost the same or more than an engineer?
 
-promised productivity gains : quality/reviews/understanding/certainty : controlled costs/cost savings - can only have 2! Venn diagram
+fast : cheap : good
