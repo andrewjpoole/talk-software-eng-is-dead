@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
-   sodipodi:docname="questions-2.svg"
+   sodipodi:docname="case-study.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.256654"
-     inkscape:cx="607.96369"
-     inkscape:cy="348.94251"
+     inkscape:cx="746.02874"
+     inkscape:cy="407.03328"
      inkscape:window-width="2560"
      inkscape:window-height="1571"
      inkscape:window-x="-9"
@@ -35,7 +35,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <title
-     id="title1">risks</title>
+     id="title1">how-to-get-started</title>
   <desc
      id="desc1">Drawing exported from Concepts: Smarter Sketching</desc>
   <defs
@@ -51,7 +51,7 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>risks</dc:title>
+        <dc:title>how-to-get-started</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,205 +92,24 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:32px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-436.94122"
-     y="565.66278"
+     style="font-size:64px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-24.119093"
+     y="666.11285"
      id="slide-title"><tspan
        id="tspan1"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-436.94122"
-       y="565.66278"
-       sodipodi:role="line">SOME QUESTIONS...</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-24.119093"
+       y="666.11285"
+       sodipodi:role="line">CASE STUDY</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:56px;writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-379.90793"
-     y="663.81702"
-     id="slide-title-9"><tspan
-       id="tspan1-4"
+     style="font-size:56px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-17.517227"
+     y="785.69562"
+     id="slide-title-1"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-379.90793"
-       y="663.81702"
-       sodipodi:role="line">How do you feel about AI</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-379.90793"
-       y="734.41388"
+       x="-17.517242"
+       y="785.69562"
        sodipodi:role="line"
-       id="tspan14">in software engineering today?</tspan></text>
-  <g
-     id="g13"
-     transform="translate(0,109.5)">
-    <path
-       id="STROKE_7f60e553-c198-46de-9bf2-b461a9b627f1-9"
-       opacity="1"
-       fill="none"
-       stroke="#000000"
-       stroke-width="3.017"
-       stroke-opacity="1"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="m 297.49013,700.61353 c -275.277729,-1.91741 -374.350859,-0.2935 -649.71552,0.2534"
-       sodipodi:nodetypes="cc"
-       style="stroke:#bdbdbd;stroke-opacity:1" />
-    <path
-       id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7"
-       opacity="1"
-       fill="none"
-       stroke="#000000"
-       stroke-width="3.017"
-       stroke-opacity="1"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="m -352.27898,700.83019 c 0,0 -0.0388,0.0236 0.0707,-0.008"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7-1"
-       opacity="1"
-       fill="none"
-       stroke="#000000"
-       stroke-width="3.017"
-       stroke-opacity="1"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="m -189.95656,700.47477 c 0,0 -0.0388,0.0236 0.0707,-0.008"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7-5"
-       opacity="1"
-       fill="none"
-       stroke="#000000"
-       stroke-width="3.017"
-       stroke-opacity="1"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="m -27.634135,700.33486 c 0,0 -0.0388,0.0236 0.0707,-0.008"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7-2"
-       opacity="1"
-       fill="none"
-       stroke="#000000"
-       stroke-width="3.017"
-       stroke-opacity="1"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="m 134.68829,699.91747 c 0,0 -0.0388,0.0236 0.0707,-0.008"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7-7"
-       opacity="1"
-       fill="none"
-       stroke="#000000"
-       stroke-width="3.017"
-       stroke-opacity="1"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="m 297.01071,700.66068 c 0,0 -0.0388,0.0236 0.0707,-0.008"
-       sodipodi:nodetypes="cc" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-size:32px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-349.54041"
-     y="863.95526"
-     id="text1"><tspan
-       id="tspan1-3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-349.54041"
-       y="863.95526"
-       sodipodi:role="line">1 ☹️</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-349.54041"
-       y="904.66675"
-       sodipodi:role="line"
-       id="tspan5">hate it!</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-349.54041"
-       y="945.00781"
-       sodipodi:role="line"
-       id="tspan9">concerned</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:32px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-170.72804"
-     y="861.42316"
-     id="text1-8"><tspan
-       id="tspan1-3-8"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-170.72804"
-       y="861.42316"
-       sodipodi:role="line">2 😕</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-170.72804"
-       y="902.13464"
-       sodipodi:role="line"
-       id="tspan13">worried,</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-170.72804"
-       y="942.47571"
-       sodipodi:role="line"
-       id="tspan3">behind</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-170.72804"
-       y="982.47571"
-       sodipodi:role="line"
-       id="tspan7" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:32px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-11.880325"
-     y="861.42316"
-     id="text1-8-5"><tspan
-       id="tspan1-3-8-1"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-11.880325"
-       y="861.42316"
-       sodipodi:role="line">3 😐</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-7.8803253"
-       y="902.13464"
-       sodipodi:role="line"
-       id="tspan8">not sure </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:32px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="153.06"
-     y="861.42316"
-     id="text1-8-5-5"><tspan
-       id="tspan1-3-8-1-2"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="153.06"
-       y="861.42316"
-       sodipodi:role="line">4 🙂</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="153.06"
-       y="902.13464"
-       sodipodi:role="line"
-       id="tspan11">getting</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="153.06"
-       y="942.47571"
-       sodipodi:role="line"
-       id="tspan12">there</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:32px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="299.50775"
-     y="861.00116"
-     id="text1-8-5-5-4"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="299.50775"
-       y="861.00116"
-       sodipodi:role="line"
-       id="tspan2">5 😁</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="299.50775"
-       y="901.71265"
-       sodipodi:role="line"
-       id="tspan6">love it!</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="299.50775"
-       y="942.05371"
-       sodipodi:role="line"
-       id="tspan10">sold</tspan></text>
+       id="tspan3">Flagstone CAMT report mapper</tspan></text>
 </svg>

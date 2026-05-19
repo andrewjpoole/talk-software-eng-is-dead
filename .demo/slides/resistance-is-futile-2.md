@@ -3,5 +3,5 @@ customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/resistance-is-futile.svg
 invert: true
 startAt: text1-5
-speed: 2500
+speed: 3500
 ---

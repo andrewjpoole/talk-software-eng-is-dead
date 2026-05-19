@@ -154,15 +154,29 @@
       ],
       "notes": {
         "path": "notes/demo-models-1_notes.md"
-      }
+      },
+      "disabled": true
     },
     {
       "id": "demo-mozgn1sk-3k0b",
-      "title": "models-costs",
+      "title": "costs-tokens",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/costs.md"
+          "path": ".demo/slides/tokens.md"
+        }
+      ],
+      "notes": {
+        "path": "notes/demo-mozgn1sk-3k0b_notes.md"
+      }
+    },
+    {
+      "id": "demo-mp7gkdhl-taed",
+      "title": "costs-credits",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/credits.md"
         }
       ],
       "notes": {
@@ -177,7 +191,8 @@
           "action": "openSlide",
           "path": ".demo/slides/interfaces.md"
         }
-      ]
+      ],
+      "disabled": true
     },
     {
       "id": "demo-moyfokmr-n3sk",
@@ -312,12 +327,23 @@
       }
     },
     {
-      "id": "demo-mozj9bnk-38bx",
-      "title": "how-to-get-started",
+      "id": "demo-mp600zjq-blcq",
+      "title": "squad 2",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/how-to-get-started.md"
+          "path": ".demo/slides/squad-2.md"
+        }
+      ],
+      "disabled": true
+    },
+    {
+      "id": "demo-mp7fwa9s-352f",
+      "title": "case-study-title",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/case-study.md"
         }
       ],
       "icons": {
@@ -326,24 +352,18 @@
       }
     },
     {
-      "id": "demo-mooswb34-qbpy",
-      "title": "squad",
+      "id": "demo-mp7gd1cu-ufkv",
+      "title": "introducing-squad",
       "moves": [
         {
           "action": "openSlide",
-          "path": ".demo/slides/squad.md"
+          "path": ".demo/slides/introducing-squad.md"
         }
-      ]
-    },
-    {
-      "id": "demo-mp600zjq-blcq",
-      "title": "squad 2",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/squad-2.md"
-        }
-      ]
+      ],
+      "icons": {
+        "start": "circle-large-filled",
+        "end": ""
+      }
     },
     {
       "id": "demo-moniys3x-39ks",
@@ -373,7 +393,8 @@
           "action": "openSlide",
           "path": ".demo/slides/case-study-2.md"
         }
-      ]
+      ],
+      "disabled": true
     },
     {
       "id": "demo-mp60kygy-6oaq",
@@ -384,7 +405,8 @@
           "url": "http://localhost:8080/outbound-payments.html",
           "openInVSCode": true
         }
-      ]
+      ],
+      "disabled": true
     },
     {
       "id": "demo-mp60lrla-9ftz",
@@ -395,7 +417,8 @@
           "url": "http://localhost:8080/inbound-payments.html",
           "openInVSCode": true
         }
-      ]
+      ],
+      "disabled": true
     },
     {
       "id": "demo-mp3xjr42-lnz7",
@@ -422,7 +445,8 @@
       ],
       "notes": {
         "path": "notes/demo-monkjr7o-6qu7_notes.md"
-      }
+      },
+      "disabled": true
     },
     {
       "id": "demo-moo4ebwf-sr9y",
@@ -445,7 +469,8 @@
       ],
       "notes": {
         "path": "notes/demo-dark-1_notes.md"
-      }
+      },
+      "disabled": true
     },
     {
       "id": "demo-retro-1",
@@ -455,7 +480,8 @@
           "action": "openSlide",
           "path": ".demo/slides/retro-board.md"
         }
-      ]
+      ],
+      "disabled": true
     },
     {
       "id": "demo-mp485yaq-v9i2",

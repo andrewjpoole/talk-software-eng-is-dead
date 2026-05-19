@@ -1,6 +1,7 @@
 ---
 customLayout: .demo/layouts/animated-diagram.html
-filePath: .demo/assets/kubler-ross-change-curve.svg
+filePath: .demo/assets/model-costs-credits.svg
 invert: true
 speed: 3500
 ---
+

@@ -29,7 +29,7 @@
      inkscape:cx="746.02874"
      inkscape:cy="407.03328"
      inkscape:window-width="2560"
-     inkscape:window-height="1511"
+     inkscape:window-height="1571"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -101,6 +101,18 @@
        y="608.31177"
        sodipodi:role="line"
        id="tspan2">Thanks for listening!</tspan></text>
+  <path
+     id="STROKE_7bffc11c-55f5-4acb-a5c3-fb3aba9d725c-4-8-2-8"
+     opacity="0.249"
+     fill="none"
+     stroke="#ed5d47"
+     stroke-width="12"
+     stroke-opacity="0.249"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m -431.38626,734.76187 c 8.67344,0.46719 181.64829,-0.11232 187.71574,0.026"
+     style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.739558"
+     sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
      style="font-size:32px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
@@ -145,18 +157,6 @@
        sodipodi:role="line"
        id="tspan4">linkedin.com/in/andrew-poole-2782494a</tspan></text>
   <path
-     id="STROKE_7bffc11c-55f5-4acb-a5c3-fb3aba9d725c-4-8-2-8"
-     opacity="0.249"
-     fill="none"
-     stroke="#ed5d47"
-     stroke-width="12"
-     stroke-opacity="0.249"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     d="m -431.38626,734.76187 c 8.67344,0.46719 181.64829,-0.11232 187.71574,0.026"
-     style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.739558"
-     sodipodi:nodetypes="cc" />
-  <path
      id="STROKE_7bffc11c-55f5-4acb-a5c3-fb3aba9d725c-4-8-2-8-4"
      opacity="0.249"
      fill="none"
@@ -165,9 +165,25 @@
      stroke-opacity="0.249"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -436.41048,935.39766 c 8.67344,0.46719 228.79731,-0.11232 234.86476,0.026"
+     d="m -436.41048,938.39766 c 8.67344,0.46719 187.61652,-0.11232 193.68397,0.026"
      style="stroke:#17d2e2;stroke-width:32;stroke-dasharray:none;stroke-opacity:0.739558"
      sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:22px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-445.89874"
+     y="943.59479"
+     id="slide-title-5-2-3-2"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-445.89874"
+       y="943.59479"
+       sodipodi:role="line"
+       id="tspan3-7-1-8">Illustrations by Catrin Poole</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
+       x="-445.89874"
+       y="971.09479"
+       sodipodi:role="line"
+       id="tspan6">lcpmedia5356@gmail.com</tspan></text>
   <g
      stroke-linecap="round"
      id="Layer_4_Copy_2"
@@ -9789,20 +9805,4 @@
        stroke-linejoin="round"
        id="path1202" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-size:22px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
-     x="-445.89874"
-     y="943.59479"
-     id="slide-title-5-2-3-2"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-445.89874"
-       y="943.59479"
-       sodipodi:role="line"
-       id="tspan3-7-1-8">Illustrations by Catrin Poole</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Silent People';-inkscape-font-specification:'Silent People';fill:#000000;stroke-width:19"
-       x="-445.89874"
-       y="971.32928"
-       sodipodi:role="line"
-       id="tspan6">lcpmedia5356@gmail.com</tspan></text>
 </svg>
