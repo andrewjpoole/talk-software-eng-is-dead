@@ -6,7 +6,7 @@
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
    sodipodi:docname="ensuring-quality.svg"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,14 +25,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.7771772"
-     inkscape:cx="544.96535"
-     inkscape:cy="366.0299"
-     inkscape:window-width="2588"
-     inkscape:window-height="1501"
-     inkscape:window-x="2967"
-     inkscape:window-y="307"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.256654"
+     inkscape:cx="649.34339"
+     inkscape:cy="334.61874"
+     inkscape:window-width="2560"
+     inkscape:window-height="1571"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <title
      id="title1">ensuring-quality</title>
@@ -124,6 +124,18 @@
        y="644.58435"
        sodipodi:role="line"
        id="tspan8">personally responsible for quality!😅&quot;</tspan></text>
+  <path
+     id="STROKE_7bffc11c-55f5-4acb-a5c3-fb3aba9d725c-4-8-2"
+     opacity="0.249"
+     fill="none"
+     stroke="#ed5d47"
+     stroke-width="12"
+     stroke-opacity="0.249"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="m -86.278948,600.01401 530.801088,3.3485"
+     style="stroke:#17d2e2;stroke-width:140.092;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.739558;paint-order:markers fill stroke"
+     sodipodi:nodetypes="cc" />
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -147,7 +159,7 @@
        style="stroke-width:19"
        x="-444.10895"
        y="777.67822"
-       id="tspan2">- Low risk code = less rigour?</tspan></text>
+       id="tspan2">- Do we accept less rigour?</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -159,19 +171,7 @@
        style="stroke-width:19"
        x="-444.10895"
        y="838.19171"
-       id="tspan2-6">- Just find and defend the time</tspan></text>
-  <path
-     id="STROKE_7bffc11c-55f5-4acb-a5c3-fb3aba9d725c-4-8-2"
-     opacity="0.249"
-     fill="none"
-     stroke="#ed5d47"
-     stroke-width="12"
-     stroke-opacity="0.249"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     d="m -434.16703,829.70808 c 8.67344,0.46719 425.5416045,0.4845 431.6090545,0.62282"
-     style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.739558"
-     sodipodi:nodetypes="cc" />
+       id="tspan2-6">- Is it important for humans to have understood the code?</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
@@ -184,7 +184,6 @@
        x="-444.10895"
        y="894.80127"
        id="tspan7">- More AI may be able to help</tspan></text>
-  <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
@@ -206,5 +205,4 @@
        x="-411.08823"
        y="987.57227"
        id="tspan6">- adversarial models</tspan></text>
-  <!--Pause:UntilPlay-->
 </svg>

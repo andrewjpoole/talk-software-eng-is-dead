@@ -6,7 +6,7 @@
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
    sodipodi:docname="productivity-gains.svg"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,12 +23,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.7771772"
-     inkscape:cx="544.96535"
+     inkscape:cx="429.89523"
      inkscape:cy="366.0299"
-     inkscape:window-width="3840"
-     inkscape:window-height="2071"
-     inkscape:window-x="2551"
-     inkscape:window-y="121"
+     inkscape:window-width="2560"
+     inkscape:window-height="1571"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <title
@@ -130,7 +130,7 @@
        style="stroke-width:19"
        x="-441.57684"
        y="837.21515"
-       id="tspan2">is perhaps 1.5 - 1.8x faster with Agents?</tspan></text>
+       id="tspan2">is between 2x - 3x faster with agentic process</tspan></text>
   <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"

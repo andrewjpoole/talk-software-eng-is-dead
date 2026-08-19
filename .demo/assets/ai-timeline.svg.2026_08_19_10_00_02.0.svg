@@ -6,7 +6,7 @@
    viewBox="-480.000 498.000 960.000 540.000"
    id="svg1"
    sodipodi:docname="ai-timeline.svg"
-   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="2.4571961"
-     inkscape:cx="362.20146"
-     inkscape:cy="554.49381"
+     inkscape:zoom="1.7375"
+     inkscape:cx="721.72662"
+     inkscape:cy="482.58993"
      inkscape:window-width="2560"
      inkscape:window-height="1571"
      inkscape:window-x="-9"
@@ -56,8 +56,8 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -401.80042,549.25055 c 46.01111,-4.05875 94.78642,-3.89674 139.95,10.01356 45.21079,9.85442 91.14493,16.77106 137.59894,13.89294 92.785413,-2.20934 183.758924,-23.58064 276.38779,-28.27484 72.33267,-4.5292 145.12306,-11.13206 217.54727,-4.98166 34.82644,3.63918 60.42795,38.57009 56.23125,72.93575 0.95887,35.43781 -35.64015,52.31332 -66.18994,53.15456 -69.9931,3.58239 -140.32319,2.32032 -209.66406,-8.77381 -65.5793,-4.86928 -223.550265,6.43604 -277.34602,6.07818 -44.4754,-0.21282 -79.29206,-14.24441 -162.35178,-17.87452 -38.71264,0.8622 -69.06938,1.88249 -114.38545,21.04484 -30.38601,14.50042 -41.40382,64.32745 -5.467,81.55875 35.21272,15.55171 75.14779,16.74368 113.08525,19.47375 60.6889,0.8929 121.9556,3.57625 181.59187,-10.13144 69.835021,-12.4259 141.232693,-11.84182 211.558871,-4.38906 79.427259,6.10755 157.615799,27.26027 237.812009,22.233 31.00945,-1.6817 82.47059,5.14139 85.469,43.637 -8.92418,32.8539 -43.24149,48.83881 -74.41,53.996 -54.66403,5.07834 -109.13037,-6.21068 -163.739,-8.046 C 121.37126,859.8685 61.945914,846.76139 1.4405708,841.57155 -67.882854,830.96151 -139.95547,828.54928 -207.94542,848.19605 c -61.36139,16.31586 -129.62332,19.532 -190.62453,11.46959 0,0 -36.06438,-0.92429 -41.08637,25.71378 -14.03146,74.42689 53.35679,68.35038 121.86693,76.56404 57.96594,6.94952 121.77653,2.04123 183.29499,3.05755 65.173492,1.0767 109.701094,3.8817 146.801607,6.97638 17.831186,1.48737 35.303323,2.54811 35.303323,2.54811"
-     sodipodi:nodetypes="ccccccccccccccccccccccssssc" />
+     d="m -401.80042,555.25055 c 46.01111,-4.05875 94.78642,-3.89674 139.95,10.01356 45.21079,9.85442 91.14493,16.77106 137.59894,13.89294 92.785413,-2.20934 183.758924,-23.58064 276.38779,-28.27484 72.33267,-4.5292 145.12306,-11.13206 217.54727,-4.98166 34.82644,3.63918 60.42795,38.57009 56.23125,72.93575 0.95887,35.43781 -35.64015,52.31332 -66.18994,53.15456 -69.9931,3.58239 -140.32319,2.32032 -209.66406,-8.77381 -65.5793,-4.86928 -223.550265,6.43604 -277.34602,6.07818 -44.4754,-0.21282 -79.29206,-14.24441 -162.35178,-17.87452 -38.71264,0.8622 -69.06938,1.88249 -114.38545,21.04484 -30.38601,14.50042 -41.40382,64.32745 -5.467,81.55875 35.21272,15.55171 75.14779,16.74368 113.08525,19.47375 60.6889,0.8929 121.9556,3.57625 181.59187,-10.13144 69.835021,-12.4259 141.232693,-11.84182 211.558871,-4.38906 79.427259,6.10755 157.615799,27.26027 237.812009,22.233 31.00945,-1.6817 82.47059,5.14139 85.469,43.637 -8.92418,32.8539 -43.24149,48.83881 -74.41,53.996 -54.66403,5.07834 -109.13037,-6.21068 -163.739,-8.046 C 121.37126,865.8685 61.945914,852.76139 1.4405708,847.57155 -67.882854,836.96151 -139.95547,834.54928 -207.94542,854.19605 c -61.36139,16.31586 -127.46475,14.89034 -183.29911,10.85914 -55.83436,-4.03121 -97.39179,84.75528 -31.31914,106.90388 24.77473,8.30489 145.63946,12.60642 284.76143,15.50228 98.840037,2.05738 235.236331,-19.82564 325.59494,-15.49216 121.64916,5.83413 182.44166,13.43993 182.44166,13.43993"
+     sodipodi:nodetypes="ccccccccccccccccccccczsssc" />
   <path
      id="STROKE_cd4b5e25-c1a3-49af-9267-4b5ae8dfc039"
      opacity="1"
@@ -67,8 +67,10 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 35.510736,987.33746 c 0.304837,-0.8443 16.727252,-11.45118 16.871389,-11.85524 0.273659,-0.76711 -17.686114,-11.34258 -18.226663,-11.58458"
-     sodipodi:nodetypes="csc" />
+     d="m 355.0325,997.98658 c 0.3291,-0.83515 17.05107,-10.96312 17.20681,-11.36285 0.29571,-0.75889 -17.35107,-11.84873 -17.8844,-12.10623"
+     sodipodi:nodetypes="csc"
+     inkscape:transform-center-x="-10.977672"
+     inkscape:transform-center-y="-1.8313557" />
   <path
      id="STROKE_a53d1714-c0f0-4325-a5e2-d89635c69ff6"
      opacity="1"
@@ -78,7 +80,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -401.54142,549.17777 c 0.0191,0.005 0.0897,-0.0121 0.007,0.0309"
+     d="m -401.54142,555.17777 c 0.0191,0.005 0.0897,-0.0121 0.007,0.0309"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_165553ad-7c68-4dc0-beb0-909b178ac17a"
@@ -89,7 +91,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -244.66318,562.9297 c -0.268,0.56854 0.52538,0.31336 0.0771,-0.0582"
+     d="m -244.66318,568.9297 c -0.268,0.56854 0.52538,0.31336 0.0771,-0.0582"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_97d0145f-be58-4367-ba32-9d8d4aab7898"
@@ -100,7 +102,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-86.062431"
-     cy="571.44354"
+     cy="577.44354"
      r="1.5089999" />
   <circle
      id="STROKE_09808293-f756-4cc6-a810-27740956ce8f"
@@ -111,7 +113,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="67.009483"
-     cy="552.87555"
+     cy="558.87555"
      r="1.5089999" />
   <circle
      id="STROKE_f42658d8-6727-484b-bfa9-ff2dc2afeb2c"
@@ -122,7 +124,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="221.00758"
-     cy="541.67957"
+     cy="547.67957"
      r="1.5089999" />
   <circle
      id="STROKE_318544ed-8868-42f4-ac0d-78428e50db5c"
@@ -133,7 +135,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="371.53156"
-     cy="542.77356"
+     cy="548.77356"
      r="1.5089999" />
   <path
      id="STROKE_83bfe989-9772-4df1-9368-b21bb83bbe0d"
@@ -144,7 +146,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 378.16174,663.64071 c -0.58911,-0.008 -0.0389,0.43648 0.0381,0.006"
+     d="m 378.16174,669.64071 c -0.58911,-0.008 -0.0389,0.43648 0.0381,0.006"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_78f3b325-deca-4632-a9e7-a6ea3b6c57a5"
@@ -155,7 +157,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 234.44396,666.11779 c -0.14261,-0.009 -0.0229,0.0475 -0.0165,-0.0415"
+     d="m 234.44396,672.11779 c -0.14261,-0.009 -0.0229,0.0475 -0.0165,-0.0415"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_b4773389-e693-4ee1-8e9a-97bd4b48377e"
@@ -166,7 +168,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="71.209572"
-     cy="654.42157"
+     cy="660.42157"
      r="1.5089999" />
   <circle
      id="STROKE_ab0d6b94-137a-4b74-9427-ef60802747db"
@@ -177,7 +179,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-91.139267"
-     cy="662.69495"
+     cy="668.69495"
      r="1.5089999" />
   <circle
      id="STROKE_0993d166-2369-44bf-920b-d780690771bf"
@@ -188,7 +190,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-249.82234"
-     cy="648.2243"
+     cy="654.2243"
      r="1.5089999" />
   <circle
      id="STROKE_2ffb6edd-3554-4c67-bb7e-7d363b2fda70"
@@ -199,7 +201,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-407.6955"
-     cy="670.05914"
+     cy="676.05914"
      r="1.5089999" />
   <path
      id="STROKE_7e282e59-3b41-460a-aacc-a5cf82ae8ef9"
@@ -210,7 +212,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -326.52493,765.37661 c 0,0 0.0447,0.11241 -0.017,0.0235"
+     d="m -326.52493,771.37661 c 0,0 0.0447,0.11241 -0.017,0.0235"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_711c38e2-0c30-491f-b12b-b01df75b0c5a"
@@ -221,7 +223,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -202.74672,767.9512 c 0,0 -0.13441,0.0101 0.024,-0.0242"
+     d="m -202.74672,773.9512 c 0,0 -0.13441,0.0101 0.024,-0.0242"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_77c3bd83-47cc-47c2-9afb-bcd6a8fb22f7"
@@ -232,7 +234,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -73.092203,751.52388 c 0,0 -0.03878,0.0236 0.0707,-0.008"
+     d="m -73.092203,757.52388 c 0,0 -0.03878,0.0236 0.0707,-0.008"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_8528b304-178d-4cbb-b5ce-e4eb205a2a53"
@@ -243,7 +245,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 67.514121,750.34394 c -0.259333,0 -0.0049,0.0382 0.0545,0.007"
+     d="m 67.514121,756.34394 c -0.259333,0 -0.0049,0.0382 0.0545,0.007"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_3b70efcc-edab-4d03-a7c3-175f37ff8e0f"
@@ -254,7 +256,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 182.64958,763.60955 c 0,0 -0.0499,0.11863 0.0673,-0.006"
+     d="m 182.64958,769.60955 c 0,0 -0.0499,0.11863 0.0673,-0.006"
      sodipodi:nodetypes="cc" />
   <path
      id="STROKE_1bbadcc1-b9ec-4d3d-b601-1bda84948037"
@@ -265,7 +267,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 310.39235,776.05469 c 0.002,-0.0712 -0.0266,-0.004 0.002,-0.004"
+     d="m 310.39235,782.05469 c 0.002,-0.0712 -0.0266,-0.004 0.002,-0.004"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_f9370476-f1f4-4688-acf0-505ab72263e4"
@@ -276,7 +278,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="410.58905"
-     cy="838.35309"
+     cy="844.35309"
      r="1.5089999" />
   <circle
      id="STROKE_70551808-5471-4df5-827a-99c8253570e7"
@@ -287,7 +289,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="295.29138"
-     cy="873.7439"
+     cy="879.7439"
      r="1.5089999" />
   <circle
      id="STROKE_00e270a6-75c6-4cc2-a476-134ab7e0bcaa"
@@ -298,7 +300,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="150.51379"
-     cy="861.58905"
+     cy="867.58905"
      r="1.5089999" />
   <path
      id="STROKE_0d830073-487a-4159-ae84-587f3510621a"
@@ -309,7 +311,7 @@
      stroke-opacity="1"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m 6.8088738,842.04089 -0.0095,0.0421"
+     d="m 6.8088738,848.04089 -0.0095,0.0421"
      sodipodi:nodetypes="cc" />
   <circle
      id="STROKE_a61f761d-0edf-4213-baf4-c2746401936b"
@@ -320,7 +322,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-134.4079"
-     cy="835.0672"
+     cy="841.0672"
      r="1.5089999" />
   <circle
      id="STROKE_98ed6746-4605-4596-beeb-476b6cc1c72f"
@@ -331,7 +333,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-259.68445"
-     cy="858.77655"
+     cy="864.77655"
      r="1.5089999" />
   <circle
      id="STROKE_b9882232-75ac-468f-926d-748d5e19eb02"
@@ -342,7 +344,7 @@
      stroke-opacity="1"
      fill-opacity="1"
      cx="-370.72198"
-     cy="862.5144"
+     cy="868.5144"
      r="1.5089999" />
   <circle
      id="STROKE_b9882232-75ac-468f-926d-748d5e19eb02-8"
@@ -352,12 +354,34 @@
      stroke-width="0.1"
      stroke-opacity="1"
      fill-opacity="1"
-     cx="-317.02646"
-     cy="962.20221"
+     cx="-340.92706"
+     cy="980.81647"
+     r="1.5089999" />
+  <circle
+     id="STROKE_b9882232-75ac-468f-926d-748d5e19eb02-5"
+     opacity="1"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.1"
+     stroke-opacity="1"
+     fill-opacity="1"
+     cx="-231.85687"
+     cy="985.1665"
+     r="1.5089999" />
+  <circle
+     id="STROKE_b9882232-75ac-468f-926d-748d5e19eb02-1"
+     opacity="1"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0.1"
+     stroke-opacity="1"
+     fill-opacity="1"
+     cx="-224.19896"
+     cy="985.45392"
      r="1.5089999" />
   <text
      x="-401.7662"
-     y="560.68909"
+     y="566.68909"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -368,21 +392,21 @@
        sodipodi:role="line"
        id="tspan3"
        x="-401.7662"
-       y="560.68909"
+       y="566.68909"
        style="fill:#333333;fill-opacity:1">Mar 2024</tspan><tspan
        sodipodi:role="line"
        id="tspan4"
        x="-401.7662"
-       y="578.18909"
+       y="584.18909"
        style="fill:#333333;fill-opacity:1">Claude 3 Family</tspan><tspan
        sodipodi:role="line"
        x="-401.7662"
-       y="595.68909"
+       y="601.68909"
        id="tspan5"
        style="fill:#333333;fill-opacity:1">Opus/Sonnet/Haiku</tspan></text>
   <g
      id="g46"
-     transform="translate(161.9454,-81.927077)">
+     transform="translate(161.9454,-75.927077)">
     <text
        x="-243.87"
        y="665"
@@ -414,7 +438,7 @@
   </g>
   <g
      id="g47"
-     transform="translate(162.37705,-91.855135)">
+     transform="translate(162.37705,-85.855135)">
     <text
        x="-85.269997"
        y="659.5"
@@ -437,7 +461,7 @@
   </g>
   <text
      x="296.54187"
-     y="549.44702"
+     y="555.44702"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -447,18 +471,18 @@
        sodipodi:role="line"
        id="tspan12"
        x="296.54187"
-       y="549.44702">Jul-Aug 2024</tspan><tspan
+       y="555.44702">Jul-Aug 2024</tspan><tspan
        sodipodi:role="line"
        id="tspan13"
        x="296.54187"
-       y="566.94702">Llama 3.1</tspan><tspan
+       y="572.94702">Llama 3.1</tspan><tspan
        sodipodi:role="line"
        x="296.54187"
-       y="584.44702"
+       y="590.44702"
        id="tspan14">Cursor IDE Growth</tspan></text>
   <text
      x="305.93964"
-     y="645.43982"
+     y="651.43982"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -468,18 +492,18 @@
        sodipodi:role="line"
        id="tspan15"
        x="305.93964"
-       y="645.43982">Sep-Oct 2024</tspan><tspan
+       y="651.43982">Sep-Oct 2024</tspan><tspan
        sodipodi:role="line"
        id="tspan16"
        x="305.93964"
-       y="662.93982">Claude 3.5 Haiku</tspan><tspan
+       y="668.93982">Claude 3.5 Haiku</tspan><tspan
        sodipodi:role="line"
        x="305.93964"
-       y="680.43982"
+       y="686.43982"
        id="tspan18">GPT o1/o1-mini</tspan></text>
   <text
      x="79.733017"
-     y="674.84991"
+     y="680.84991"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -489,19 +513,19 @@
        sodipodi:role="line"
        id="tspan19"
        x="79.733017"
-       y="674.84991">Nov 2024</tspan><tspan
+       y="680.84991">Nov 2024</tspan><tspan
        sodipodi:role="line"
        id="tspan20"
        x="79.733017"
-       y="692.34991">MCP Protocol</tspan><tspan
+       y="698.34991">MCP Protocol</tspan><tspan
        sodipodi:role="line"
        x="79.733017"
-       y="709.84991"
+       y="715.84991"
        id="tspan21"
        style="fill:#333333;fill-opacity:1">Windsurf</tspan></text>
   <text
      x="-104.61931"
-     y="678.55981"
+     y="684.55981"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -511,22 +535,22 @@
        sodipodi:role="line"
        id="tspan22"
        x="-104.61931"
-       y="678.55981">Dec 2024</tspan><tspan
+       y="684.55981">Dec 2024</tspan><tspan
        sodipodi:role="line"
        id="tspan23"
        x="-104.61931"
-       y="696.05981">Devin AI GA</tspan><tspan
+       y="702.05981">Devin AI GA</tspan><tspan
        sodipodi:role="line"
        x="-104.61931"
-       y="713.55981"
+       y="719.55981"
        id="tspan25">Gemini 2.0 Flash</tspan><tspan
        sodipodi:role="line"
        x="-104.61931"
-       y="731.05981"
+       y="737.05981"
        id="tspan24" /></text>
   <g
      id="g52"
-     transform="translate(-454.88915,-78.905494)">
+     transform="translate(-454.88915,-72.905494)">
     <text
        x="51.820145"
        y="745.76617"
@@ -562,7 +586,7 @@
   </g>
   <text
      x="-316.86807"
-     y="775.50458"
+     y="781.50458"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -572,14 +596,14 @@
        sodipodi:role="line"
        id="tspan31"
        x="-316.86807"
-       y="775.50458">Mar 2025</tspan><tspan
+       y="781.50458">Mar 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan32"
        x="-316.86807"
-       y="793.00458">Gemini 2.5 Pro</tspan></text>
+       y="799.00458">Gemini 2.5 Pro</tspan></text>
   <text
      x="-67.748421"
-     y="769.37506"
+     y="775.37506"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -590,22 +614,22 @@
        sodipodi:role="line"
        id="tspan33"
        x="-67.748421"
-       y="769.37506">May 2025</tspan><tspan
+       y="775.37506">May 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan34"
        x="-67.748421"
-       y="786.87506">Claude 4 Family</tspan><tspan
+       y="792.87506">Claude 4 Family</tspan><tspan
        sodipodi:role="line"
        x="-67.748421"
-       y="804.37506"
+       y="810.37506"
        id="tspan79">Opus/Sonnet/Haiku</tspan><tspan
        sodipodi:role="line"
        x="-67.748421"
-       y="821.87506"
+       y="827.87506"
        id="tspan35" /></text>
   <text
      x="72.089966"
-     y="763.61292"
+     y="769.61292"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -615,18 +639,18 @@
        sodipodi:role="line"
        id="tspan36"
        x="72.089966"
-       y="763.61292">Jun 2025</tspan><tspan
+       y="769.61292">Jun 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan37"
        x="72.089966"
-       y="781.11292">Agentic Mainstream</tspan><tspan
+       y="787.11292">Agentic Mainstream</tspan><tspan
        sodipodi:role="line"
        x="72.089966"
-       y="798.61292"
+       y="804.61292"
        id="tspan1">Google CLI</tspan></text>
   <text
      x="342.42459"
-     y="772.11401"
+     y="778.11401"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -636,22 +660,22 @@
        sodipodi:role="line"
        id="tspan40"
        x="342.42459"
-       y="772.11401">Aug 2025</tspan><tspan
+       y="778.11401">Aug 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan41"
        x="342.42459"
-       y="789.61401">Mainstream</tspan><tspan
+       y="795.61401">Mainstream</tspan><tspan
        sodipodi:role="line"
        x="342.42459"
-       y="807.11401"
+       y="813.11401"
        id="tspan42">Reasoning Models</tspan><tspan
        sodipodi:role="line"
        x="342.42459"
-       y="824.61401"
+       y="830.61401"
        id="tspan2">GPT-5</tspan></text>
   <text
      x="405.21075"
-     y="855.76227"
+     y="861.76227"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -661,19 +685,19 @@
        sodipodi:role="line"
        id="tspan43"
        x="405.21075"
-       y="855.76227">Sep 2025</tspan><tspan
+       y="861.76227">Sep 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan44"
        x="405.21075"
-       y="873.26227">Claude Sonnet 4.5</tspan><tspan
+       y="879.26227">Claude Sonnet 4.5</tspan><tspan
        sodipodi:role="line"
        x="405.21075"
-       y="890.76227"
+       y="896.76227"
        id="tspan53"
        style="fill:#333333;fill-opacity:1">GitHub Copilot CLI beta</tspan></text>
   <text
      x="271.56699"
-     y="870.07831"
+     y="876.07831"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -683,20 +707,20 @@
        sodipodi:role="line"
        id="tspan45"
        x="271.56699"
-       y="870.07831"
+       y="876.07831"
        style="fill:#c41e3a;fill-opacity:1">Oct 2025</tspan><tspan
        sodipodi:role="line"
        x="271.56699"
-       y="887.57831"
+       y="893.57831"
        id="tspan47"
        style="fill:#c41e3a;fill-opacity:1">Agent Skills</tspan><tspan
        sodipodi:role="line"
        x="271.56699"
-       y="905.07831"
+       y="911.07831"
        id="tspan51">ClaudeHaiku 4.5</tspan></text>
   <text
      x="150.51158"
-     y="855.28156"
+     y="861.28156"
      font-size="14"
      font-weight="bold"
      text-anchor="middle"
@@ -707,14 +731,14 @@
        sodipodi:role="line"
        id="tspan48"
        x="150.51158"
-       y="855.28156">Nov 2025</tspan><tspan
+       y="861.28156">Nov 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan49"
        x="150.51158"
-       y="872.78156">Claude Opus 4.5</tspan></text>
+       y="878.78156">Claude Opus 4.5</tspan></text>
   <text
      x="11.618879"
-     y="855.14703"
+     y="861.14703"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -724,18 +748,18 @@
        sodipodi:role="line"
        id="tspan54"
        x="11.618879"
-       y="855.14703">Dec 2025</tspan><tspan
+       y="861.14703">Dec 2025</tspan><tspan
        sodipodi:role="line"
        id="tspan55"
        x="11.618877"
-       y="872.64703">Enterprise Agent</tspan><tspan
+       y="878.64703">Enterprise Agent</tspan><tspan
        sodipodi:role="line"
        x="11.618879"
-       y="890.14703"
+       y="896.14703"
        id="tspan56">Adoption</tspan></text>
   <text
      x="-57.430176"
-     y="903.85516"
+     y="909.85516"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -745,11 +769,11 @@
        sodipodi:role="line"
        id="tspan57"
        x="-57.430176"
-       y="903.85516">Dec-Jan</tspan><tspan
+       y="909.85516">Dec-Jan</tspan><tspan
        sodipodi:role="line"
        id="tspan58"
        x="-57.430176"
-       y="921.35516">GasTown goes public</tspan></text>
+       y="927.35516">GasTown goes public</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:18px;font-family:'Silent People';-inkscape-font-specification:'Silent People Bold';writing-mode:lr-tb;direction:ltr;opacity:0.312236;fill:none;stroke:#7fdbf7;stroke-width:23"
@@ -763,7 +787,7 @@
        y="960.83191" /></text>
   <text
      x="-130.52351"
-     y="851.58014"
+     y="857.58014"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -773,18 +797,18 @@
        sodipodi:role="line"
        id="tspan59"
        x="-130.52351"
-       y="851.58014">Jan 2026</tspan><tspan
+       y="857.58014">Jan 2026</tspan><tspan
        sodipodi:role="line"
        id="tspan60"
        x="-130.52351"
-       y="869.08014">ClaudeOpus4.6</tspan><tspan
+       y="875.08014">ClaudeOpus4.6</tspan><tspan
        sodipodi:role="line"
        x="-130.52351"
-       y="886.58014"
+       y="892.58014"
        id="tspan61">ClaudeSonnet4.6</tspan></text>
   <text
      x="-254.28525"
-     y="855.18616"
+     y="861.18616"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -794,55 +818,55 @@
        sodipodi:role="line"
        id="tspan62"
        x="-254.28525"
-       y="855.18616">Feb 2026</tspan><tspan
+       y="861.18616">Feb 2026</tspan><tspan
        sodipodi:role="line"
        id="tspan63"
        x="-254.28525"
-       y="872.68616">GitHub Agentic</tspan><tspan
+       y="878.68616">GitHub Agentic</tspan><tspan
        sodipodi:role="line"
        x="-254.28525"
-       y="890.18616"
+       y="896.18616"
        id="tspan65">workflows</tspan><tspan
        sodipodi:role="line"
        x="-254.28525"
-       y="907.68616"
+       y="913.68616"
        id="tspan78"
        style="fill:#c41e3a;fill-opacity:1">GitHub Copilot CLI GA</tspan><tspan
        sodipodi:role="line"
        x="-254.28525"
-       y="925.18616"
+       y="931.18616"
        style="fill:#000000;fill-opacity:1"
        id="tspan7">Qwen 3.5b &amp; Qwen3-coder-next</tspan></text>
   <text
-     x="-315.06558"
-     y="956.31152"
+     x="-337.38281"
+     y="976.35052"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
      fill="#333333"
      font-family="'Silent People'"
-     id="text40-3-1"><tspan
+     id="text40-3-76"><tspan
        sodipodi:role="line"
        id="tspan62-1"
-       x="-315.06558"
-       y="956.31152">June 2026</tspan><tspan
+       x="-337.38281"
+       y="976.35052">June 2026</tspan><tspan
        sodipodi:role="line"
-       x="-315.06558"
-       y="973.81152"
-       id="tspan65-2">GitHub pricing changes</tspan><tspan
+       x="-337.38281"
+       y="993.85052"
+       id="tspan65-2">GitHub </tspan><tspan
        sodipodi:role="line"
-       x="-315.06558"
-       y="991.31152"
-       id="tspan78-7"
-       style="fill:#c41e3a;fill-opacity:1">Mythos &amp; Fable released&gt;suspended&gt;released!</tspan><tspan
+       x="-337.38281"
+       y="1011.3505"
+       id="tspan78-3"
+       style="fill:#c41e3a;fill-opacity:1">GitHub Copilot Pricing changes</tspan><tspan
        sodipodi:role="line"
-       x="-315.06558"
-       y="1008.8115"
+       x="-337.38281"
+       y="1028.8506"
        style="fill:#000000;fill-opacity:1"
-       id="tspan7-6">hacking and jailbreak reports</tspan></text>
+       id="tspan7-2">Qwen 3.5b &amp; Qwen3-coder-next</tspan></text>
   <text
      x="-326.28082"
-     y="832.06378"
+     y="838.06378"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -852,14 +876,14 @@
        sodipodi:role="line"
        id="tspan66"
        x="-326.28082"
-       y="832.06378">Feb-Apr 2026</tspan><tspan
+       y="838.06378">Feb-Apr 2026</tspan><tspan
        sodipodi:role="line"
        id="tspan67"
        x="-326.28082"
-       y="849.56378">Squad</tspan></text>
+       y="855.56378">Squad</tspan></text>
   <text
      x="-397.28799"
-     y="877.52783"
+     y="883.52783"
      font-size="14px"
      font-weight="bold"
      text-anchor="middle"
@@ -869,14 +893,14 @@
        sodipodi:role="line"
        id="tspan74"
        x="-397.28799"
-       y="877.52783">Apr 2026</tspan><tspan
+       y="883.52783">Apr 2026</tspan><tspan
        sodipodi:role="line"
        id="tspan75"
        x="-397.28799"
-       y="895.02783">Google</tspan><tspan
+       y="901.02783">Google</tspan><tspan
        sodipodi:role="line"
        x="-397.28799"
-       y="912.52783"
+       y="918.52783"
        id="tspan76">Gemma 4</tspan></text>
   <metadata
      id="metadata1">
@@ -890,7 +914,7 @@
   <!--Pause:UntilPlay-->
   <path
      style="opacity:1;fill:none;fill-opacity:1;stroke:#17d2e2;stroke-width:19;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.26873"
-     d="M 142.01439,860.14748 C 88.776455,852.80791 37.7638,845.46121 -26.278054,837.93797 c -54.757853,-3.89864 -78.722006,-4.3344 -135.466026,-0.25823"
+     d="M 142.01439,866.14748 C 88.776455,858.80791 37.7638,851.46121 -26.278054,843.93797 c -54.757853,-3.89864 -78.722006,-4.3344 -135.466026,-0.25823"
      id="path1"
      sodipodi:nodetypes="ccc" />
 </svg>

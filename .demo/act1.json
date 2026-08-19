@@ -3,6 +3,7 @@
   "title": "act1",
   "description": "",
   "version": 3,
+  "timer": 45,
   "scenes": [
     {
       "id": "scene-mod4n3ls-1udn",
@@ -168,7 +169,8 @@
       ],
       "notes": {
         "path": "notes/demo-mozgn1sk-3k0b_notes.md"
-      }
+      },
+      "disabled": true
     },
     {
       "id": "demo-mp7gkdhl-taed",
@@ -181,7 +183,8 @@
       ],
       "notes": {
         "path": "notes/demo-mozgn1sk-3k0b_notes.md"
-      }
+      },
+      "disabled": true
     },
     {
       "id": "demo-mon2je3b-ea92",
@@ -327,6 +330,33 @@
       }
     },
     {
+      "id": "demo-dark-1",
+      "title": "the-dark-side",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/the-dark-side.md"
+        }
+      ],
+      "notes": {
+        "path": "notes/demo-dark-1_notes.md"
+      },
+      "disabled": false
+    },
+    {
+      "id": "demo-mszxb2ix-d9px",
+      "title": "harness-development",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/harness-development.md"
+        }
+      ],
+      "notes": {
+        "path": "notes/demo-mszxb2ix-d9px_notes.md"
+      }
+    },
+    {
       "id": "demo-mp600zjq-blcq",
       "title": "squad 2",
       "moves": [
@@ -457,20 +487,6 @@
           "path": ".demo/slides/improvements-needed.md"
         }
       ]
-    },
-    {
-      "id": "demo-dark-1",
-      "title": "the-dark-side",
-      "moves": [
-        {
-          "action": "openSlide",
-          "path": ".demo/slides/the-dark-side.md"
-        }
-      ],
-      "notes": {
-        "path": "notes/demo-dark-1_notes.md"
-      },
-      "disabled": true
     },
     {
       "id": "demo-retro-1",

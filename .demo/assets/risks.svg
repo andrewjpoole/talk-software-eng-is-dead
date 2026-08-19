@@ -6,7 +6,7 @@
    viewBox="-476.871 507.855 948.714 527.944"
    id="svg1"
    sodipodi:docname="risks.svg"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -104,7 +104,7 @@
        x="-442.42087"
        y="653.26453"
        sodipodi:role="line"
-       id="tspan5">- security</tspan></text>
+       id="tspan5">- security breaches</tspan></text>
   <path
      id="STROKE_7bffc11c-55f5-4acb-a5c3-fb3aba9d725c-4-8-2"
      opacity="0.249"
@@ -114,7 +114,7 @@
      stroke-opacity="0.249"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="m -431.19566,642.61042 c 8.67344,0.46719 117.1914,0.4845 123.25885,0.62282"
+     d="m -406.1291,642.0136 c 8.67344,0.46719 222.23225,0.4845 228.2997,0.62282"
      style="stroke:#17d2e2;stroke-width:41.179;stroke-dasharray:none;stroke-opacity:0.739558"
      sodipodi:nodetypes="cc" />
   <!--Pause:UntilPlay-->
@@ -130,7 +130,6 @@
        sodipodi:role="line"
        id="tspan9">- cognitive or comprehension debt</tspan></text>
   <!--Pause:UntilPlay-->
-  <!--Pause:UntilPlay-->
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
@@ -141,7 +140,19 @@
        style="stroke-width:19"
        x="-447.79227"
        y="853.5152"
-       id="tspan7">- something really bad happening...</tspan></text>
+       id="tspan7">- overconfidently presented sweeping changes, causing bugs!</tspan></text>
+  <!--Pause:UntilPlay-->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Silent People';-inkscape-font-specification:'Silent People';writing-mode:lr-tb;direction:ltr;opacity:0.768879;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19"
+     x="-445.09378"
+     y="947.68817"
+     id="textP4-8"><tspan
+       sodipodi:role="line"
+       style="stroke-width:19"
+       x="-445.09378"
+       y="947.68817"
+       id="tspan7-9">- something really bad happening...</tspan></text>
   <metadata
      id="metadata5">
     <rdf:RDF>
