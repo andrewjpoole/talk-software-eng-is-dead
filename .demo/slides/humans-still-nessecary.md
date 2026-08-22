@@ -2,5 +2,5 @@
 customLayout: .demo/layouts/animated-diagram.html
 filePath: .demo/assets/humans-still-nessecary.svg
 invert: true
-speed: 3500
+speed: 1000
 ---

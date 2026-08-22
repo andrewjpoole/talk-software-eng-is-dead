@@ -10,7 +10,7 @@
 ## arms race
 
 - escalating, competitive rivalry between two or more parties
-- reactionary measures to obtain or maintain the top spot
+- reactionary measures to obtain/maintain the top spot
 - happening in model and tooling vendors
 - also to some extent in enterprise more widely
 - commercial FOMO/ fear of falling behind
