@@ -1,10 +1,5 @@
-# Notes for kubler-ross-change-curve
-
-- grief
-- big changes in life and work
+- grief | big changes in life and work
 - enterprise re-structures etc (which no-one ever actually measures)
-
-## stages
 
 - Shock
 - Denial (disbelief, looking for evidence that it isn't true)

@@ -1,8 +1,6 @@
-# Notes for hype-cycle
-
 ## gold rush
 
-- 1850s, prospectors flocked to Sierra Nevada foothills to pan for gold
+- 1850s, thousands of prospectors flocked to Sierra Nevada foothills to pan for gold
 - none found any
 - mining companies followed later, slower, more dangerous process
 - 'Picks and shovels' outfits, selling tools and infra are biggest winners
