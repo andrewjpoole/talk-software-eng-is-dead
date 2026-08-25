@@ -1,18 +1,15 @@
-# Notes for quebec-bridge-2
-
 - rocked the engineering community
 - Mining engineer, inventor, professor
+- myth: made from steel from the collapsed bridge
 
 - lack of professional body, pace of change too fast
 - unregulated capitalism is ill-equipped to protect scociety from bad decisions
 - sometimes industries do something even when they know its the wrong thing to do
-	- e.g. Tobacco (cancer)
-    - Fossil Fuel (climate change)
-    - Phamaceutical (opioid pankillers/addition)
-    - Forever chemicals (3M & DuPont toxic non-stick and water repellant coatings)
-    - Automotive industry (fuel tank fires, faulty ignition switches. diesel emmissions)
-    - Social Media (mental heath/addiction)
-    - Food & Beverage (sugar/obesity)
+- Tobacco (cancer) | Fossil Fuel (climate change)
+- Phamaceutical (opioid pankillers/addition)
+- Forever chemicals (3M & DuPont toxic non-stick and water repellant coatings)
+- Automotive industry (fuel tank fires, faulty ignition switches. diesel emmissions)
+- Social Media (mental heath/addiction) | Food & Beverage (sugar/obesity)
 
 - There have been instances of deaths caused by software
     - Toyota Unintended Acceleration (2005–2010) possibly 89 fatalities

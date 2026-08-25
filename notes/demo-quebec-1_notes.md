@@ -1,11 +1,8 @@
-# Notes for quebec-bridge
-
-- St Lawrence river, 3.2km wide at narrowest, 58m deep, fast flowing, 5m tidal range
 - Main trade channel for Quebec, Commercial competition with Montreal
 - prestigous project, largest of kind in world
 - Dodgy tendering decisions
 - Span length changed without recalculating stresses May 1900
-- Assistant deposed for opposition to the calculations July 1903
+- Assistant sacked for opposition to the calculations July 1903
 - noticable midpoint deflections observed, June 1907
 - predrilled rivet holes not lining up
 - disputes, chords bent during manufacture/before install
