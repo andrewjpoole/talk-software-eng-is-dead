@@ -346,6 +346,19 @@
       }
     },
     {
+      "id": "demo-mt8fiomk-w950",
+      "title": "quebec-bridge-3",
+      "moves": [
+        {
+          "action": "openSlide",
+          "path": ".demo/slides/quebec-bridge-3.md"
+        }
+      ],
+      "notes": {
+        "path": "notes/demo-mt8fiomk-w950_notes.md"
+      }
+    },
+    {
       "id": "demo-dark-1",
       "title": "the-dark-side",
       "moves": [
@@ -416,7 +429,10 @@
           "action": "openSlide",
           "path": ".demo/slides/case-study-1.md"
         }
-      ]
+      ],
+      "notes": {
+        "path": "notes/demo-mops1qtj-bkm9_notes.md"
+      }
     },
     {
       "id": "demo-mopsv665-vvlm",
